@@ -4,7 +4,7 @@ date: 2024-06-26
 description: "Links to my various Projects"
 ---
 
-### The Toolkit.
+### Xero-Toolkit.
 
 This toolkit aims to be an _all-in-one_ solution for post-installation, expediting your Arch setup. Check out the [**Wiki**](https://wiki.xerolinux.xyz/xlapit/) for more detailed information.
 
@@ -20,13 +20,21 @@ It's the best **KDE** rice I have ever created, in my opinion. If you want to en
 
 {{< github repo="xerolinux/xero-layan-git" >}}
 
-### Xero-Plasma Install Script
+### Xero-Plasma Install
 
 With the help of this script you will be able to install **Plasma** in one of 4 methods as you can see in the image below. For more info check out the [**Wiki**](https://wiki.xerolinux.xyz/plasma/)
 
 {{< figure src="https://i.imgur.com/rVvTimG.png" alt="Tech" class="center-image" >}}
 
 {{< github repo="xerolinux/xero-plasma" >}}
+
+### Cosmic-Alpha Install
+
+With the help of this script you will be able to install **Cosmic Epoch** in one of 3 methods as you can see in the image below. For more info check out the [**Wiki**](https://wiki.xerolinux.xyz/cosmic/)
+
+{{< figure src="https://i.imgur.com/25GmaOr.png" alt="Tech" class="center-image" >}}
+
+{{< github repo="xerolinux/cosmic-xero" >}}
 
 ### Wrapping up
 
