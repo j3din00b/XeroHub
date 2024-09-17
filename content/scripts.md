@@ -12,7 +12,7 @@ This toolkit aims to be an _all-in-one_ solution for post-installation, expediti
 
 {{< github repo="xerolinux/xlapit-cli" >}}
 
-### Xero-Layan Rice
+### Layan Rice
 
 It's the best **KDE** rice I have ever created, in my opinion. If you want to enjoy said rice on your system, check out the [**Wiki**](https://wiki.xerolinux.xyz/rice/) 😀
 
@@ -20,7 +20,7 @@ It's the best **KDE** rice I have ever created, in my opinion. If you want to en
 
 {{< github repo="xerolinux/xero-layan-git" >}}
 
-### Xero-Plasma Install
+### Xero-Plasma
 
 With the help of this script you will be able to install **Plasma** in one of 4 methods as you can see in the image below. For more info check out the [**Wiki**](https://wiki.xerolinux.xyz/plasma/)
 
@@ -28,7 +28,7 @@ With the help of this script you will be able to install **Plasma** in one of 4 
 
 {{< github repo="xerolinux/xero-plasma" >}}
 
-### Cosmic-Alpha Install
+### Cosmic-Alpha
 
 With the help of this script you will be able to install **Cosmic Epoch** in one of 3 methods as you can see in the image below. For more info check out the [**Wiki**](https://wiki.xerolinux.xyz/cosmic/)
 
@@ -38,7 +38,7 @@ With the help of this script you will be able to install **Cosmic Epoch** in one
 
 ### Wrapping up
 
-While my tools are great and offer amazing flexibility and total freedom of choice, they are not intended for everyone. For one, they only target **ArchLinux** with a profile fix just for **KDE Plasma**, for two, they heavily rely on your knowledge in using **Linux**.
+While my tools are great and offer amazing flexibility and total freedom of choice, they are not intended for everyone. For one, they only target **ArchLinux**, for two, they heavily rely on your knowledge in using **Linux**.
 
 If you prefer the GUI route, you can always check out our Distro or any other one for that matter. There is no harm in doing that. It's all about choice. I will never force you to use my tools. You are entitled to your own preferences. Who am I to judge you for your choices ?
 
