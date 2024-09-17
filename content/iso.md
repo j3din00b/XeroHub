@@ -24,7 +24,7 @@ You can use the included [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/),
 
 It's for all of you out there, who prefer an easier way to install **Arch** and are fans of the **KDE** Desktop Environment, and feel like supporting my work financially while getting something in return. Thanks to those who do.
 
-If you prefer not to, or can't,it's not an issue at all. You can always use **ArchInstall** in combination with my **PlasmaInstall** scripts to achieve a *similar* result.
+If you prefer not to, or can't,it's not an issue at all. You can always use the included  **ArchInstall** in combination with my **PlasmaInstall** scripts to achieve a *similar* result.
 
 {{< article link="/news/xerolinux-plasma/" >}}
 
