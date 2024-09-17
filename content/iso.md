@@ -4,7 +4,7 @@ date: 2024-08-12
 description: "Download The XeroLinux ISO"
 ---
 
-As you can see, after thinking long and hard, I have decided to revive the Distro. Only this time it's a bit different.<br />
+<br />
 
 {{< youtube lsYg6-wUWXw >}}<br />
 
