@@ -20,11 +20,11 @@ In short, it's just an alternative to the [**Plasma Install Script**](https://wi
 
 You can use the included [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/), 1st icon with my logo in the Dock, to configure it, keeping in mind that some of the features were already applied to the ISO.
 
-What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. I’ve handled the main setup and included the *Toolkit*, but things like drivers and additional configuration will be up to you. That’s the essence of **ArchLinux**, it’s a distribution built for those who prefer a *Do-It-Yourself* (DIY) approach. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention. Please don’t grab it unless you're prepared to put in the work to make it your own.
+What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. I’ve handled the main setup and included the *Toolkit*, but things like drivers and additional configuration will be up to you. That’s the essence of **ArchLinux**, a *Do-It-Yourself* distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention. Please don’t grab it unless you're prepared to put in the work to make it your own.
 
 ### Who ist it for
 
-It's for all of you out there, who prefer an easier way to install **Arch** and are fans of the **KDE** Desktop Environment, and feel like supporting my work financially while getting something in return. Thanks to those who do.
+It's designed for those who appreciate the *Do-It-Yourself* (DIY) approach, with an easier way to install **Arch** and the **KDE** Desktop Environment, while also offering a way to support my work financially and get something in return. A big thanks to those who choose to contribute!
 
 If you prefer not to, or can't,it's not an issue at all. You can always use the included  **ArchInstall** in combination with my **PlasmaInstall** scripts to achieve a *similar* result.
 
