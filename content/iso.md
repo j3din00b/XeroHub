@@ -20,7 +20,7 @@ In short, it's just an alternative to the [**Plasma Install Script**](https://wi
 
 You can use the included [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/), 1st icon with my logo in the Dock, to configure it, keeping in mind that some of the features were already applied to the ISO.
 
-What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. I’ve handled the main setup and included the *Toolkit*, but things like drivers and additional configuration will be up to you. That’s the essence of **ArchLinux**, a *Do-It-Yourself* distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention. Please don’t grab it unless you're prepared to put in the work to make it your own.
+What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. While I’ve taken care of the main setup process and included the *Toolkit*, things like drivers and additional configuration, making it your own will be up to you. That’s the essence of **ArchLinux**, a *Do-It-Yourself* distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.
 
 ### Who is Distro for
 
