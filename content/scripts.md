@@ -12,7 +12,7 @@ While my tools are great and offer amazing flexibility and total freedom of choi
 
 They are indexed below with links to their respective *Source Code* and *Wikis*.
 
-### Xero-Toolkit.
+### Xero-Toolkit
 
 Check out the *Source Code* below. For more info, screenshots and setup check out the [**Toolkit Wiki**](https://wiki.xerolinux.xyz/xlapit/).
 
