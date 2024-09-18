@@ -18,7 +18,9 @@ In short, it's just an alternative to the [**Plasma Install Script**](https://wi
 
 ![SS](https://i.imgur.com/ejZ1ZQv.png)
 
-You can use the included [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/), 1st icon with my logo in the Dock, to configure it, keeping in mind that some of the features were already applied to the ISO. I have also taken the liberty of including the [**Chaotic-AUR**](https://aur.chaotic.cx) repository so it's easier for you to install **AUR** packages rather from having to compile them.
+You can use the included [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/), 1st icon with my logo in the Dock, to configure it, keeping in mind that some of the features were already applied to the ISO.
+
+What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. I’ve handled the main setup and included the *Toolkit*, but things like drivers and additional configuration will be up to you. That’s the essence of **ArchLinux**, it puts you in control. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention. Please don’t grab it unless you're prepared to put in the work to make it your own.
 
 ### Who ist it for
 
