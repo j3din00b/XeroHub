@@ -32,7 +32,7 @@ If you prefer not to, or can't,it's not an issue at all. You can always use the 
 
 It will be a bit more complex, but will never cost you anything and the code will forever be made available to fork and modify to your liking.
 
-### How To get the ISO
+### How To get ISO
 
 In order to get it, please click the button below to get redirected to the **Ko-Fi Store** page where you will be able to donate however much you want starting from $6 onwards, and you will receive a confirmation e-mail, with a link to a special directory containing the ISO on [**Mega.nz**](https://mega.nz) with the Decryption key required to access it.
 
