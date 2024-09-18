@@ -22,7 +22,7 @@ You can use the included [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/),
 
 What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. I’ve handled the main setup and included the *Toolkit*, but things like drivers and additional configuration will be up to you. That’s the essence of **ArchLinux**, a *Do-It-Yourself* distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention. Please don’t grab it unless you're prepared to put in the work to make it your own.
 
-### Who ist it for
+### Who is it for
 
 It's designed for those who appreciate the *Do-It-Yourself* (DIY) approach, with an easier way to install **Arch** and the **KDE** Desktop Environment, while also offering a way to support my work financially and get something in return. A big thanks to those who choose to contribute!
 
