@@ -20,7 +20,7 @@ In short, it's just an alternative to the [**Plasma Install Script**](https://wi
 
 You can use the included [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/), 1st icon with my logo in the Dock, to configure it, keeping in mind that some of the features were already applied to the ISO.
 
-What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. I’ve handled the main setup and included the *Toolkit*, but things like drivers and additional configuration will be up to you. That’s the essence of **ArchLinux**, it puts you in control. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention. Please don’t grab it unless you're prepared to put in the work to make it your own.
+What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. I’ve handled the main setup and included the *Toolkit*, but things like drivers and additional configuration will be up to you. That’s the essence of **ArchLinux**, it’s a distribution built for those who prefer a *Do-It-Yourself* (DIY) approach. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention. Please don’t grab it unless you're prepared to put in the work to make it your own.
 
 ### Who ist it for
 
@@ -32,15 +32,19 @@ If you prefer not to, or can't,it's not an issue at all. You can always use the 
 
 It will be a bit more complex, but will never cost you anything and the code will forever be made available to fork and modify to your liking.
 
+### Is it any Special
+
+This is a common question I get. To be honest, there’s no groundbreaking advantage—it simply provides an easier way to install Arch with a polished KDE experience right out of the box, which many users seem to appreciate. I created it specifically for them, as an alternative to my DIY install script, and as a way for you to support my journey.
+
 ### How can I get it
 
 In order to get it, please click the button below to get redirected to the **Ko-Fi Store** page where you will be able to donate however much you want starting from $6 onwards, and you will receive a confirmation e-mail, with a link to a special directory containing the ISO on [**Mega.nz**](https://mega.nz) with the Decryption key required to access it.
 
 <div align="center">
 
-🔐 {{< button href="https://ko-fi.com/s/cf9def9630" target="_blank" >}}
+{{< button href="https://ko-fi.com/s/cf9def9630" target="_blank" >}}
 XeroLinux ISO Access
-{{< /button >}} 🔐
+{{< /button >}}
 
 </div>
 
