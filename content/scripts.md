@@ -4,44 +4,48 @@ date: 2024-06-26
 description: "Links to my various Projects"
 ---
 
+### Information
+
+In the course of my **Linux** journey, I decided to put my knowledge into useful scripts. Providing ways to set up various DEs, Themes, and even a full fledged *Post-Install Toolkit* for easy **Arch Setup**.
+
+While my tools are great and offer amazing flexibility and total freedom of choice, they are not intended for everyone. For one, they only target **ArchLinux**, for two, they heavily rely on your knowledge in using **Linux**.
+
+They are indexed below with links to their respective *Source Code* and *Wikis*.
+
 ### Xero-Toolkit.
 
-This toolkit aims to be an _all-in-one_ solution for post-installation, expediting your Arch setup. Check out the [**Wiki**](https://wiki.xerolinux.xyz/xlapit/) for more detailed information.
-
-{{< figure src="https://i.imgur.com/JuWceYE.png" alt="specs" class="center-image" >}}
+Check out the *Source Code* below. For more info, screenshots and setup check out the [**Toolkit Wiki**](https://wiki.xerolinux.xyz/xlapit/).
 
 {{< github repo="xerolinux/xlapit-cli" >}}
 
-### Layan Rice
-
-It's the best **KDE** rice I have ever created, in my opinion. If you want to enjoy said rice on your system, check out the [**Wiki**](https://wiki.xerolinux.xyz/rice/) 😀
-
-{{< figure src="https://i.imgur.com/VA2tycb.jpeg" alt="specs" class="center-image" >}}
-
-{{< github repo="xerolinux/xero-layan-git" >}}
-
 ### Xero-Plasma
 
-With the help of this script you will be able to install **Plasma** in one of 4 methods as you can see in the image below. For more info check out the [**Wiki**](https://wiki.xerolinux.xyz/plasma/)
-
-{{< figure src="https://i.imgur.com/rVvTimG.png" alt="Tech" class="center-image" >}}
+Check out the *Source Code* below. For more info, screenshots and setup check out the [**Script Wiki**](https://wiki.xerolinux.xyz/plasma/).
 
 {{< github repo="xerolinux/xero-plasma" >}}
 
 ### Cosmic-Alpha
 
-With the help of this script you will be able to install **Cosmic Epoch** in one of 3 methods as you can see in the image below. For more info check out the [**Wiki**](https://wiki.xerolinux.xyz/cosmic/)
-
-{{< figure src="https://i.imgur.com/25GmaOr.png" alt="Tech" class="center-image" >}}
-
+Check out the *Source Code* below. For more info, screenshots and setup check out the [**Script Wiki**](https://wiki.xerolinux.xyz/cosmic/)
+.
 {{< github repo="xerolinux/cosmic-xero" >}}
 
-### Wrapping up
+### Xero Layan Rice
 
-While my tools are great and offer amazing flexibility and total freedom of choice, they are not intended for everyone. For one, they only target **ArchLinux**, for two, they heavily rely on your knowledge in using **Linux**.
+Check out the *Source Code* below. For more info, screenshots and setup check out the [**Rice Wiki**](https://wiki.xerolinux.xyz/rice/).
+
+{{< github repo="xerolinux/xero-layan-git" >}}
+
+### X Grub Themes
+
+Check out the *Source Code* below. For more info, screenshots and setup check out the [**Grub Wiki**](https://wiki.xerolinux.xyz/grub/).
+
+{{< github repo="xerolinux/xero-grubs" >}}
+
+### Wrapping it up
 
 If you prefer the GUI route, you can always check out our Distro or any other one for that matter. There is no harm in doing that. It's all about choice. I will never force you to use my tools. You are entitled to your own preferences. Who am I to judge you for your choices ?
 
 In case you are as much of a *Linux G33k* as I am, then those tools were created with you in mind.
 
-Have fun & let me know how it goes.
+Have fun & let me know how it goes 😀

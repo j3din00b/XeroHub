@@ -8,15 +8,15 @@ name = "Projects"
 weight = 20
 
 [[main]]
-name = "Scripts"
-parent = "Projects"
-pageRef = "scripts"
-weight = 25
-
-[[main]]
 name = "Distro"
 parent = "Projects"
 pageRef = "iso"
+weight = 25
+
+[[main]]
+name = "Scripts"
+parent = "Projects"
+pageRef = "scripts"
 weight = 30
 
 [[main]]
