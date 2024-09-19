@@ -131,6 +131,8 @@
 
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;paru/yay: error &lt;span class=&#34;k&#34;&gt;while&lt;/span&gt; loading shared libraries: libalpm.so.14: cannot open shared object file: No such file or directory
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Just in case you use an &lt;strong&gt;AUR&lt;/strong&gt; helper, you will need to either recompile it since &lt;code&gt;libalpm.so&lt;/code&gt; was updated to version 15. If you are using the &lt;code&gt;-git&lt;/code&gt; version, otherwise if you are using the normal or &lt;code&gt;-bin&lt;/code&gt; versions you will need to wait for them to get updated. Or switch to &lt;code&gt;-git&lt;/code&gt; (not very recommended), up to you.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S paru-git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Agree and replace one with the other. Have fun ;)&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;Makepkg / Rust 

@@ -110,7 +110,7 @@
     "keywords": ["Pacman","AUR","Arch","Guide","Linux"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "738"
+    "wordCount": "752"
   }]
   </script>
 
@@ -1387,6 +1387,8 @@
 
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Bash" data-lang="Bash"><span class="line"><span class="cl">paru/yay: error <span class="k">while</span> loading shared libraries: libalpm.so.14: cannot open shared object file: No such file or directory
 </span></span></code></pre></div><p>Just in case you use an <strong>AUR</strong> helper, you will need to either recompile it since <code>libalpm.so</code> was updated to version 15. If you are using the <code>-git</code> version, otherwise if you are using the normal or <code>-bin</code> versions you will need to wait for them to get updated. Or switch to <code>-git</code> (not very recommended), up to you.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Bash" data-lang="Bash"><span class="line"><span class="cl">sudo pacman -S paru-git
+</span></span></code></pre></div><p>Agree and replace one with the other. Have fun ;)</p>
 
 
 <h3 class="relative group">Makepkg / Rust 

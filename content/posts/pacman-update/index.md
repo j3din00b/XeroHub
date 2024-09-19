@@ -66,6 +66,12 @@ paru/yay: error while loading shared libraries: libalpm.so.14: cannot open share
 
 Just in case you use an **AUR** helper, you will need to either recompile it since `libalpm.so` was updated to version 15. If you are using the `-git` version, otherwise if you are using the normal or `-bin` versions you will need to wait for them to get updated. Or switch to `-git` (not very recommended), up to you.
 
+```Bash
+sudo pacman -S paru-git
+```
+
+Agree and replace one with the other. Have fun ;)
+
 ### Makepkg / Rust
 
 A few other changes were introduced with this update, especially if you compile your own packages. One of the affected files is `makepkg.conf` which contains the flags and packager info.
