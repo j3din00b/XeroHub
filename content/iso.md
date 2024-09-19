@@ -26,9 +26,7 @@ What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of 
 
 It's designed for those who appreciate the *Do-It-Yourself* (DIY) approach, with an easier way to install **Arch** and the **KDE** Desktop Environment, while also offering a way to support my work financially and get something in return. A big thanks to those who choose to contribute!
 
-If you prefer not to, or can't,it's not an issue at all. You can always use the included  **ArchInstall** in combination with my **PlasmaInstall** scripts to achieve a *similar* result.
-
-{{< article link="/news/xerolinux-plasma/" >}}
+If you prefer not to, or can't,it's not an issue at all. You can always use the included  **ArchInstall** in combination with my [**PlasmaInstall**](https://wiki.xerolinux.xyz/plasma/) scripts to achieve a *similar* result.
 
 It will be a bit more complex, but will never cost you anything and the code will forever be made available to fork and modify to your liking.
 
