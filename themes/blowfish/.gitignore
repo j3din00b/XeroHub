@@ -22,7 +22,6 @@ exampleSite/resources/
 # vendor/
 
 #others
-README.md
 node_modules
 .hugo_build.lock
 
@@ -33,5 +32,6 @@ node_modules
 .Spotlight-V100
 .Trashes
 .idea
+*.md
 .Ulysses-Group.plist
 .Ulysses-Settings.plist
