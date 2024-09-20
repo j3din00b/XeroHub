@@ -14,21 +14,13 @@ description: "Download The XeroLinux ISO"
 
 ### What is XeroLinux
 
-In short, it's just an alternative to the [**Plasma Install Script**](https://wiki.xerolinux.xyz/plasma/) script, making it easier to install **Arch**, bypassing the need for **ArchInstall**. The ISO includes my toolkit as well as my famous [**Xero Layan Rice**](https://wiki.xerolinux.xyz/rice/) rice all-in-one shot.
+In a nutshell, this ISO bundles all my scripts, toolkit, and custom rice into a seamless, easy-to-install package, skipping the hassle of running the **ArchInstall** script entirely. No more, no less.
 
 ![SS](https://i.imgur.com/ejZ1ZQv.png)
 
-You can use the included [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/), 1st icon with my logo in the Dock, to configure it, keeping in mind that some of the features were already applied to the ISO.
+You can easily configure everything using the built-in [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/), just look for the first icon with my logo in the Dock. Keep in mind, though, that some features have already been applied in the ISO, so you're all set for a smooth experience from the start.
 
 What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. While I’ve taken care of the main setup process and included the *Toolkit*, things like drivers and additional configuration, making it your own will be up to you. That’s the essence of **ArchLinux**, a *Do-It-Yourself* distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.
-
-### Who is Distro for
-
-It's designed for those who appreciate the *Do-It-Yourself* (DIY) approach, with an easier way to install **Arch** and the **KDE** Desktop Environment, while also offering a way to support my work financially and get something in return. A big thanks to those who choose to contribute!
-
-If you prefer not to, or can't,it's not an issue at all. You can always use the included  **ArchInstall** in combination with my [**PlasmaInstall**](https://wiki.xerolinux.xyz/plasma/) scripts to achieve a *similar* result.
-
-It will be a bit more complex, but will never cost you anything and the code will forever be made available to fork and modify to your liking.
 
 ### How To get ISO
 
@@ -42,7 +34,9 @@ XeroLinux ISO Access
 
 </div>
 
-All I ask for, is for you not to share it with anyone. Otherwise you will be hurting the project making it harder for me to maintain. I am only one man doing all this for you, not a team. Thank you for being supportive.
+If you prefer not to, or can't,it's not an issue at all. You can always use the included  **ArchInstall** in combination with my [**PlasmaInstall**](https://wiki.xerolinux.xyz/plasma/) scripts to achieve a *similar* result.
+
+It will be a bit more complex, but will never cost you anything and the code will forever be made available to fork and modify to your liking.
 
 ### Wrapping up
 
