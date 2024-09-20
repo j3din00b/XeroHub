@@ -30,7 +30,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 sudo pacman -S ollama && sudo systemctl enable --now ollama
 ```
 
-Now that we have the engine installed, it's time to grab the model we want to use with it, as without one it will not work properly. There are quite a few varying in size, be mindful of that.
+Now that we have the engine installed, it's time to grab the model we want to use with it, since without one it will not work properly. There are quite a few varying in size, be mindful of that.
 
 We can select model(s) from [**This Link**](https://github.com/ollama/ollama?tab=readme-ov-file#model-library), once we have it we use the following command to install and run (using llama3.1 in this example)...
 
@@ -40,11 +40,15 @@ ollama run llama3.1
 
 Some models are larger than others, reaching up to 232GB !!! Also the bigger the model is the more powerful your machine should be to handle it. Please keep that in mind before diving too deep into it.
 
-Oh and as mentioned by **DT** in the video, you can take it to the next level by csutomizing it, making it react using different personas, like **Mario** or any of the available ones. This is just a quirk not very useful. If you want to know how, check it out on project's **Github**
+<p align="center">
+    <img src="https://i.imgur.com/RO64NWD.png" alt="shot">
+</p>
+
+Oh and as mentioned by **DT** in the video, you can take it to the next level by customizing it, making it react using different personas, like **Mario** or any of the available ones. This is just a quirk not very useful. If you want to know how, check it out on project's **Github**
 
 {{< github repo="ollama/ollama" >}}
 
-### Wrapping up
+### Wrap up
 
 That's it. There's nothing to it. A.I. is where the world is headed so I thought I'd share this with y'all. It's fun to try new things, keeping up with technology. If you have any questions or issues please report them to the Devs upstream.
 

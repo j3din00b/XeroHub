@@ -45,11 +45,14 @@
 &lt;li&gt;ArchLinux (All Spins)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S ollama &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; --now ollama
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now that we have the engine installed, it&amp;rsquo;s time to grab the model we want to use with it, as without one it will not work properly. There are quite a few varying in size, be mindful of that.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now that we have the engine installed, it&amp;rsquo;s time to grab the model we want to use with it, since without one it will not work properly. There are quite a few varying in size, be mindful of that.&lt;/p&gt;
 &lt;p&gt;We can select model(s) from &lt;a href=&#34;https://github.com/ollama/ollama?tab=readme-ov-file#model-library&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;This Link&lt;/strong&gt;&lt;/a&gt;, once we have it we use the following command to install and run (using llama3.1 in this example)&amp;hellip;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ollama run llama3.1
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Some models are larger than others, reaching up to 232GB !!! Also the bigger the model is the more powerful your machine should be to handle it. Please keep that in mind before diving too deep into it.&lt;/p&gt;
-&lt;p&gt;Oh and as mentioned by &lt;strong&gt;DT&lt;/strong&gt; in the video, you can take it to the next level by csutomizing it, making it react using different personas, like &lt;strong&gt;Mario&lt;/strong&gt; or any of the available ones. This is just a quirk not very useful. If you want to know how, check it out on project&amp;rsquo;s &lt;strong&gt;Github&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+    &lt;img src=&#34;https://i.imgur.com/RO64NWD.png&#34; alt=&#34;shot&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;Oh and as mentioned by &lt;strong&gt;DT&lt;/strong&gt; in the video, you can take it to the next level by customizing it, making it react using different personas, like &lt;strong&gt;Mario&lt;/strong&gt; or any of the available ones. This is just a quirk not very useful. If you want to know how, check it out on project&amp;rsquo;s &lt;strong&gt;Github&lt;/strong&gt;&lt;/p&gt;
 &lt;a id=&#34;github-56f532714b2f7c9707f9dc8d689abff4&#34; target=&#34;_blank&#34; href=&#34;https://github.com/ollama/ollama&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
     class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;
@@ -131,8 +134,8 @@
 &lt;/a&gt;
 
 
-&lt;h3 class=&#34;relative group&#34;&gt;Wrapping up 
-    &lt;div id=&#34;wrapping-up&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Wrap up 
+    &lt;div id=&#34;wrap-up&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
 &lt;/h3&gt;
 &lt;p&gt;That&amp;rsquo;s it. There&amp;rsquo;s nothing to it. A.I. is where the world is headed so I thought I&amp;rsquo;d share this with y&amp;rsquo;all. It&amp;rsquo;s fun to try new things, keeping up with technology. If you have any questions or issues please report them to the Devs upstream.&lt;/p&gt;
