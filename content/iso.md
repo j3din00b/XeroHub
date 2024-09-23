@@ -20,20 +20,6 @@ In a nutshell, this ISO bundles all my scripts, toolkit, and custom rice into a 
 
 You can easily configure everything using the built-in [**Xero Toolkit**](https://wiki.xerolinux.xyz/xlapit/), just look for the first icon with my logo in the Dock. Keep in mind, though, that some features have already been applied in the ISO, so you're all set for a smooth experience from the start.
 
-Since **XeroLinux** uses **KDE Plasma**, a DE that isn't very lightweight. Though it technically *will* work on low end hardware, performance will not be that great. See requirements below.
-
-**Minimum**
-
-- 4GB RAM (DDR3+)
-- 16GB HDD/SSD Storage
-- Modern iGPU (512MB vRAM)
-
-**Recommended**
-
-- 8GB+ RAM (DDR3+)
-- 32GB+ HDD/SSD Storage
-- Modern dGPU (4GB+ vRAM)
-
 What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. While I’ve taken care of the main setup process and included the *Toolkit*, things like drivers and additional configuration, making it your own will be up to you. That’s the essence of **ArchLinux**, a *Do-It-Yourself* distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.
 
 ### How To get ISO
