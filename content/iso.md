@@ -6,7 +6,7 @@ description: "Download The XeroLinux ISO"
 <br />
 
 {{< alert icon="fire" cardColor="#993350" iconColor="#1d3557" textColor="#f1faee" >}}
-**Info :** Check out the [**Release Notes**](https://github.com/XeroLinuxDev/xero-build/#-release-notes-), [**Source Code**](https://github.com/XeroLinuxDev/xero-build) and [**WiKi**](https://wiki.xerolinux.xyz/distro/).
+**Info :** Check out the [**Release Notes**](https://github.com/XeroLinuxDev/xero-build/#-release-notes-), [**Source Code**](https://github.com/XeroLinuxDev) and [**WiKi**](https://wiki.xerolinux.xyz/distro/).
 {{< /alert >}}
 
 ### What is XeroLinux
