@@ -22,8 +22,6 @@ As mentioned on a dedicated post, we will not be posting any Distro reviews or V
 
 {{< article link="/xero-news/youtube-status/" >}}
 
-I have so many great ideas in the pipeline, it's crazy !
-
 Enjoy your stay here.
 
 Cheers y'all 😀
