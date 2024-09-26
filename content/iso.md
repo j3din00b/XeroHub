@@ -3,9 +3,10 @@ title: XeroLinux ISO
 date: 2024-08-12
 description: "Download The XeroLinux ISO"
 ---
+<br />
 
 {{< alert icon="fire" cardColor="#993350" iconColor="#1d3557" textColor="#f1faee" >}}
-**Notice :** Check out the [**Release Notes**](https://github.com/XeroLinuxDev/xero-build/#-release-notes-), [**Source Code**](https://github.com/XeroLinuxDev/xero-build) and [**WiKi**](https://wiki.xerolinux.xyz/distro/) for more.
+**Info :** Check out the [**Release Notes**](https://github.com/XeroLinuxDev/xero-build/#-release-notes-), [**Source Code**](https://github.com/XeroLinuxDev/xero-build) and [**WiKi**](https://wiki.xerolinux.xyz/distro/).
 {{< /alert >}}
 
 ### What is XeroLinux
@@ -18,7 +19,7 @@ You can easily configure everything using the built-in [**Xero Toolkit**](https:
 
 {{< youtube lsYg6-wUWXw >}}
 
-What it isn't, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. While I’ve taken care of the main setup process and included the *Toolkit*, things like drivers and additional configuration, making it your own will be up to you. That’s the essence of **ArchLinux**, a *Do-It-Yourself* distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.
+What it isn't, however, is a distribution like **Ubuntu** or **Mint** that takes care of everything for you. While I’ve taken care of the main setup process and included the *Toolkit*, things like drivers and additional configuration, making it your own will be up to you. That’s the essence of **ArchLinux**, a *Do-It-Yourself* distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.
 
 ### How To get ISO
 
