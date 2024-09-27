@@ -44,7 +44,7 @@ This command changes the group ownership of your local repository files to `alpm
 
 Additionally, you will need to merge any `.pacnew` files generated during the update. These files contain new default configurations introduced with **Pacman 7.0**. Merging them ensures you’re using the latest settings and helps prevent potential conflicts.
 
-Now, I have written a simple command that will do that quickly and efficiantly, while enabling some hidden features if you haven't enabled them yet.
+Now, I have written a simple command that will do that quickly and efficiantly, while enabling some hidden features if you haven't enabled them yet. **This also avoids the need to re-add any additional repos you might have had in there**.
 
 ```Bash
 sudo sed -i '/^# Misc options/,/ParallelDownloads = [0-9]*/c\# Misc options\nColor\nILoveCandy\nCheckSpace\n#DisableSandbox\nDownloadUser = alpm\nDisableDownloadTimeout\nParallelDownloads = 10' /etc/pacman.conf
@@ -74,12 +74,12 @@ Agree and replace one with the other. Have fun ;)
 
 ### Makepkg / Rust
 
-A few other changes were introduced with this update, especially if you compile your own packages. One of the affected files is `makepkg.conf` which contains the flags and packager info.
+A few other changes were introduced with this update, especially if you compile your own packages. One of the affected files is `makepkg.conf` which contains the flags and packager info. **Do this only if you are a package maintainer**.
 
 Here's how you can merge the changes :
 
 ```Bash
-diff -u /etc/makepkg.conf /etc/makepkgconf.pacnew > diff.patch
+diff -u /etc/makepkg.conf /etc/makepkg.conf.pacnew > diff.patch
 ```
 
 This creates a file called `diff.patch` with the differences in a unified format, which is more readable and suitable for merging.
