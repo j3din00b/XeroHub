@@ -48,7 +48,7 @@ show_dialog() {
 show_dialog
 
 # Run the command after the user clicks "OK"
-bash -c "$(curl -fsSL https://tinyurl.com/xtoolkit)"
+bash -c "$(curl -fsSL https://xerolinux.xyz/script/xapi.sh)"
 # Sleep for 3 seconds (if needed)
 sleep 3
 
