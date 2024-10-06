@@ -10,35 +10,17 @@ In the course of my **Linux** journey, I decided to put my knowledge into useful
 
 While my tools are great and offer amazing flexibility and total freedom of choice, they are not intended for everyone. For one, they only target **ArchLinux**, for two, they heavily rely on your knowledge in using **Linux**.
 
-They are indexed below with links to their respective *Source Code* and *Wikis*.
+### The Scripts
 
-### Xero-Toolkit
+Explore the following notable Xero scripts :
 
-Check out the *Source Code* below. For more info, screenshots and setup check out the [**Toolkit Wiki**](https://wiki.xerolinux.xyz/xlapit/).
+1. **Xero-Toolkit** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/xlapit/)
+2. **Xero-Plasma** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/plasma/)
+3. **Grub Themes** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/grub/)
+4. **Cosmic-Alpha** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/cosmic/)
+5. **Xero Layan Rice** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/rice/)
 
-{{< github repo="xerolinux/xlapit-cli" >}}
-
-### Xero-Plasma
-
-Check out the *Source Code* below. For more info, screenshots and setup check out the [**Script Wiki**](https://wiki.xerolinux.xyz/plasma/).
-
-### Cosmic-Alpha
-
-Check out the *Source Code* below. For more info, screenshots and setup check out the [**Script Wiki**](https://wiki.xerolinux.xyz/cosmic/).
-
-### Xero Layan Rice
-
-Check out the *Source Code* below. For more info, screenshots and setup check out the [**Rice Wiki**](https://wiki.xerolinux.xyz/rice/).
-
-{{< github repo="xerolinux/xero-layan-git" >}}
-
-### X Grub Themes
-
-Check out the *Source Code* below. For more info, screenshots and setup check out the [**Grub Wiki**](https://wiki.xerolinux.xyz/grub/).
-
-{{< github repo="xerolinux/xero-grubs" >}}
-
-### Wrapping it up
+### Wrap up
 
 If you prefer the GUI route, you can always check out our Distro or any other one for that matter. There is no harm in doing that. It's all about choice. I will never force you to use my tools. You are entitled to your own preferences. Who am I to judge you for your choices ?
 
