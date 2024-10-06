@@ -22,13 +22,9 @@ Check out the *Source Code* below. For more info, screenshots and setup check ou
 
 Check out the *Source Code* below. For more info, screenshots and setup check out the [**Script Wiki**](https://wiki.xerolinux.xyz/plasma/).
 
-{{< github repo="xerolinux/xero-plasma" >}}
-
 ### Cosmic-Alpha
 
-Check out the *Source Code* below. For more info, screenshots and setup check out the [**Script Wiki**](https://wiki.xerolinux.xyz/cosmic/)
-.
-{{< github repo="xerolinux/cosmic-xero" >}}
+Check out the *Source Code* below. For more info, screenshots and setup check out the [**Script Wiki**](https://wiki.xerolinux.xyz/cosmic/).
 
 ### Xero Layan Rice
 
