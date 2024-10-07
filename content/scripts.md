@@ -15,10 +15,10 @@ While my tools are great and offer amazing flexibility and total freedom of choi
 Explore the following notable Xero scripts :
 
 1. **Xero-Toolkit** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/xlapit/)
-2. **Xero-Plasma** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/plasma/)
-3. **Xero-Gnome** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/gnome/)
+2. **Xero-Plasma** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/scripts/#kde-plasma)
+3. **Xero-Gnome** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/scripts/#gnome-wip)
 4. **Grub Themes** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/grub/)
-5. **Cosmic-Alpha** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/cosmic/)
+5. **Cosmic-Alpha** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/scripts/#cosmic-alpha)
 6. **Xero Layan Rice** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/rice/)
 
 ### Wrap up
