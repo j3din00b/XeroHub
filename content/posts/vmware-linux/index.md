@@ -7,7 +7,7 @@ tags: ["VMWare", "Virtualization", "Tools", "Linux"]
 ---
 ### Intro
 
-I understand that many of you newcomers to **Linux** from **Windows** soemtimes prefer to use **VMWare** coz that's what you are used to. Although I would highly recommend **Virt-Manager** as it's Kernel based. But for you who prefer VMWare follow the guide below..
+I understand that many of you newcomers to **Linux** from **Windows** sometimes prefer to use **VMWare** coz that's what you are used to. Although I would highly recommend **Virt-Manager** as it's Kernel based. But for you who prefer the former follow the guide below..
 
 <p align="center">
     <img src="https://i.imgur.com/FDUoyg6.png" alt="shot">
@@ -41,7 +41,7 @@ sudo systemctl enable --now vmtoolsd
 
 ### Issues
 
-If resolution does not get fixed and you are stuck at low, then you might need to install the necessary packages... Below is what you need for the various Distros out there... Reboot then run the above command...
+If resolution does not get fixed and you are stuck at low, then you might need to install the necessary packages. Below is what you need. Reboot then run the above command...
 
 - Video Drivers
 

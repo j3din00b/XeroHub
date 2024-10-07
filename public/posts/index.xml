@@ -20,7 +20,7 @@
     &lt;div id=&#34;intro&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
 &lt;/h3&gt;
-&lt;p&gt;I understand that many of you newcomers to &lt;strong&gt;Linux&lt;/strong&gt; from &lt;strong&gt;Windows&lt;/strong&gt; soemtimes prefer to use &lt;strong&gt;VMWare&lt;/strong&gt; coz that&amp;rsquo;s what you are used to. Although I would highly recommend &lt;strong&gt;Virt-Manager&lt;/strong&gt; as it&amp;rsquo;s Kernel based. But for you who prefer VMWare follow the guide below..&lt;/p&gt;
+&lt;p&gt;I understand that many of you newcomers to &lt;strong&gt;Linux&lt;/strong&gt; from &lt;strong&gt;Windows&lt;/strong&gt; sometimes prefer to use &lt;strong&gt;VMWare&lt;/strong&gt; coz that&amp;rsquo;s what you are used to. Although I would highly recommend &lt;strong&gt;Virt-Manager&lt;/strong&gt; as it&amp;rsquo;s Kernel based. But for you who prefer the former follow the guide below..&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
     &lt;img src=&#34;https://i.imgur.com/FDUoyg6.png&#34; alt=&#34;shot&#34;&gt;
 &lt;/p&gt;
@@ -50,7 +50,7 @@
     &lt;div id=&#34;issues&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
 &lt;/h3&gt;
-&lt;p&gt;If resolution does not get fixed and you are stuck at low, then you might need to install the necessary packages&amp;hellip; Below is what you need for the various Distros out there&amp;hellip; Reboot then run the above command&amp;hellip;&lt;/p&gt;
+&lt;p&gt;If resolution does not get fixed and you are stuck at low, then you might need to install the necessary packages. Below is what you need. Reboot then run the above command&amp;hellip;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Video Drivers&lt;/li&gt;
 &lt;/ul&gt;
