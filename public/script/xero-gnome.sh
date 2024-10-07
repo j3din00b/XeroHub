@@ -69,7 +69,7 @@ selective_install() {
 
 # Main menu using dialog
 main_menu() {
-  CHOICE=$(dialog --stdout --title ">> XeroLinux Gnome Install <<" --menu "\nChoose how to install Gnome" 12 60 4 \
+  CHOICE=$(dialog --stdout --title ">> XeroLinux Gnome Install <<" --menu "\nChoose how to install Gnome" 11 60 4 \
     1 "Standard : ArchInstall Default Gnome Profile." \
     2 "Curated  : Xero's Curated set of Gnome packages." \
     3 "Selective: Individual package selection (Advanced).")
