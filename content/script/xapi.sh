@@ -71,8 +71,8 @@ update_pacman_conf() {
     echo "Updating Pacman Options..."
     echo
     sudo sed -i '/^# Misc options/,/ParallelDownloads = [0-9]*/c\# Misc options\nColor\nILoveCandy\nCheckSpace\n#DisableSandbox\nDownloadUser = alpm\nDisableDownloadTimeout\nParallelDownloads = 10' /etc/pacman.conf
-    echo
-    echo "Updated /etc/pacman.conf under # Misc options"
+     echo "Updated /etc/pacman.conf under # Misc options"
+     echo
 }
 
 # Function to install and start the toolkit
