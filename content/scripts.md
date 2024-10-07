@@ -16,9 +16,10 @@ Explore the following notable Xero scripts :
 
 1. **Xero-Toolkit** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/xlapit/)
 2. **Xero-Plasma** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/plasma/)
-3. **Grub Themes** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/grub/)
-4. **Cosmic-Alpha** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/cosmic/)
-5. **Xero Layan Rice** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/rice/)
+3. **Xero-Gnome** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/gnome/)
+4. **Grub Themes** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/grub/)
+5. **Cosmic-Alpha** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/cosmic/)
+6. **Xero Layan Rice** => [🌐 Visit the Wiki](https://wiki.xerolinux.xyz/rice/)
 
 ### Wrap up
 
