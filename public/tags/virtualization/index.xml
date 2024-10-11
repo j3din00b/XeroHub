@@ -41,21 +41,18 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo modprobe -a vmw_vmci vmmon
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; --now vmware-networks.service
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; --now vmware-usbarbitrator.service
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finally there&amp;rsquo;s the matter of the Linux Guest OS, to set the correct resolution, it has to come with certain packages but in any case I will show you how to install them and enable..&lt;/p&gt;
-&lt;p&gt;To enable the service just run :&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; --now vmtoolsd
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finally there&amp;rsquo;s the matter of the Linux Guest OS, to set the correct resolution, it has to come with certain packages but in any case I will show you how to install them and enable. Not the the &lt;code&gt;xf86-video-vmware&lt;/code&gt; package is for &lt;code&gt;X11/Xorg&lt;/code&gt; only not for &lt;code&gt;Wayland&lt;/code&gt; as the name implies.&lt;/p&gt;
+&lt;p&gt;To install &amp;amp; enable the service inside Linux guest just run :&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S xf86-video-vmware open-vm-tools
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; --now vmtoolsd
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;Issues 
     &lt;div id=&#34;issues&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
 &lt;/h3&gt;
-&lt;p&gt;If resolution does not get fixed and you are stuck at low, then you might need to install the necessary packages. Below is what you need. Reboot then run the above command&amp;hellip;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Video Drivers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S xf86-video-vmware open-vm-tools
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Yet another tool to add to the arsenal&amp;hellip;&lt;/p&gt;
+&lt;p&gt;If resolution does not get fixed and you are stuck at low, then you might need consult the follwing detailed Docs (Arch) &amp;raquo; &lt;a href=&#34;https://wiki.archlinux.org/title/VMware&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;VMWare Setup&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://wiki.archlinux.org/title/VMware/Install_Arch_Linux_as_a_guest#Open-VM-Tools&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;VMTools&lt;/strong&gt;&lt;/a&gt;. If you are installing another guest, like &lt;strong&gt;Ubuntu&lt;/strong&gt;, &lt;strong&gt;Debian&lt;/strong&gt; or anything else you will have to find relevant info on your own, I only know and use &lt;strong&gt;Arch&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Yet another tool to add to the arsenal. Best of luck.&lt;/p&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/vmware-linux/featured.webp" />
     </item>
