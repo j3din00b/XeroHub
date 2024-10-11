@@ -31,7 +31,7 @@ sudo systemctl enable --now vmware-networks.service
 sudo systemctl enable --now vmware-usbarbitrator.service
 ```
 
-Finally there's the matter of the Linux Guest OS, to set the correct resolution, it has to come with certain packages but in any case I will show you how to install them and enable. Not the the `xf86-video-vmware` package is for `X11/Xorg` only not for `Wayland` as the name implies.
+Finally there's the matter of the Linux Guest OS, to set the correct resolution, it has to come with certain packages but in any case I will show you how to install them and enable. Note that the `xf86-video-vmware` package is for `X11/Xorg` only not for `Wayland` as the name implies.
 
 To install & enable the service inside Linux guest just run :
 
@@ -42,6 +42,8 @@ sudo systemctl enable --now vmtoolsd
 
 ### Issues
 
-If resolution does not get fixed and you are stuck at low, then you might need consult the follwing detailed Docs (Arch) >> [**VMWare Setup**](https://wiki.archlinux.org/title/VMware) or [**VMTools**](https://wiki.archlinux.org/title/VMware/Install_Arch_Linux_as_a_guest#Open-VM-Tools). If you are installing another guest, like **Ubuntu**, **Debian** or anything else you will have to find relevant info on your own, I only know and use **Arch**.
+If resolution does not get fixed and you are stuck at low, then you might need consult the follwing detailed Docs (Arch) >> [**VMWare Setup**](https://wiki.archlinux.org/title/VMware) or [**VMTools**](https://wiki.archlinux.org/title/VMware/Install_Arch_Linux_as_a_guest#Open-VM-Tools).
+
+If you are installing another guest, like **Ubuntu**, **Debian** or anything else you will have to find relevant info on your own, I only know and use **Arch**.
 
 Yet another tool to add to the arsenal. Best of luck.

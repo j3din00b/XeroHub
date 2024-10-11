@@ -1284,7 +1284,7 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Bash" data-lang="Bash"><span class="line"><span class="cl">sudo modprobe -a vmw_vmci vmmon
 </span></span><span class="line"><span class="cl">sudo systemctl <span class="nb">enable</span> --now vmware-networks.service
 </span></span><span class="line"><span class="cl">sudo systemctl <span class="nb">enable</span> --now vmware-usbarbitrator.service
-</span></span></code></pre></div><p>Finally there&rsquo;s the matter of the Linux Guest OS, to set the correct resolution, it has to come with certain packages but in any case I will show you how to install them and enable. Not the the <code>xf86-video-vmware</code> package is for <code>X11/Xorg</code> only not for <code>Wayland</code> as the name implies.</p>
+</span></span></code></pre></div><p>Finally there&rsquo;s the matter of the Linux Guest OS, to set the correct resolution, it has to come with certain packages but in any case I will show you how to install them and enable. Note that the <code>xf86-video-vmware</code> package is for <code>X11/Xorg</code> only not for <code>Wayland</code> as the name implies.</p>
 <p>To install &amp; enable the service inside Linux guest just run :</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Bash" data-lang="Bash"><span class="line"><span class="cl">sudo pacman -S xf86-video-vmware open-vm-tools
 </span></span><span class="line"><span class="cl">sudo systemctl <span class="nb">enable</span> --now vmtoolsd
@@ -1294,7 +1294,8 @@
     <div id="issues" class="anchor"></div>
     
 </h3>
-<p>If resolution does not get fixed and you are stuck at low, then you might need consult the follwing detailed Docs (Arch) &raquo; <a href="https://wiki.archlinux.org/title/VMware" target="_blank"><strong>VMWare Setup</strong></a> or <a href="https://wiki.archlinux.org/title/VMware/Install_Arch_Linux_as_a_guest#Open-VM-Tools" target="_blank"><strong>VMTools</strong></a>. If you are installing another guest, like <strong>Ubuntu</strong>, <strong>Debian</strong> or anything else you will have to find relevant info on your own, I only know and use <strong>Arch</strong>.</p>
+<p>If resolution does not get fixed and you are stuck at low, then you might need consult the follwing detailed Docs (Arch) &raquo; <a href="https://wiki.archlinux.org/title/VMware" target="_blank"><strong>VMWare Setup</strong></a> or <a href="https://wiki.archlinux.org/title/VMware/Install_Arch_Linux_as_a_guest#Open-VM-Tools" target="_blank"><strong>VMTools</strong></a>.</p>
+<p>If you are installing another guest, like <strong>Ubuntu</strong>, <strong>Debian</strong> or anything else you will have to find relevant info on your own, I only know and use <strong>Arch</strong>.</p>
 <p>Yet another tool to add to the arsenal. Best of luck.</p>
 
           
