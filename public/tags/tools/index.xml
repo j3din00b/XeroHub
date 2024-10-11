@@ -26,8 +26,8 @@
 &lt;/p&gt;
 
 
-&lt;h3 class=&#34;relative group&#34;&gt;The Guide 
-    &lt;div id=&#34;the-guide&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Guide 
+    &lt;div id=&#34;guide&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
 &lt;/h3&gt;
 &lt;p&gt;All packages compile from the &lt;strong&gt;AUR&lt;/strong&gt;, but if you are on &lt;strong&gt;XeroLinux&lt;/strong&gt; or have the &lt;strong&gt;Chaotic-AUR&lt;/strong&gt; repos they will simply just install, no compilation needed.&lt;/p&gt;

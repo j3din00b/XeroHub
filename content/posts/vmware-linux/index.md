@@ -13,7 +13,7 @@ I understand that many of you newcomers to **Linux** from **Windows** sometimes 
     <img src="https://i.imgur.com/FDUoyg6.png" alt="shot">
 </p>
 
-### The Guide
+### Guide
 
 All packages compile from the **AUR**, but if you are on **XeroLinux** or have the **Chaotic-AUR** repos they will simply just install, no compilation needed.
 
