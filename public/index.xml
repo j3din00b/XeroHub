@@ -126,7 +126,7 @@
     &lt;/div&gt;
 
     &lt;p id=&#34;github-56f532714b2f7c9707f9dc8d689abff4-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-      Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+      Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
     &lt;/p&gt;
 
     &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
@@ -147,7 +147,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-56f532714b2f7c9707f9dc8d689abff4-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        89952
+        95654
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -160,7 +160,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-56f532714b2f7c9707f9dc8d689abff4-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        7062
+        7584
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -2070,7 +2070,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-8e299a5487c47095e16d57805c99878e-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        295
+        311
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -2178,7 +2178,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-688cf059465b90f349917970b2a2ff9e-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1
+        4
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -2191,7 +2191,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-688cf059465b90f349917970b2a2ff9e-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        0
+        2
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -2576,7 +2576,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-a3d14a4a10f892b0bde0c7d2dcb03e5f-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        82
+        100
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -2589,7 +2589,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-a3d14a4a10f892b0bde0c7d2dcb03e5f-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        11
+        14
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -2729,7 +2729,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-674857d8b75e800e4bcc0955b60eca86-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1545
+        1583
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -2742,7 +2742,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-674857d8b75e800e4bcc0955b60eca86-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        145
+        148
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -2935,7 +2935,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-35acb2467e8c5b7be245dd5d8ae6184d-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        770
+        803
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -2948,7 +2948,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-35acb2467e8c5b7be245dd5d8ae6184d-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        51
+        53
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -3328,7 +3328,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-dd438b669639d3054eea6835139e9c68-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        41840
+        49907
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -3341,7 +3341,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-dd438b669639d3054eea6835139e9c68-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        2048
+        2647
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -3426,7 +3426,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-f27d1586c5573e28a0769a8586d76e5d-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1875
+        1999
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -3439,7 +3439,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-f27d1586c5573e28a0769a8586d76e5d-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        487
+        514
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -4000,7 +4000,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-1892c8fc467600df127ce836daf86e2a-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        3679
+        6063
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -4013,7 +4013,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-1892c8fc467600df127ce836daf86e2a-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        115
+        244
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -4388,7 +4388,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-83f7d6739486881e48a315f6ff62190e-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        43
+        55
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -4401,7 +4401,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-83f7d6739486881e48a315f6ff62190e-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        8
+        13
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -4521,7 +4521,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-960f7422cbeadeb866eb2380db36e9a2-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        357
+        581
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -4534,7 +4534,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-960f7422cbeadeb866eb2380db36e9a2-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        5
+        13
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -4617,7 +4617,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-759ccb72510e521a6d6a62d8e54d138b-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        877
+        925
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -4630,7 +4630,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-759ccb72510e521a6d6a62d8e54d138b-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        43
+        49
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -4716,7 +4716,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-9301afab42662d82090e070c3e3c31f0-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1875
+        1999
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -4729,7 +4729,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-9301afab42662d82090e070c3e3c31f0-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        487
+        514
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -5059,7 +5059,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-048d83c2c4c5d1181ccc6b118c336300-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        43605
+        49129
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -5072,7 +5072,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-048d83c2c4c5d1181ccc6b118c336300-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        2333
+        2971
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -5479,7 +5479,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-ba49e4e5b503b677aa818e3c0fe87165-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        43
+        55
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -5492,7 +5492,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-ba49e4e5b503b677aa818e3c0fe87165-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        8
+        13
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -5559,7 +5559,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-4b2b060cb46e0a0142c2701566b5e2c2-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        16335
+        17262
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -5572,7 +5572,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-4b2b060cb46e0a0142c2701566b5e2c2-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        2309
+        2378
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -5705,7 +5705,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;gitlab-b5993c5970e77657baffddc647ed112c-star_count&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        26
+        34
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -5718,7 +5718,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;gitlab-b5993c5970e77657baffddc647ed112c-forks_count&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1
+        0
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -5854,7 +5854,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-335bc09a11197591f1ac4202a70da0ba-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        262
+        930
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -5867,7 +5867,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-335bc09a11197591f1ac4202a70da0ba-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        25
+        69
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -6064,7 +6064,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2ef9a4269d317def170edabf1a7ec947-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        107152
+        111237
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -6077,7 +6077,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2ef9a4269d317def170edabf1a7ec947-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        10350
+        10663
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -6152,7 +6152,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-1305ea58e76e685e1b7863bc394c207f-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        18293
+        19707
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -6165,7 +6165,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-1305ea58e76e685e1b7863bc394c207f-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        2475
+        2619
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -6295,7 +6295,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-12a0460d02150c7a086dac10a56b80ed-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        12333
+        14035
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -6308,7 +6308,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
       &lt;/span&gt;
       &lt;div id=&#34;github-12a0460d02150c7a086dac10a56b80ed-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1912
+        2227
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -6505,7 +6505,7 @@ Proxmox VE Helper-Scripts Database
 
       &lt;/span&gt;
       &lt;div id=&#34;github-33a752733b7cf7935c163efcf04a96c1-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        43
+        55
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -6518,7 +6518,7 @@ Proxmox VE Helper-Scripts Database
 
       &lt;/span&gt;
       &lt;div id=&#34;github-33a752733b7cf7935c163efcf04a96c1-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        8
+        13
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -6578,15 +6578,15 @@ Proxmox VE Helper-Scripts Database
     &lt;/div&gt;
 
     &lt;p id=&#34;github-5eeb2e27b9916ae7df6a93a2a1b42a89-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-      The packages Mason, what do they mean? (Package requests and bug reports here) 📑
+      Read-only mirror of Chaotic-AUR&amp;rsquo;s main repository. Issues and bug reports welcome! 📑
     &lt;/p&gt;
 
     &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
 
       &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-        style=&#34;background-color:  #0077b6 &#34;&gt;&lt;/span&gt;
+        style=&#34;background-color: #89e051&#34;&gt;&lt;/span&gt;
       &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-         null 
+         Shell 
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -6599,7 +6599,7 @@ Proxmox VE Helper-Scripts Database
 
       &lt;/span&gt;
       &lt;div id=&#34;github-5eeb2e27b9916ae7df6a93a2a1b42a89-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        321
+        335
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -6612,7 +6612,7 @@ Proxmox VE Helper-Scripts Database
 
       &lt;/span&gt;
       &lt;div id=&#34;github-5eeb2e27b9916ae7df6a93a2a1b42a89-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        20
+        19
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -6705,7 +6705,7 @@ Proxmox VE Helper-Scripts Database
 
       &lt;/span&gt;
       &lt;div id=&#34;github-04244ad6c9c1dac42dbc9e0df83f85c4-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        935
+        1181
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -6718,7 +6718,7 @@ Proxmox VE Helper-Scripts Database
 
       &lt;/span&gt;
       &lt;div id=&#34;github-04244ad6c9c1dac42dbc9e0df83f85c4-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        142
+        155
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -7113,7 +7113,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-e2697052f914cf610b2b9d5d5e94a310-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        7433
+        7927
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -7126,7 +7126,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-e2697052f914cf610b2b9d5d5e94a310-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        306
+        329
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -7295,7 +7295,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-8c5f7cf4ebc6a27cc9dd18c133eaf67b-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        2629
+        2677
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -7308,7 +7308,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-8c5f7cf4ebc6a27cc9dd18c133eaf67b-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        75
+        77
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -7565,7 +7565,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-d4629d5be933fe5b06f61e7e2b4973ce-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        20039
+        21389
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -7578,7 +7578,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-d4629d5be933fe5b06f61e7e2b4973ce-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        626
+        650
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -7827,7 +7827,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-359c471407630108af16a9bf1612d622-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        11730
+        12632
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -7840,7 +7840,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-359c471407630108af16a9bf1612d622-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1450
+        1512
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -7983,7 +7983,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-95784f9db36c1bd48c66366504913f55-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        27067
+        30286
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -7996,7 +7996,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-95784f9db36c1bd48c66366504913f55-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1112
+        1245
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -8128,7 +8128,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-18e693ebc65096b5df283f30dd37163c-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        241
+        252
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -8371,7 +8371,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-bcb0d2da5009533c2e74cc81533f73ad-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        404
+        431
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -8729,7 +8729,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-3779791f9be93f712e396768a672133d-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        2724
+        2915
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -8742,7 +8742,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-3779791f9be93f712e396768a672133d-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        164
+        176
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -9158,7 +9158,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-332ee8afae17adb75781b84a058a1d54-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        918
+        983
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -9171,7 +9171,7 @@ Download Bluefin Aurora
 
       &lt;/span&gt;
       &lt;div id=&#34;github-332ee8afae17adb75781b84a058a1d54-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        35
+        37
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -9319,7 +9319,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-9035e4604f09af91fb89685b1e617483-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        352
+        363
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -9332,7 +9332,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-9035e4604f09af91fb89685b1e617483-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        23
+        24
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -9585,7 +9585,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;gitlab-0d0a434e1fe710b26526a44305bad7a0-star_count&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        319
+        318
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -9598,7 +9598,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;gitlab-0d0a434e1fe710b26526a44305bad7a0-forks_count&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        92
+        88
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -9818,7 +9818,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2294faaf2680cd82062f8e3f92431994-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        58122
+        60075
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -9831,7 +9831,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2294faaf2680cd82062f8e3f92431994-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        7773
+        7953
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -9977,7 +9977,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-18f534e30ec2cbc3930543c1d437b458-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        318
+        348
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -9990,7 +9990,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-18f534e30ec2cbc3930543c1d437b458-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        8
+        9
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -10139,7 +10139,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-27f63cdc343184aeff1cee1e4fc50afa-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        228
+        275
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -10152,7 +10152,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-27f63cdc343184aeff1cee1e4fc50afa-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        26
+        30
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -10252,7 +10252,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-a5700e013dc098745bec4694622c84c6-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        57593
+        59119
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -10265,7 +10265,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-a5700e013dc098745bec4694622c84c6-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        3322
+        3388
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -10450,7 +10450,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-44462de8c3180e34167cb64f269723f5-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        754
+        808
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -10463,7 +10463,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-44462de8c3180e34167cb64f269723f5-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        67
+        71
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -10596,7 +10596,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-bf42297933615c069f3c01c1cac3521b-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        60940
+        62623
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -10609,7 +10609,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-bf42297933615c069f3c01c1cac3521b-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        3974
+        4081
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -10698,9 +10698,9 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
     &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
 
       &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-        style=&#34;background-color: #f34b7d&#34;&gt;&lt;/span&gt;
+        style=&#34;background-color: #44a51c&#34;&gt;&lt;/span&gt;
       &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-         C&amp;#43;&amp;#43; 
+         QML 
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -10713,7 +10713,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-ca71a5e83707668542a12e863d6e8215-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1659
+        1775
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -10726,7 +10726,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-ca71a5e83707668542a12e863d6e8215-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        67
+        76
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -10839,7 +10839,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-ceed8b24e6b3fdf44892e309c880fd50-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        228
+        275
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -10852,7 +10852,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-ceed8b24e6b3fdf44892e309c880fd50-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        26
+        30
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -10955,7 +10955,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-c287f82a6cb05c4745ec17da4ed0bd20-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        21061
+        22564
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -10968,7 +10968,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-c287f82a6cb05c4745ec17da4ed0bd20-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        527
+        548
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -11066,7 +11066,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-24de194c1b5897d8548ff331996da98e-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        40442
+        41254
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -11079,7 +11079,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-24de194c1b5897d8548ff331996da98e-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        9481
+        9698
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -11256,7 +11256,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2e819999535d48069af66a73f2eb0246-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1815
+        2015
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -11269,7 +11269,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2e819999535d48069af66a73f2eb0246-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        120
+        139
       &lt;/div&gt;
 
     &lt;/div&gt;

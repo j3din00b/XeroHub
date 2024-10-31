@@ -33,7 +33,7 @@ XeroLinux ISO Access
 
 </div>
 
-If you prefer not to, or can't,it's not an issue at all. You can always use the included  **ArchInstall** in combination with my [**PlasmaInstall**](https://wiki.xerolinux.xyz/plasma/) scripts to achieve a *similar* result.
+If you prefer not to, or can't,it's not an issue at all. You can always use the included  **ArchInstall** in combination with my [**PlasmaInstall**](https://wiki.xerolinux.xyz/scripts/#kde-plasma) scripts to achieve a *similar* result.
 
 It will be a bit more complex, but will never cost you anything and the code will forever be made available to fork and modify to your liking.
 
