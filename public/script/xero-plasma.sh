@@ -106,11 +106,8 @@ main_menu() {
 # Display main menu
 main_menu
 
-echo "Installing X.org packages..."
+echo "Installing missing X.org packages..."
 install_packages "xorg-apps xorg-xinit xorg-server xorg-xwayland"
-
-echo "Installing PipeWire packages..."
-install_packages "gstreamer gst-libav gst-plugins-bad gst-plugins-base gst-plugins-ugly gst-plugins-good libdvdcss alsa-utils alsa-firmware pavucontrol lib32-pipewire-jack libpipewire pipewire-v4l2 pipewire-x11-bell pipewire-zeroconf realtime-privileges sof-firmware ffmpeg ffmpegthumbs ffnvcodec-headers"
 
 echo "Installing Bluetooth packages..."
 install_packages "bluez bluez-utils bluez-plugins bluez-hid2hci bluez-cups bluez-libs bluez-tools"

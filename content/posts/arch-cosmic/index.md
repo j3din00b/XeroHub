@@ -8,7 +8,7 @@ tags: ["Cosmic", "Arch", "ArchLinux", "ArchInstall", "Linux"]
 <br />
 
 {{< alert icon="fire" cardColor="#993350" iconColor="#1d3557" textColor="#f1faee" >}}
-**Cosmic Script :** I have gone ahead and written a script that will help you do all this and more in one swoop. If you care to give it a whirl, keeping in mind the status of the project, you can grab it from the [**XeroLinux Wiki**](https://wiki.xerolinux.xyz/cosmic/).
+**Cosmic Script :** I have gone ahead and written a script that will help you do all this and more in one swoop. If you care to give it a whirl, keeping in mind the status of the project, you can grab it from the [**XeroLinux Wiki**](https://wiki.xerolinux.xyz/scripts/#cosmic-alpha).
 {{< /alert >}}
 
 ### What is Cosmic DE?
