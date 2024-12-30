@@ -104,14 +104,14 @@ selective_install() {
 
 # Main menu using dialog
 main_menu() {
-  CHOICE=$(dialog --stdout --title ">> XeroLinux Hyprland Install <<" --menu "\nChoose how to install Hyprland" 11 60 4 \
+  CHOICE=$(dialog --stdout --title ">> XeroLinux Hyprland Install <<" --menu "\nChoose how to install Hyprland" 11 80 4 \
     1 "ML4W Hyprland     : Customized ML4W Hyprland Install." \
     2 "JaKooLit Hyprland : Customized JaKooLit Hyprland Install." \
     3 "Prasanth Hyprland : Customized Prasanth Hyprland Install.")
 
   case "$CHOICE" in
     1)
-      clear && bash <(curl -s https://raw.githubusercontent.com/mylinuxforwork/dotfiles/main/setup-arch.sh)
+      clear && yay -S ml4w-hyprland && ml4w-hyprland-setup
       ;;
     2)
       clear && git clone --depth=1 https://github.com/JaKooLit/Arch-Hyprland.git ~/Arch-Hyprland
