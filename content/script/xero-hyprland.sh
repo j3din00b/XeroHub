@@ -6,26 +6,13 @@
 # To be used in Arch-Chroot (After installing Base packages via ArchInstall)
 ##################################################################################################################
 
-# Check if the script is running as root
-if [ "$EUID" -ne 0 ]; then
-  echo
-  dialog --title "!! Error !!" --colors --msgbox "\nThis script must be run in \Zb\Z4chroot\Zn live environment post-minimal \Zb\Z1ArchInstall\Zn. Re-run script from there.\n\nHit OK to exit." 10 60
-  echo
-  exit 1
-fi
+sudo pacman -Syy --noconfirm dialog
 
-# # Check if the script is running on Arch Linux
-#  if ! grep -q "Arch Linux" /etc/os-release; then
-#    dialog --title "!! Unknown/Custom Distro !!" --colors --msgbox "\nThis script must be run on \Zb\Z1Vanilla Arch\Zn. Running it on any other Distro, even \Zb\Z6Arch-Spins\Zn might cause issues.\n\nHit OK to exit." 10 0
-#    exit 1
-#  fi
-
-# Check if dialog is installed, if not, install it
-if ! command -v dialog &> /dev/null; then
-  echo
-  echo "dialog is not installed. Installing dialog..."
-  pacman -Syy --noconfirm dialog
-fi
+# Check if the script is running on Arch Linux
+ if ! grep -q "Arch Linux" /etc/os-release; then
+   dialog --title "!! Unknown/Custom Distro !!" --colors --msgbox "\nThis script must be run on \Zb\Z1Vanilla Arch\Zn. Running it on any other Distro, even \Zb\Z6Arch-Spins\Zn might cause issues.\n\nHit OK to exit." 10 0
+   exit 1
+ fi
 
 # Function to display a dialog and handle user response
 show_dialog() {
@@ -104,14 +91,14 @@ selective_install() {
 
 # Main menu using dialog
 main_menu() {
-  CHOICE=$(dialog --stdout --title ">> XeroLinux Hyprland Install <<" --menu "\nChoose how to install Hyprland" 11 60 4 \
+  CHOICE=$(dialog --stdout --title ">> XeroLinux Hyprland Install <<" --menu "\nChoose how to install Hyprland" 11 80 4 \
     1 "ML4W Hyprland     : Customized ML4W Hyprland Install." \
     2 "JaKooLit Hyprland : Customized JaKooLit Hyprland Install." \
     3 "Prasanth Hyprland : Customized Prasanth Hyprland Install.")
 
   case "$CHOICE" in
     1)
-      clear && bash <(curl -s https://raw.githubusercontent.com/mylinuxforwork/dotfiles/main/setup-arch.sh)
+      clear && yay -S --needed --noconfirm ml4w-hyprland && ml4w-hyprland-setup
       ;;
     2)
       clear && git clone --depth=1 https://github.com/JaKooLit/Arch-Hyprland.git ~/Arch-Hyprland

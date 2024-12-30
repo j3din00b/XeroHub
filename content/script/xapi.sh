@@ -110,7 +110,7 @@ done
 
 if [[ $aur_helper == "NONE" ]]; then
     echo
-    echo "No AUR-Helper detected, please choose one."
+    echo "No AUR-Helper detected, please choose one. Select yay for Hyprland."
     echo ""
     echo "1 - Yay  (Written in Go-lang)"
     echo "2 - Paru (Written in Rust-lang)"
