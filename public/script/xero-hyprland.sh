@@ -6,7 +6,7 @@
 # To be used in Arch-Chroot (After installing Base packages via ArchInstall)
 ##################################################################################################################
 
-sudo pacman -Syy dialog
+sudo pacman -Syy --noconfirm dialog
 
 # Check if the script is running on Arch Linux
  if ! grep -q "Arch Linux" /etc/os-release; then
