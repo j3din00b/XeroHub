@@ -6,19 +6,11 @@
 # To be used in Arch-Chroot (After installing Base packages via ArchInstall)
 ##################################################################################################################
 
-# Check if the script is running as root
-if [ "$EUID" -ne 0 ]; then
-  echo
-  dialog --title "!! Error !!" --colors --msgbox "\nThis script must be run in \Zb\Z4chroot\Zn live environment post-minimal \Zb\Z1ArchInstall\Zn. Re-run script from there.\n\nHit OK to exit." 10 60
-  echo
-  exit 1
-fi
-
 # # Check if the script is running on Arch Linux
-#  if ! grep -q "Arch Linux" /etc/os-release; then
-#    dialog --title "!! Unknown/Custom Distro !!" --colors --msgbox "\nThis script must be run on \Zb\Z1Vanilla Arch\Zn. Running it on any other Distro, even \Zb\Z6Arch-Spins\Zn might cause issues.\n\nHit OK to exit." 10 0
-#    exit 1
-#  fi
+ if ! grep -q "Arch Linux" /etc/os-release; then
+   dialog --title "!! Unknown/Custom Distro !!" --colors --msgbox "\nThis script must be run on \Zb\Z1Vanilla Arch\Zn. Running it on any other Distro, even \Zb\Z6Arch-Spins\Zn might cause issues.\n\nHit OK to exit." 10 0
+   exit 1
+ fi
 
 # Check if dialog is installed, if not, install it
 if ! command -v dialog &> /dev/null; then
