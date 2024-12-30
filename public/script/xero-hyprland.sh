@@ -6,18 +6,13 @@
 # To be used in Arch-Chroot (After installing Base packages via ArchInstall)
 ##################################################################################################################
 
-# # Check if the script is running on Arch Linux
-#  if ! grep -q "Arch Linux" /etc/os-release; then
-#    dialog --title "!! Unknown/Custom Distro !!" --colors --msgbox "\nThis script must be run on \Zb\Z1Vanilla Arch\Zn. Running it on any other Distro, even \Zb\Z6Arch-Spins\Zn might cause issues.\n\nHit OK to exit." 10 0
-#    exit 1
-#  fi
+sudo pacman -Syy dialog
 
-# Check if dialog is installed, if not, install it
-if ! command -v dialog &> /dev/null; then
-  echo
-  echo "dialog is not installed. Installing dialog..."
-  pacman -Syy --noconfirm dialog
-fi
+# Check if the script is running on Arch Linux
+ if ! grep -q "Arch Linux" /etc/os-release; then
+   dialog --title "!! Unknown/Custom Distro !!" --colors --msgbox "\nThis script must be run on \Zb\Z1Vanilla Arch\Zn. Running it on any other Distro, even \Zb\Z6Arch-Spins\Zn might cause issues.\n\nHit OK to exit." 10 0
+   exit 1
+ fi
 
 # Function to display a dialog and handle user response
 show_dialog() {
@@ -103,7 +98,7 @@ main_menu() {
 
   case "$CHOICE" in
     1)
-      clear && yay -S ml4w-hyprland && ml4w-hyprland-setup
+      clear && yay -S --needed --noconfirm ml4w-hyprland && ml4w-hyprland-setup
       ;;
     2)
       clear && git clone --depth=1 https://github.com/JaKooLit/Arch-Hyprland.git ~/Arch-Hyprland
