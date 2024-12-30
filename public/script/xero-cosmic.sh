@@ -29,7 +29,7 @@ fi
 
 # Function to display a dialog and handle user response
 show_dialog() {
-    dialog --title "Cosmic Compatibility Check" --colors --yesno "$1 Doing so will add the \Zb\Z1XeroLinux\Zn and \Zb\Z6Chaotic-AUR\Zn repos for the \Zb\Z4Development\Zn version to work, should you choose it.\n\n\Zb\Z6Alpha 1 Software, Proceed at your OWN RISK!.\Zn" 13 69
+    dialog --title "Cosmic Compatibility Check" --colors --yesno "$1 Doing so will add the \Zb\Z1XeroLinux\Zn and \Zb\Z6Chaotic-AUR\Zn repos for the \Zb\Z4Development\Zn version to work, should you choose it.\n\n\Zb\Z6Alpha Software, Proceed at your OWN RISK!.\Zn" 13 69
     response=$?
     if [ $response -eq 0 ]; then
         echo
@@ -104,7 +104,7 @@ selective_install() {
 
 # Main menu using dialog
 main_menu() {
-  CHOICE=$(dialog --stdout --title ">> XeroLinux Cosmic Alpha 1 Install <<" --menu "\nChoose how to install Cosmic Alpha 1" 11 60 4 \
+  CHOICE=$(dialog --stdout --title ">> XeroLinux Cosmic Alpha Install <<" --menu "\nChoose how to install Cosmic Alpha" 11 60 4 \
     1 "Complete     : Complete  Cosmic Install." \
     2 "Selective    : Selective Cosmic Installation." \
     3 "Development  : Rolling   Cosmic Install -DANGER-.")
