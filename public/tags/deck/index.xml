@@ -276,7 +276,7 @@
   
   
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/batocera/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/batocera/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Batocera
@@ -284,7 +284,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/emulation/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/emulation/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Emulation
@@ -292,7 +292,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/retro-gaming/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/retro-gaming/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Retro Gaming
@@ -300,7 +300,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/steam-deck/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/steam-deck/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Steam Deck
@@ -308,7 +308,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/deck/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/deck/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Deck
@@ -316,7 +316,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/steamdeck/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/steamdeck/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     SteamDeck
@@ -324,7 +324,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Linux
@@ -625,11 +625,8 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;li&gt;&lt;strong&gt;Steam Deck:&lt;/strong&gt; Your ultimate gaming device.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-    
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0GNr6kEI7zM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0GNr6kEI7zM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 

@@ -276,7 +276,7 @@
   
   
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/batocera/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/batocera/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Batocera
@@ -284,7 +284,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/emulation/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/emulation/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Emulation
@@ -292,7 +292,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/retro-gaming/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/retro-gaming/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Retro Gaming
@@ -300,7 +300,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/steam-deck/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/steam-deck/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Steam Deck
@@ -308,7 +308,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/deck/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/deck/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Deck
@@ -316,7 +316,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/steamdeck/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/steamdeck/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     SteamDeck
@@ -324,7 +324,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Linux

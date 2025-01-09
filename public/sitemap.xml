@@ -57,20 +57,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xerolinux.xyz/news/help-needed/</loc>
+    <loc>https://xerolinux.xyz/updates/help-needed/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xerolinux.xyz/news/</loc>
+    <loc>https://xerolinux.xyz/updates/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://xerolinux.xyz/iso/</loc>
-    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -99,7 +93,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xerolinux.xyz/news/immich-news/</loc>
+    <loc>https://xerolinux.xyz/updates/immich-news/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -183,7 +177,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xerolinux.xyz/news/youtube-status/</loc>
+    <loc>https://xerolinux.xyz/updates/youtube-status/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -225,7 +219,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xerolinux.xyz/news/add-our-repo/</loc>
+    <loc>https://xerolinux.xyz/updates/add-our-repo/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -255,7 +249,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xerolinux.xyz/news/submit-content/</loc>
+    <loc>https://xerolinux.xyz/updates/submit-content/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -309,7 +303,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xerolinux.xyz/news/new-site/</loc>
+    <loc>https://xerolinux.xyz/updates/new-site/</loc>
     <lastmod>2024-06-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

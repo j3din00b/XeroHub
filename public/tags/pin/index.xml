@@ -226,7 +226,7 @@
   
   
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/flatpak/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/flatpak/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Flatpak
@@ -234,7 +234,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/manager/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/manager/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Manager
@@ -242,7 +242,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/tools/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/tools/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Tools
@@ -250,7 +250,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/flathub/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/flathub/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Flathub
@@ -258,7 +258,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Linux
@@ -465,7 +465,7 @@
   
   
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/downgrade/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/downgrade/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Downgrade
@@ -473,7 +473,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/archlinux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/archlinux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     ArchLinux
@@ -481,7 +481,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/guide/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/guide/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Guide
@@ -489,7 +489,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Linux
@@ -686,7 +686,7 @@
   
   
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/yay/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/yay/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Yay
@@ -694,7 +694,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/paru/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/paru/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Paru
@@ -702,7 +702,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/aur/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/aur/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     AUR
@@ -710,7 +710,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/guide/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/guide/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Guide
@@ -718,7 +718,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Linux
@@ -726,7 +726,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/arch/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/arch/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Arch
@@ -734,7 +734,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/archlinux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/archlinux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     ArchLinux
@@ -939,7 +939,7 @@
   
   
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/nvidia/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/nvidia/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Nvidia
@@ -947,7 +947,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/drivers/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/drivers/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Drivers
@@ -955,7 +955,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/gpu/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/gpu/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Gpu
@@ -963,7 +963,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/legacy/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/legacy/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Legacy
@@ -971,7 +971,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Linux
@@ -979,7 +979,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/opensource/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/opensource/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Opensource
@@ -987,7 +987,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/bash/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/bash/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Bash
@@ -995,7 +995,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/script/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/script/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Script
@@ -1188,7 +1188,7 @@
   
   
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/aur/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/aur/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     AUR
@@ -1196,7 +1196,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/chaotic-aur/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/chaotic-aur/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Chaotic-AUR
@@ -1204,7 +1204,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/repos/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/repos/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Repos
@@ -1212,7 +1212,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/repository/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/repository/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Repository
@@ -1220,7 +1220,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/archlinux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/archlinux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     ArchLinux
@@ -1228,7 +1228,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/arch/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/arch/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Arch
@@ -1236,7 +1236,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Linux

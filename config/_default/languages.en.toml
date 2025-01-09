@@ -14,9 +14,9 @@ title = "XeroLinux HQ"
   copyright = "Copy, _right?_ 🫨"
 
 [params.author]
-  name = "DarkXero"
+  name = "XeroLinux by DarkXero"
   image = "logos/Avvy.gif"
-  headline = "Tech/FOSS Enthusiast & All Around Fun Guy. 🤔"
+  headline = "FOSS Enthusiast & All Around Fun Guy. 🤔"
   bio = "I create content about Linux & FOSS software. You'll find me rocking ArchLinux with KDE Plasma, probably helping somebody with a question. 😎"
   links = [
     { discord = "https://discord.gg/5sqxTSuKZu" },

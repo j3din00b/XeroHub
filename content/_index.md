@@ -3,6 +3,20 @@ logo: "logos/logo.png"
 description: "Latest FOSS Tools, Guides & More"
 ---
 
+{{< youtube lsYg6-wUWXw >}}
+
+{{< alert icon="fire" cardColor="#993350" iconColor="#1d3557" textColor="#f1faee" >}}
+**Info :** Check out the [**Release Notes**](https://github.com/XeroLinuxDev/xero-build/#-release-notes-), [**Source Code**](https://github.com/XeroLinuxDev) and [**WiKi**](https://wiki.xerolinux.xyz/distro/).
+{{< /alert >}} <br>
+
+<div align="center">
+
+{{< button href="https://ko-fi.com/s/cf9def9630" target="_blank" >}}
+Download the ISO
+{{< /button >}}
+
+</div>
+
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('xerolinux', {

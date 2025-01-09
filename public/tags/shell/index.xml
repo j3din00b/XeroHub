@@ -16,11 +16,8 @@
       <guid>https://xerolinux.xyz/posts/tiling-shell/</guid>
       <description>&lt;p&gt;A quick one for today. I do not use &lt;strong&gt;Gnome&lt;/strong&gt; myself, but I keep a close eye on what&amp;rsquo;s going on. Recently &lt;a href=&#34;https://www.youtube.com/@DistroTube/videos&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;@DistroTube&lt;/strong&gt;&lt;/a&gt; made a video about an extension that most of you out there might like, so I thought, why not post about it here&amp;hellip;&lt;/p&gt;
 
-
-    
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/zEe1CqlWKZ0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/zEe1CqlWKZ0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 
@@ -411,11 +408,8 @@
       
       <guid>https://xerolinux.xyz/posts/ohmyposh-p10k-replacement/</guid>
       <description>
-
-    
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9U8LCjuQzdc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9U8LCjuQzdc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 
@@ -607,7 +601,7 @@
   
   
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/aur/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/aur/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     AUR
@@ -615,7 +609,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/chaotic-aur/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/chaotic-aur/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Chaotic-AUR
@@ -623,7 +617,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/repos/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/repos/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Repos
@@ -631,7 +625,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/repository/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/repository/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Repository
@@ -639,7 +633,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/archlinux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/archlinux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     ArchLinux
@@ -647,7 +641,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/arch/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/arch/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Arch
@@ -655,7 +649,7 @@
 &lt;/span&gt;
   &lt;/span&gt;
   
-  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/linux/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
     &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     Linux

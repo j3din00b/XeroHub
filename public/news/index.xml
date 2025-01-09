@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XeroLinux News on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/news/</link>
+    <link>http://localhost:1313/news/</link>
     <description>Recent content in XeroLinux News on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Help Needed</title>
-      <link>https://xerolinux.xyz/news/help-needed/</link>
+      <link>http://localhost:1313/news/help-needed/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/help-needed/</guid>
+      <guid>http://localhost:1313/news/help-needed/</guid>
       <description>&lt;p&gt;Hey there&amp;hellip;&lt;/p&gt;
 &lt;p&gt;This is a new type of post. Please read on to understand what it&amp;rsquo;s all about. &lt;strong&gt;XeroLinux&lt;/strong&gt; urgently needs your help.&lt;/p&gt;
 
@@ -54,15 +54,15 @@
 &lt;p&gt;So now that you know what I am looking for, and are interested, feel free to contact me either on &lt;a href=&#34;https://fosstodon.org/@XeroLinux&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Fosstodon&lt;/strong&gt;&lt;/a&gt; or by emailing me directly via this &lt;a href=&#34;mailto:techxero@vivaldi.net?subject=XeroLinux%20Merch%20Design&#34;&gt;&lt;strong&gt;E-mail&lt;/strong&gt;&lt;/a&gt;. I am looking forward to our collab should it happen.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/help-needed/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/help-needed/featured.webp" />
     </item>
     
     <item>
       <title>Immich Updates</title>
-      <link>https://xerolinux.xyz/news/immich-news/</link>
+      <link>http://localhost:1313/news/immich-news/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/immich-news/</guid>
+      <guid>http://localhost:1313/news/immich-news/</guid>
       <description>&lt;p&gt;I know I previously said no news on this site as they get old. But I thought this one requires your attention, so there you go. It&amp;rsquo;s not news as much as it is an awareness post, letting you know more about what&amp;rsquo;s going on in &lt;strong&gt;Immich&lt;/strong&gt; land.&lt;/p&gt;
 
 
@@ -221,15 +221,15 @@
 &lt;/a&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/immich-news/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/immich-news/featured.webp" />
     </item>
     
     <item>
       <title>XeroLinux YouTube</title>
-      <link>https://xerolinux.xyz/news/youtube-status/</link>
+      <link>http://localhost:1313/news/youtube-status/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/youtube-status/</guid>
+      <guid>http://localhost:1313/news/youtube-status/</guid>
       <description>&lt;p&gt;Today I bring you a different kind of post. So sit back, grab a cup of tea/coffee and read on. It&amp;rsquo;s under this category coz it simply isn&amp;rsquo;t related to Linux.&lt;/p&gt;
 
 
@@ -279,15 +279,15 @@
 &lt;p&gt;Anywho, thanks for reading all this, looking forward to your thoughts on the matter over on &lt;a href=&#34;https://fosstodon.org/@XeroLinux&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Fosstodon&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/youtube-status/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/youtube-status/featured.webp" />
     </item>
     
     <item>
       <title>Add XeroLinux Repo</title>
-      <link>https://xerolinux.xyz/news/add-our-repo/</link>
+      <link>http://localhost:1313/news/add-our-repo/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/add-our-repo/</guid>
+      <guid>http://localhost:1313/news/add-our-repo/</guid>
       <description>&lt;p&gt;Hey there&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I was recently asked if my Repo can be added to other Arch-Based Distros, short answer is yes of course you can. I will be showing you how below. Just note that my repo usually contains stuff I deem necessary, but in case you find some stuff that can be useful to you on ArchLinux feel free to add it.&lt;/p&gt;
 &lt;p&gt;Run below command :&lt;/p&gt;
@@ -295,15 +295,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;That&amp;rsquo;s basically it, now update database with &lt;code&gt;sudo pacman -Syyu&lt;/code&gt; and you will notice my repo part of the update.&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/add-our-repo/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/add-our-repo/featured.webp" />
     </item>
     
     <item>
       <title>Submit Site Content</title>
-      <link>https://xerolinux.xyz/news/submit-content/</link>
+      <link>http://localhost:1313/news/submit-content/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/submit-content/</guid>
+      <guid>http://localhost:1313/news/submit-content/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -336,15 +336,15 @@
 &lt;p&gt;With that out of the way, for more information about the various supported &lt;strong&gt;Shortcodes&lt;/strong&gt; you can use, you can find them here &amp;raquo; &lt;a href=&#34;https://blowfish.page/docs/shortcodes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;BlowFish Shortcodes&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thanks again &amp;amp; Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/submit-content/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/submit-content/featured.webp" />
     </item>
     
     <item>
       <title>Fresh New Look</title>
-      <link>https://xerolinux.xyz/news/new-site/</link>
+      <link>http://localhost:1313/news/new-site/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/new-site/</guid>
+      <guid>http://localhost:1313/news/new-site/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Not Again ! 
@@ -383,7 +383,7 @@
 &lt;p&gt;Until then let me know what you think of this new look. If you have any suggestions or ideas on how I can make it all better feel free to let me know how. Thanks for reading this. Here&amp;rsquo;s to future posts&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/new-site/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/new-site/featured.webp" />
     </item>
     
   </channel>

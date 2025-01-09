@@ -12,7 +12,9 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = [ "posts" ]
+replyByEmail = false
+
+mainSections = [ "posts", "updates" ]
 # robots = ""
 
 disableImageZoom = true
@@ -137,6 +139,7 @@ smartTOCHideUnfocusedChildren = false
   # websiteid = "ABC12345"
   # domain = "llama.yoursite.com"
   # dataDomains = "yoursite.com,yoursite2.com"
+  # scriptName = ""
   # enableTrackEvent = true
 
 [selineAnalytics]
@@ -155,3 +158,8 @@ smartTOCHideUnfocusedChildren = false
   # bing = ""
   # pinterest = ""
   # yandex = ""
+  # fediverse = ""
+
+[rssnext]
+  # feedId = ""
+  # userId = ""
