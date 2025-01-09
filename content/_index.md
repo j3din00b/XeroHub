@@ -3,6 +3,8 @@ logo: "logos/logo.png"
 description: "Latest FOSS Tools, Guides & More"
 ---
 
+<h1 align="center">🔥 XeroLinux "Arch-Based" Distro 🔥</h1>
+
 {{< youtube lsYg6-wUWXw >}}
 
 {{< alert icon="fire" cardColor="#993350" iconColor="#1d3557" textColor="#f1faee" >}}
