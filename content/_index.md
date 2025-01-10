@@ -5,6 +5,8 @@ description: "Latest FOSS Tools, Guides & More"
 
 <h1 align="center">🔥 XeroLinux Distro 🔥</h1>
 
+<h3 align="center">📺 <a href="https://www.youtube.com/watch?v=lsYg6-wUWXw" target="_blank"><strong>Preview Video</strong></a> 📺</h3>
+
 {{< carousel images="shots/*" aspectRatio="16-9" interval="2500" >}}
 
 {{< alert icon="fire" cardColor="#993350" iconColor="#1d3557" textColor="#f1faee" >}}
