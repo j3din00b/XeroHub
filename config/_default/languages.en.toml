@@ -14,7 +14,7 @@ title = "XeroLinux HQ"
   copyright = "Copy, _right?_ 🫨"
 
 [params.author]
-  name = "XeroLinux by DarkXero"
+  name = "DarkXero"
   image = "logos/Avvy.gif"
   headline = "FOSS Enthusiast & All Around Fun Guy. 🤔"
   bio = "I create content about Linux & FOSS software. You'll find me rocking ArchLinux with KDE Plasma, probably helping somebody with a question. 😎"
