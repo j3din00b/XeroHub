@@ -32,7 +32,7 @@ Gnome ISO (Soon)
 >}}
 In short, it makes it easier to install Arch, bypassing the need for ArchInstall. The ISO(s) include my toolkit as well as my famous XeroLayan rice for KDE, as well as some system improvements/tweaks, all-in-one shot. <br>
 
-What it isn't, is a distribution like Ubuntu or Mint that takes care of everything for you. I’ve handled the main setup and included the Toolkit, but things like drivers and additional configuration will be up to you. That’s the essence of ArchLinux, a Do-It-Yourself distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.<br>
+What it isn't, is a distribution like CachyOS or Guaruda that takes care of everything for you. I’ve handled the main/basic setup and included the Toolkit and style, but things like drivers and additional configuration will be up to you. That’s the essence of ArchLinux, a Do-It-Yourself distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.<br>
 
 This was created as way for you to support the project & myself during these hard times in my country (Lebanon), while getting something in return. You will never leave empty handed. ❤️‍🔥❤️‍🔥
 {{< /typeit >}}
