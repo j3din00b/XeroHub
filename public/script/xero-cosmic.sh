@@ -111,14 +111,14 @@ main_menu() {
 
   case "$CHOICE" in
     1)
-      clear && install_packages "cosmic linux-headers pacman-contrib xdg-user-dirs wayland-protocols wayland-utils lib32-wayland system76-power system-config-printer"
+      clear && install_packages "cosmic linux-headers pacman-contrib xdg-user-dirs wayland-protocols wayland-utils lib32-wayland system76-power system-config-printer cosmic-player"
       pacman -Rdd --noconfirm cosmic-store
       ;;
     2)
       clear && selective_install "cosmic linux-headers pacman-contrib xdg-user-dirs wayland-protocols wayland-utils lib32-wayland system76-power system-config-printer"
       ;;
     3)
-      clear && install_packages "cosmic-session-git linux-headers pacman-contrib xdg-user-dirs switcheroo-control xdg-desktop-portal-cosmic-git xorg-xwayland just mold cosmic-edit-git cosmic-files-git cosmic-store-git cosmic-term-git cosmic-wallpapers-git wayland-protocols wayland-utils lib32-wayland system76-power system-config-printer clipboard-manager-git cosmic-randr-git"
+      clear && install_packages "cosmic-session-git linux-headers pacman-contrib xdg-user-dirs switcheroo-control xdg-desktop-portal-cosmic-git xorg-xwayland just mold cosmic-edit-git cosmic-files-git cosmic-store-git cosmic-term-git cosmic-wallpapers-git wayland-protocols wayland-utils lib32-wayland system76-power system-config-printer clipboard-manager-git cosmic-randr-git cosmic-player"
       pacman -Rdd --noconfirm cosmic-store-git
       ;;
     *)
