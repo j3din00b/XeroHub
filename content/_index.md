@@ -9,7 +9,7 @@ description: "Latest FOSS Tools, Guides & More"
 
 {{< carousel images="shots/*" aspectRatio="16-9" interval="3600" >}}
 
-Check out the <a href="https://github.com/XeroLinuxDev/xero-build" target="_blank"><strong>KDE Plasma</strong></a> / <a href="https://github.com/XeroLinuxDev/xero-gnome" target="_blank"><strong>Gnome</strong></a> Source Code, and Distro <a href="https://wiki.xerolinux.xyz/distro/" target="_blank"><strong>Wiki</strong></a>. Access the ISO(s) below. ⤵️ </div>
+Check out the <strong>KDE Plasma</strong> & <strong>Gnome</strong> <a href="https://github.com/XeroLinuxDev/xero-build" target="_blank"><strong>Source Code</strong></a>, and Distro <a href="https://wiki.xerolinux.xyz/distro/" target="_blank"><strong>Wiki</strong></a>. Access the ISO(s) below. ⤵️ </div>
 
 <div align="center">
 
