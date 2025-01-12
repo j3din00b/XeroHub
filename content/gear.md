@@ -39,7 +39,7 @@ As for the Desktop Environment I love working with, it's none other than **KDE P
 
 ### The Hardware
 
-I do own many, 3 Desktops and 1 Laptop. Main, Home-Lab & HTPC. Laptop is unimportant just runs my shop.
+I do own many, 3 Desktops, 2 Laptops and a Mini PC. Main, NAS, Home-Lab & HTPC. Laptops are unimportant just runs my shop and testing various Distros.
 
 **The Beast :**
 
@@ -53,9 +53,18 @@ I know the `GTX 1080` is an aging GPU, trust me I am trying to raise money to re
 GPU &/or CPU Upgrade Fund. More info >> [**Here**](https://blog.xerolinux.xyz/2024/06/new-gpu-cpu-fund/)
 {{< /alert >}}
 
-**Home-Lab :**
+**Home-Lab/Proxmox Server :**
 
-Another desktop I call **XeroLab**, as the name implies, is my **Home-Lab** PC, it runs all my **Docker Containers**. It has `32GB RAM` with a `Core i7 6800K` and an old P.O.S `GT-710` GPU that I will be replacing as soon as I can raise the money for one.
+This Mini PC I call **XeroLab**, as the name implies, is my **Home-Lab** PC, it runs all my **Docker Containers** as well as my **Proxmox** server. It has `16GB RAM` with a `Zen 5 7530U`.
+
+![XeroLab](https://i.imgur.com/kmw2Heg.png)
+
+That thing is not showing any signs of slowing down. It's a great little machine. If you want to get one for yourself you can find it here on their [**Official Site**](https://genmachine.tech/products/ren7000-7530u?variant=45301439693085)
+
+
+**NAS/Storage :**
+
+Another desktop I call **XeroNAS**, as the name implies, is my **NAS** PC, it stores all my personal data as well as my Linux ISOs & GOG game installers. It has `32GB RAM` with a `Core i7 6800K` and an old P.O.S `GT-710` GPU that I will be replacing as soon as I can raise the money for one.
 
 ![XeroLab](https://i.imgur.com/Lwr2xgR.jpeg)
 
