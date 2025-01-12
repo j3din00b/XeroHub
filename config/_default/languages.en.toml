@@ -27,5 +27,6 @@ title = "XeroLinux HQ"
     { link = "https://bytes.xerolinux.xyz" },
     { mastodon = "https://fosstodon.org/@XeroLinux" },
     { youtube = "https://youtube.com/@XeroLinux" },
-    { twitter = "https://x.com/XeroLinuxOP" }
+    { twitter = "https://x.com/XeroLinuxOP" },
+    { facebook = "https://facebook.com/XeroLinux" },
   ]
