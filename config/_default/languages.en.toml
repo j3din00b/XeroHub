@@ -19,6 +19,7 @@ title = "XeroLinux HQ"
   headline = "FOSS Enthusiast & All Around Fun Guy. 🤔"
   bio = "I create content about Linux & FOSS software. You'll find me rocking ArchLinux with KDE Plasma, probably helping somebody with a question. 😎"
   links = [
+    { stack-overflow = "https://wiki.xerolinux.xyz" },
     { discord = "https://discord.gg/5sqxTSuKZu" },
     { github = "https://github.com/xerolinux" },
     { ko-fi = "https://ko-fi.com/XeroLinux" },
