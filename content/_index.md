@@ -9,7 +9,7 @@ description: "Latest FOSS Tools, Guides & More"
 
 {{< carousel images="shots/*" aspectRatio="16-9" interval="3600" >}}
 
-Check out the <strong>KDE Plasma</strong> & <strong>Gnome</strong> <a href="https://github.com/XeroLinuxDev/xero-build" target="_blank"><strong>Source Code</strong></a>, and Distro <a href="https://wiki.xerolinux.xyz/distro/" target="_blank"><strong>Wiki</strong></a>. Access the ISO(s) below. ⤵️ </div>
+Check out Project <a href="https://github.com/XeroLinuxDev/xero-build" target="_blank"><strong>Source Code</strong></a> and Distro <a href="https://wiki.xerolinux.xyz/distro/" target="_blank"><strong>Wiki</strong></a> for more info. Access the ISO(s) below. ⤵️ </div>
 
 <div align="center">
 
@@ -25,11 +25,11 @@ Gnome ISO (Soon)
 
 ### About the Project.
 
-In short, it makes it easier to install Arch, bypassing the need for ArchInstall. The ISO(s) include my toolkit as well as my famous XeroLayan rice for KDE, as well as some system improvements/tweaks, all-in-one shot. <br>
+In short, it's an Arch-Based Distro that makes it easier to install Arch, bypassing the need for ArchInstall. The ISO(s) include my toolkit as well as some system improvements/tweaks, for a better experience, whichever version you choose, all-in-one shot. <br>
 
 What it isn't, is a distribution like CachyOS or Guaruda that takes care of everything for you. I’ve handled the main/basic setup and included the Toolkit and style, but things like drivers and additional configuration will be up to you. That’s the essence of ArchLinux, a Do-It-Yourself distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.<br>
 
-This was created as way for you to support the project & myself during these hard times in my country (Lebanon), while getting something in return. You will never leave empty handed. ❤️‍🔥
+ISOs were created as way for you to support the project & myself during these hard times in my country (Lebanon), while getting something in return. You will never leave empty handed. ❤️‍🔥
 
 <h3 align="center">📺 <a href="https://www.youtube.com/watch?v=lsYg6-wUWXw" target="_blank"><strong>Preview Video</strong></a> 📺</h3>
 
