@@ -7,6 +7,17 @@ description: "Latest FOSS Tools, Guides & More"
 
 <div align="center">
 
+{{< typeit 
+  tag=h4
+  speed=96
+>}}
+Discover a Distro Fueled by Passion and Love for GNU/Linux. 
+{{< /typeit >}}
+
+</div>
+
+<div align="center">
+
 {{< carousel images="shots/*" aspectRatio="16-9" interval="3600" >}}
 
 Check out Project <a href="https://github.com/XeroLinuxDev/xero-build" target="_blank"><strong>Source Code</strong></a> and Distro <a href="https://wiki.xerolinux.xyz/distro/" target="_blank"><strong>Wiki</strong></a> for further information.</div>
@@ -25,7 +36,7 @@ The XeroLinux Store
 
 In short, it's an Arch-Based Distro that makes it easier to install Arch, bypassing the need for ArchInstall. The ISO(s) include our [**Toolkit**](https://wiki.xerolinux.xyz/xlapit/) as well as some system improvements/tweaks, for a better experience, whichever version you choose, all-in-one shot. <br>
 
-What it isn't, is a distribution like **CachyOS** or **Guaruda** that takes care of everything for you. It leaves things such as drivers and additional configuration up to you to learn about and set up. We believe in freedom of choice. Turn **XeroLinux** into anything you want, be it a *Production*, *Gaming* or even *Development* system. That’s the essence of ArchLinux, a Do-It-Yourself distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.<br>
+What it isn't, is a distribution like **CachyOS** or **Garuda** that takes care of everything for you. It leaves things such as drivers and additional configuration up to you to learn about and set up. We believe in freedom of choice. Turn **XeroLinux** into anything you want, be it a *Production*, *Gaming* or even *Development* system. That’s the essence of **ArchLinux**, a Do-It-Yourself distro. If the appearance led you to believe otherwise, I apologize, as that wasn’t the intention.<br>
 
 Furthermore, ISOs were created as way for you to support the project & myself during these hard times in my country (Lebanon), while getting something in return. You will never leave empty handed. ❤️‍🔥
 

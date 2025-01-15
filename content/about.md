@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About Me
 date: 2024-07-12
 description: "About This Site"
 ---
@@ -8,19 +8,21 @@ description: "About This Site"
 
 ### Description
 
-**XeroLinux** is an Arch-Based Distro, as well as a collection of _Projects/Scripts_, created with a simple goal in mind, making [**ArchLinux**](https://archlinux.org) more approachable, easier to install and configure. That's if you choose to use it, or even give it a try.
+My name’s **Steve**, A.K.A *TechXero/DarkXero*, and I am a 44 year old Tech fanatic from **Lebanon**. I love technology. I am a *Multi-OS* User, as in, I don’t stick to one Platform, I like to dabble in all of them. I currently use **iOS** and **Android** when it comes to *Smartphones*. **macOS**, **Windows** and **Linux** when it comes to *Desktop Operating Systems*.
 
-{{< alert "mastodon" >}}
-Don't forget to [follow me](https://fosstodon.org/@XeroLinux) on Fosstodon.
+{{< alert icon="fire" cardColor="#993350" iconColor="#1d3557" textColor="#f1faee" >}}
+**Personal Site :** To know more about me, my likes/dislikes, and other juicy details, visit my [**Personal Site**](https://techxero.com).
 {{< /alert >}}
+
+I have been using **Gnu/Linux** since 2019. In 2020 I decided to create **XeroLinux** to satisfy my needs. After sharing it with some friends, they convinced me to make it public, and the rest is history as they say...
 
 ### Point of this site
 
-Our job, on this site, is, to bring you the most useful **FOSS** tools and guides alongside our various projects as we work on them. It's your one-stop shop for those kinds of posts.
+This site sheds light on some of the most useful **FOSS** tools and guides alongside our various projects as we work on them. It's your one-stop shop for those kinds of posts.
+
+{{< article link="/updates/help-needed/" >}}
 
 As mentioned on a dedicated post, we will not be posting any Distro reviews or Vs. articles to avoid any drama. Also we try to avoid opinionated posts as much as we can.
-
-{{< article link="/xero-news/youtube-status/" >}}
 
 Enjoy your stay here.
 
