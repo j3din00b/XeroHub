@@ -1,12 +1,12 @@
 ---
 title: About Me
 date: 2024-07-12
-description: "About This Site"
+description: "About Me"
 ---
 
 {{< figure src="https://i.imgur.com/SKZO0zo.png" alt="Support" class="center-image" >}}
 
-### Description
+### Who I Am
 
 My name’s **Steve**, A.K.A *TechXero/DarkXero*, and I am a 44 year old Tech fanatic from **Lebanon**. I love technology. I am a *Multi-OS* User, as in, I don’t stick to one Platform, I like to dabble in all of them. I currently use **iOS** and **Android** when it comes to *Smartphones*. **macOS**, **Windows** and **Linux** when it comes to *Desktop Operating Systems*.
 
