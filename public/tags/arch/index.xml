@@ -457,7 +457,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;gitlab-b5993c5970e77657baffddc647ed112c-star_count&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        34
+        36
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -470,7 +470,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;gitlab-b5993c5970e77657baffddc647ed112c-forks_count&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        0
+        1
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -567,7 +567,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-33a752733b7cf7935c163efcf04a96c1-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        55
+        59
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -661,7 +661,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-5eeb2e27b9916ae7df6a93a2a1b42a89-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        335
+        339
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -674,7 +674,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-5eeb2e27b9916ae7df6a93a2a1b42a89-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        20
+        18
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -700,6 +700,22 @@
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/chaotic-aur/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Add XeroLinux Repo</title>
+      <link>https://xerolinux.xyz/news/add-our-repo/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://xerolinux.xyz/news/add-our-repo/</guid>
+      <description>&lt;p&gt;Hey there&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I was recently asked if my Repo can be added to other Arch-Based Distros, short answer is yes of course you can. I will be showing you how below. Just note that my repo usually contains stuff I deem necessary, but in case you find some stuff that can be useful to you on ArchLinux feel free to add it.&lt;/p&gt;
+&lt;p&gt;Run below command :&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; -e &lt;span class=&#34;s1&#34;&gt;&amp;#39;\n[xerolinux]\nSigLevel = Optional TrustAll\nServer = https://repos.xerolinux.xyz/$repo/$arch&amp;#39;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; sudo tee -a /etc/pacman.conf
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;That&amp;rsquo;s basically it, now update database with &lt;code&gt;sudo pacman -Syyu&lt;/code&gt; and you will notice my repo part of the update.&lt;/p&gt;
+&lt;p&gt;Cheers :heart:&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/add-our-repo/featured.webp" />
     </item>
     
     <item>
@@ -903,7 +919,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-bcb0d2da5009533c2e74cc81533f73ad-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        435
+        501
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -916,7 +932,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-bcb0d2da5009533c2e74cc81533f73ad-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        35
+        42
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -1182,7 +1198,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-18f534e30ec2cbc3930543c1d437b458-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        353
+        388
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1195,7 +1211,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-18f534e30ec2cbc3930543c1d437b458-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        9
+        8
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -1295,7 +1311,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-c287f82a6cb05c4745ec17da4ed0bd20-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        22836
+        24448
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1308,7 +1324,7 @@
 
       &lt;/span&gt;
       &lt;div id=&#34;github-c287f82a6cb05c4745ec17da4ed0bd20-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        557
+        576
       &lt;/div&gt;
 
     &lt;/div&gt;
