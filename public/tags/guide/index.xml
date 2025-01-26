@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/guide/</link>
+    <link>https://xerolinux.xyz/tags/guide/</link>
     <description>Recent content in Guide on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pacman R7.0 Update</title>
-      <link>http://localhost:1313/posts/pacman-update/</link>
+      <link>https://xerolinux.xyz/posts/pacman-update/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pacman-update/</guid>
+      <guid>https://xerolinux.xyz/posts/pacman-update/</guid>
       <description>&lt;br /&gt;
 
   
@@ -156,15 +156,15 @@
 &lt;p&gt;If you want to learn more about how to use &lt;strong&gt;Pacman&lt;/strong&gt; and become a pro, I would highly recommend &lt;a href=&#34;https://linuxiac.com/how-to-use-pacman-to-manage-software-on-arch-linux/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;This Awesome Guide&lt;/strong&gt;&lt;/a&gt; by &lt;a href=&#34;https://linuxiac.com&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;@Linuxiac&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I hope this helps y&amp;rsquo;all&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pacman-update/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/pacman-update/featured.webp" />
     </item>
     
     <item>
       <title>Ricing KDE Plasma</title>
-      <link>http://localhost:1313/posts/ricing-plasma/</link>
+      <link>https://xerolinux.xyz/posts/ricing-plasma/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ricing-plasma/</guid>
+      <guid>https://xerolinux.xyz/posts/ricing-plasma/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -641,7 +641,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/konsave-tool/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/konsave-tool/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/konsave-tool/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -650,7 +650,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;http://localhost:1313/posts/konsave-tool/&#34;&gt;Konsave TUI&lt;/div&gt;
+          href=&#34;https://xerolinux.xyz/posts/konsave-tool/&#34;&gt;Konsave TUI&lt;/div&gt;
         
         
         
@@ -840,15 +840,15 @@
 &lt;p&gt;That&amp;rsquo;s all se wrote folks. I hope this has helped you understand more of what ricing &lt;strong&gt;KDE Plasma&lt;/strong&gt; is all about.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ricing-plasma/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ricing-plasma/featured.webp" />
     </item>
     
     <item>
       <title>FFmpeg cheat sheet</title>
-      <link>http://localhost:1313/posts/ffmpeg-cheat-sheet/</link>
+      <link>https://xerolinux.xyz/posts/ffmpeg-cheat-sheet/</link>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ffmpeg-cheat-sheet/</guid>
+      <guid>https://xerolinux.xyz/posts/ffmpeg-cheat-sheet/</guid>
       <description>&lt;p&gt;This will come in useful to all of you Content Creators out there, who like doing things the G33ky &amp;amp; Nerdy way. I use it a lot. This is a a list of useful commands for the &lt;strong&gt;FFmpeg&lt;/strong&gt; command line tool.&lt;/p&gt;
 &lt;p&gt;I would highly recommend you bookmark this page for later use.&lt;/p&gt;
 
@@ -1039,15 +1039,15 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ffmpeg -i in.mp4 -map_metadata -1 -metadata &lt;span class=&#34;nv&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;My Title&amp;#34;&lt;/span&gt; -c:v copy -c:a copy out.mp4
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Hope this helps anyone out there&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ffmpeg-cheat-sheet/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ffmpeg-cheat-sheet/featured.webp" />
     </item>
     
     <item>
       <title>WayDroid Setup Guide</title>
-      <link>http://localhost:1313/posts/waydroid-guide/</link>
+      <link>https://xerolinux.xyz/posts/waydroid-guide/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/waydroid-guide/</guid>
+      <guid>https://xerolinux.xyz/posts/waydroid-guide/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;WayDroid in a nutshell 
@@ -1198,15 +1198,15 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo waydroid shell wm set-fix-to-user-rotation enabled
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Hope this answers that question&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/waydroid-guide/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/waydroid-guide/featured.webp" />
     </item>
     
     <item>
       <title>Automount Drives in Linux</title>
-      <link>http://localhost:1313/posts/automount-drives/</link>
+      <link>https://xerolinux.xyz/posts/automount-drives/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/automount-drives/</guid>
+      <guid>https://xerolinux.xyz/posts/automount-drives/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1254,15 +1254,15 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo mount --all
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Hope this answers that question&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/automount-drives/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/automount-drives/featured.webp" />
     </item>
     
     <item>
       <title>Fix Unbootable System</title>
-      <link>http://localhost:1313/posts/fix-boot/</link>
+      <link>https://xerolinux.xyz/posts/fix-boot/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/fix-boot/</guid>
+      <guid>https://xerolinux.xyz/posts/fix-boot/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Preface 
@@ -1326,15 +1326,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now reboot all should be good&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Hope this helps&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fix-boot/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/fix-boot/featured.webp" />
     </item>
     
     <item>
       <title>Chroot Guide</title>
-      <link>http://localhost:1313/posts/chroot-guide/</link>
+      <link>https://xerolinux.xyz/posts/chroot-guide/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/chroot-guide/</guid>
+      <guid>https://xerolinux.xyz/posts/chroot-guide/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Info 
@@ -1442,15 +1442,15 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;umount -f /mnt
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;After this you will be able to safely reboot.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chroot-guide/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/chroot-guide/featured.webp" />
     </item>
     
     <item>
       <title>DConf Editor Gnome</title>
-      <link>http://localhost:1313/posts/dconf-editor/</link>
+      <link>https://xerolinux.xyz/posts/dconf-editor/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dconf-editor/</guid>
+      <guid>https://xerolinux.xyz/posts/dconf-editor/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -1493,15 +1493,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Keep the backup file in a safe place to use it later after reinstalling your Linux desktop.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dconf-editor/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/dconf-editor/featured.webp" />
     </item>
     
     <item>
       <title>Docker &amp; Docker-Compose</title>
-      <link>http://localhost:1313/posts/docker-usage/</link>
+      <link>https://xerolinux.xyz/posts/docker-usage/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/docker-usage/</guid>
+      <guid>https://xerolinux.xyz/posts/docker-usage/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1616,15 +1616,15 @@
 &lt;p&gt;So far what we have done here, is deploy container for local access. If you want to access it outside your Network, well, for this you will have to own your own Domain name, set up Nginx Proxy manager, use Cloudflare and so on. But that&amp;rsquo;s for another day. This guide was to get your appetite wet, lol..&lt;/p&gt;
 &lt;p&gt;I hope you enjoy, and will see you in the next part.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/docker-usage/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/docker-usage/featured.webp" />
     </item>
     
     <item>
       <title>Enable Snaps on Arch</title>
-      <link>http://localhost:1313/posts/enable-snaps/</link>
+      <link>https://xerolinux.xyz/posts/enable-snaps/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/enable-snaps/</guid>
+      <guid>https://xerolinux.xyz/posts/enable-snaps/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What are Snaps ? 
@@ -1669,15 +1669,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This might take a while depending on your connection since it has to populate the massive database on first install, just be patient while it does that. Finally launch the store from the App-menu..&lt;/p&gt;
 &lt;p&gt;I hope this helps y&amp;rsquo;all&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/enable-snaps/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/enable-snaps/featured.webp" />
     </item>
     
     <item>
       <title>How To Downgrade Packages</title>
-      <link>http://localhost:1313/posts/downgrade-tool/</link>
+      <link>https://xerolinux.xyz/posts/downgrade-tool/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/downgrade-tool/</guid>
+      <guid>https://xerolinux.xyz/posts/downgrade-tool/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Downgrade ? 
@@ -1732,15 +1732,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Just type the package number of your choice, and hit enter to install it.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s it. The current installed package will be downgraded to the old version.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/downgrade-tool/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/downgrade-tool/featured.webp" />
     </item>
     
     <item>
       <title>Install Yay or Paru</title>
-      <link>http://localhost:1313/posts/install-yay-paru/</link>
+      <link>https://xerolinux.xyz/posts/install-yay-paru/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/install-yay-paru/</guid>
+      <guid>https://xerolinux.xyz/posts/install-yay-paru/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What Are Those? 
@@ -1805,15 +1805,15 @@
 &lt;/h3&gt;
 &lt;p&gt;Once that is done, you can use it to start installing packages from the &lt;a href=&#34;https://aur.archlinux.org&#34; target=&#34;_blank&#34;&gt;AUR&lt;/a&gt;. Keep in mind that you do not need to install both; just select the one you prefer, either one works.. I would recommend YaY myself though.. &lt;a href=&#34;https://wiki.archlinux.org/title/AUR_helpers&#34; target=&#34;_blank&#34;&gt;ArchWiki Page&lt;/a&gt;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/install-yay-paru/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/install-yay-paru/featured.webp" />
     </item>
     
     <item>
       <title>Recover deleted files in Linux</title>
-      <link>http://localhost:1313/posts/recover-deleted-files/</link>
+      <link>https://xerolinux.xyz/posts/recover-deleted-files/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/recover-deleted-files/</guid>
+      <guid>https://xerolinux.xyz/posts/recover-deleted-files/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Introduction 
@@ -1841,15 +1841,15 @@
     &lt;/div&gt;
 
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/recover-deleted-files/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/recover-deleted-files/featured.webp" />
     </item>
     
     <item>
       <title>Theming Flatpaks</title>
-      <link>http://localhost:1313/posts/flatpak-theming/</link>
+      <link>https://xerolinux.xyz/posts/flatpak-theming/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/flatpak-theming/</guid>
+      <guid>https://xerolinux.xyz/posts/flatpak-theming/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1900,7 +1900,7 @@
 &lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s the Original Thread on &lt;a href=&#34;https://forum.manjaro.org/t/add-out-of-the-box-flatpak-gtk-application-themes-for-kde-plasma-users/117103&#34; target=&#34;_blank&#34;&gt;Manjaro Forums&lt;/a&gt;&amp;hellip; Oh and &lt;a href=&#34;https://itsfoss.com/flatpak-app-apply-theme/&#34; target=&#34;_blank&#34;&gt;This Thread&lt;/a&gt; Too&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flatpak-theming/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/flatpak-theming/featured.webp" />
     </item>
     
   </channel>

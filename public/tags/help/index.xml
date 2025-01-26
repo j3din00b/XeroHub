@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Help on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/help/</link>
+    <link>https://xerolinux.xyz/tags/help/</link>
     <description>Recent content in Help on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/help/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/help/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Help Needed</title>
-      <link>http://localhost:1313/news/help-needed/</link>
+      <link>https://xerolinux.xyz/news/help-needed/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/news/help-needed/</guid>
+      <guid>https://xerolinux.xyz/news/help-needed/</guid>
       <description>&lt;p&gt;Hey there&amp;hellip;&lt;/p&gt;
 &lt;p&gt;This is a new type of post. Please read on to understand what it&amp;rsquo;s all about. &lt;strong&gt;XeroLinux&lt;/strong&gt; urgently needs your help.&lt;/p&gt;
 
@@ -54,7 +54,7 @@
 &lt;p&gt;So now that you know what I am looking for, and are interested, feel free to contact me either on &lt;a href=&#34;https://fosstodon.org/@XeroLinux&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Fosstodon&lt;/strong&gt;&lt;/a&gt; or by emailing me directly via this &lt;a href=&#34;mailto:techxero@vivaldi.net?subject=XeroLinux%20Merch%20Design&#34;&gt;&lt;strong&gt;E-mail&lt;/strong&gt;&lt;/a&gt;. I am looking forward to our collab should it happen.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/help-needed/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/help-needed/featured.webp" />
     </item>
     
   </channel>

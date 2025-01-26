@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Settings on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/settings/</link>
+    <link>https://xerolinux.xyz/tags/settings/</link>
     <description>Recent content in Settings on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/settings/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/settings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DConf Editor Gnome</title>
-      <link>http://localhost:1313/posts/dconf-editor/</link>
+      <link>https://xerolinux.xyz/posts/dconf-editor/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dconf-editor/</guid>
+      <guid>https://xerolinux.xyz/posts/dconf-editor/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -56,7 +56,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Keep the backup file in a safe place to use it later after reinstalling your Linux desktop.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dconf-editor/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/dconf-editor/featured.webp" />
     </item>
     
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Distro on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/distro/</link>
+    <link>https://xerolinux.xyz/tags/distro/</link>
     <description>Recent content in Distro on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/distro/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/distro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BlueBuild Workshop</title>
-      <link>http://localhost:1313/posts/bluebuild-workshop/</link>
+      <link>https://xerolinux.xyz/posts/bluebuild-workshop/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/bluebuild-workshop/</guid>
+      <guid>https://xerolinux.xyz/posts/bluebuild-workshop/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is BlueBuild Workshop? 
@@ -151,7 +151,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/aurora-atomic/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/aurora-atomic/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/aurora-atomic/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -160,7 +160,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;http://localhost:1313/posts/aurora-atomic/&#34;&gt;Bluefin Aurora&lt;/div&gt;
+          href=&#34;https://xerolinux.xyz/posts/aurora-atomic/&#34;&gt;Bluefin Aurora&lt;/div&gt;
         
         
         
@@ -401,15 +401,15 @@
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bluebuild-workshop/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/bluebuild-workshop/featured.webp" />
     </item>
     
     <item>
       <title>Bluefin Aurora</title>
-      <link>http://localhost:1313/posts/aurora-atomic/</link>
+      <link>https://xerolinux.xyz/posts/aurora-atomic/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/aurora-atomic/</guid>
+      <guid>https://xerolinux.xyz/posts/aurora-atomic/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is uBlue Atomic? 
@@ -549,7 +549,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/topgrade-updater/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/topgrade-updater/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/topgrade-updater/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -558,7 +558,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;http://localhost:1313/posts/topgrade-updater/&#34;&gt;Topgrade AiO Updater&lt;/div&gt;
+          href=&#34;https://xerolinux.xyz/posts/topgrade-updater/&#34;&gt;Topgrade AiO Updater&lt;/div&gt;
         
         
         
@@ -813,7 +813,7 @@ Download Bluefin Aurora
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aurora-atomic/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/aurora-atomic/featured.webp" />
     </item>
     
   </channel>

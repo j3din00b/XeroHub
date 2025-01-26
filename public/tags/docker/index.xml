@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/docker/</link>
+    <link>https://xerolinux.xyz/tags/docker/</link>
     <description>Recent content in Docker on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Immich Updates</title>
-      <link>http://localhost:1313/news/immich-news/</link>
+      <link>https://xerolinux.xyz/news/immich-news/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/news/immich-news/</guid>
+      <guid>https://xerolinux.xyz/news/immich-news/</guid>
       <description>&lt;p&gt;I know I previously said no news on this site as they get old. But I thought this one requires your attention, so there you go. It&amp;rsquo;s not news as much as it is an awareness post, letting you know more about what&amp;rsquo;s going on in &lt;strong&gt;Immich&lt;/strong&gt; land.&lt;/p&gt;
 
 
@@ -172,15 +172,15 @@
 &lt;/a&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/immich-news/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/immich-news/featured.webp" />
     </item>
     
     <item>
       <title>Docmost Notes</title>
-      <link>http://localhost:1313/posts/docmost-notes/</link>
+      <link>https://xerolinux.xyz/posts/docmost-notes/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/docmost-notes/</guid>
+      <guid>https://xerolinux.xyz/posts/docmost-notes/</guid>
       <description>
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ntCyF2nLWZs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -388,10 +388,10 @@
     
     <item>
       <title>Docker &amp; Docker-Compose</title>
-      <link>http://localhost:1313/posts/docker-usage/</link>
+      <link>https://xerolinux.xyz/posts/docker-usage/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/docker-usage/</guid>
+      <guid>https://xerolinux.xyz/posts/docker-usage/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -506,7 +506,7 @@
 &lt;p&gt;So far what we have done here, is deploy container for local access. If you want to access it outside your Network, well, for this you will have to own your own Domain name, set up Nginx Proxy manager, use Cloudflare and so on. But that&amp;rsquo;s for another day. This guide was to get your appetite wet, lol..&lt;/p&gt;
 &lt;p&gt;I hope you enjoy, and will see you in the next part.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/docker-usage/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/docker-usage/featured.webp" />
     </item>
     
   </channel>

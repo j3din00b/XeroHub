@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Script on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/script/</link>
+    <link>https://xerolinux.xyz/tags/script/</link>
     <description>Recent content in Script on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/script/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amelia Automated Archinstall</title>
-      <link>http://localhost:1313/posts/amelia-automated-archinstall/</link>
+      <link>https://xerolinux.xyz/posts/amelia-automated-archinstall/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/amelia-automated-archinstall/</guid>
+      <guid>https://xerolinux.xyz/posts/amelia-automated-archinstall/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Overview 
@@ -149,15 +149,15 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/amelia-automated-archinstall/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/amelia-automated-archinstall/featured.webp" />
     </item>
     
     <item>
       <title>My First Python Script</title>
-      <link>http://localhost:1313/posts/first-python-script/</link>
+      <link>https://xerolinux.xyz/posts/first-python-script/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/first-python-script/</guid>
+      <guid>https://xerolinux.xyz/posts/first-python-script/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What prompted me ? 
@@ -256,15 +256,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This script will output each post to its own Markdown file in the &lt;code&gt;markdown_posts&lt;/code&gt; directory.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s it for now. Do let me know what you think.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/first-python-script/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/first-python-script/featured.webp" />
     </item>
     
     <item>
       <title>TKG nVidia-AiO Installer</title>
-      <link>http://localhost:1313/posts/tkg-nvidia-all/</link>
+      <link>https://xerolinux.xyz/posts/tkg-nvidia-all/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/tkg-nvidia-all/</guid>
+      <guid>https://xerolinux.xyz/posts/tkg-nvidia-all/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Introduction 
@@ -392,7 +392,7 @@
 &lt;p&gt;I hope this discovery helps you fix them issues. I never said this will be &lt;strong&gt;THE&lt;/strong&gt; fix, but it could be I have no idea.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s why I would love it if you reported back your experience with it below. Did it work or not? What issues did you encounter? You need help?&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tkg-nvidia-all/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/tkg-nvidia-all/featured.webp" />
     </item>
     
   </channel>

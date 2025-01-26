@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/terminal/</link>
+    <link>https://xerolinux.xyz/tags/terminal/</link>
     <description>Recent content in Terminal on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Aliases</title>
-      <link>http://localhost:1313/posts/linux-aliases/</link>
+      <link>https://xerolinux.xyz/posts/linux-aliases/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/linux-aliases/</guid>
+      <guid>https://xerolinux.xyz/posts/linux-aliases/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -82,15 +82,15 @@
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux-aliases/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/linux-aliases/featured.webp" />
     </item>
     
     <item>
       <title>Zellij Dev&#39;s Best Friend</title>
-      <link>http://localhost:1313/posts/zellij-terminal/</link>
+      <link>https://xerolinux.xyz/posts/zellij-terminal/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zellij-terminal/</guid>
+      <guid>https://xerolinux.xyz/posts/zellij-terminal/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Zellij? 
@@ -202,15 +202,15 @@
 &lt;/a&gt;
 &lt;p&gt;Enjoy :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/zellij-terminal/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/zellij-terminal/featured.webp" />
     </item>
     
     <item>
       <title>Nix Package Manager</title>
-      <link>http://localhost:1313/posts/nix-package-manager/</link>
+      <link>https://xerolinux.xyz/posts/nix-package-manager/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/nix-package-manager/</guid>
+      <guid>https://xerolinux.xyz/posts/nix-package-manager/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -346,15 +346,15 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ln -s /home/&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;/.nix-profile/share/applications/* /home/&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;/.local/share/applications/
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Enjoy :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/nix-package-manager/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/nix-package-manager/featured.webp" />
     </item>
     
     <item>
       <title>Tabby Terminal</title>
-      <link>http://localhost:1313/posts/tabby-terminal/</link>
+      <link>https://xerolinux.xyz/posts/tabby-terminal/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/tabby-terminal/</guid>
+      <guid>https://xerolinux.xyz/posts/tabby-terminal/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -461,15 +461,15 @@
 &lt;/blockquote&gt;
 &lt;p&gt;Yet another tool to add to the arsenal&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tabby-terminal/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/tabby-terminal/featured.webp" />
     </item>
     
     <item>
       <title>Zoxide the smarter cd command</title>
-      <link>http://localhost:1313/posts/zoxide-cd/</link>
+      <link>https://xerolinux.xyz/posts/zoxide-cd/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zoxide-cd/</guid>
+      <guid>https://xerolinux.xyz/posts/zoxide-cd/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -575,15 +575,15 @@
 &lt;/a&gt;
 &lt;p&gt;Enjoy :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/zoxide-cd/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/zoxide-cd/featured.webp" />
     </item>
     
     <item>
       <title>Topgrade AiO Updater</title>
-      <link>http://localhost:1313/posts/topgrade-updater/</link>
+      <link>https://xerolinux.xyz/posts/topgrade-updater/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/topgrade-updater/</guid>
+      <guid>https://xerolinux.xyz/posts/topgrade-updater/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -741,7 +741,7 @@
 &lt;p&gt;&lt;strong&gt;Topgrade&lt;/strong&gt; gives you a ton of power when it comes to keeping your system up to date. That said, it may be overkill if you just want to keep your system up to date and secure. If you don’t install much third-party software, you may not need Topgrade.&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/topgrade-updater/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/topgrade-updater/featured.webp" />
     </item>
     
   </channel>

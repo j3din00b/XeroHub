@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/tools/</link>
+    <link>https://xerolinux.xyz/tags/tools/</link>
     <description>Recent content in Tools on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Flatpak Manager</title>
-      <link>http://localhost:1313/posts/easy-flatpak/</link>
+      <link>https://xerolinux.xyz/posts/easy-flatpak/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/easy-flatpak/</guid>
+      <guid>https://xerolinux.xyz/posts/easy-flatpak/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -129,15 +129,15 @@
 &lt;p&gt;I use Flatpaks for almost everything. This app made things even better. It&amp;rsquo;s the first of its kind and hope it continues to develop. I recommend it to everyone&amp;hellip;&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/easy-flatpak/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/easy-flatpak/featured.webp" />
     </item>
     
     <item>
       <title>VMware on Linux</title>
-      <link>http://localhost:1313/posts/vmware-linux/</link>
+      <link>https://xerolinux.xyz/posts/vmware-linux/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/vmware-linux/</guid>
+      <guid>https://xerolinux.xyz/posts/vmware-linux/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -179,15 +179,15 @@
 &lt;p&gt;If you are installing another guest, like &lt;strong&gt;Ubuntu&lt;/strong&gt;, &lt;strong&gt;Debian&lt;/strong&gt; or anything else you will have to find relevant info on your own, I only know and use &lt;strong&gt;Arch&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Yet another tool to add to the arsenal. Best of luck.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vmware-linux/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/vmware-linux/featured.webp" />
     </item>
     
     <item>
       <title>Scrcpy Android screen mirroring tool</title>
-      <link>http://localhost:1313/posts/scrcpy-android-screen-mirroring/</link>
+      <link>https://xerolinux.xyz/posts/scrcpy-android-screen-mirroring/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/scrcpy-android-screen-mirroring/</guid>
+      <guid>https://xerolinux.xyz/posts/scrcpy-android-screen-mirroring/</guid>
       <description>
   
 
@@ -473,15 +473,15 @@
 &lt;/a&gt;
 &lt;p&gt;That&amp;rsquo;s it, enjoy and let us know how it works for you&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/scrcpy-android-screen-mirroring/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/scrcpy-android-screen-mirroring/featured.webp" />
     </item>
     
     <item>
       <title>Burn My Windows Desktop Effects</title>
-      <link>http://localhost:1313/posts/burn-my-windows/</link>
+      <link>https://xerolinux.xyz/posts/burn-my-windows/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/burn-my-windows/</guid>
+      <guid>https://xerolinux.xyz/posts/burn-my-windows/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -598,15 +598,15 @@
 &lt;p&gt;I understand some of you might be thinking, &amp;ldquo;Why add more features to an already feature-rich desktop environment?&amp;rdquo; My response is simple: no one is forcing you to. I&amp;rsquo;m sharing this because &lt;strong&gt;Plasma&lt;/strong&gt; is incredibly customizable, so why not enhance it with some cool effects? I personally enjoy them and find them quite neat. If you don&amp;rsquo;t, feel free to skip them. It&amp;rsquo;s as simple as that. I&amp;rsquo;m not trying to be harsh—just acknowledging that many of us tend to have very strong opinions when it comes to such things.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/burn-my-windows/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/burn-my-windows/featured.webp" />
     </item>
     
     <item>
       <title>Zellij Dev&#39;s Best Friend</title>
-      <link>http://localhost:1313/posts/zellij-terminal/</link>
+      <link>https://xerolinux.xyz/posts/zellij-terminal/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zellij-terminal/</guid>
+      <guid>https://xerolinux.xyz/posts/zellij-terminal/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Zellij? 
@@ -718,15 +718,15 @@
 &lt;/a&gt;
 &lt;p&gt;Enjoy :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/zellij-terminal/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/zellij-terminal/featured.webp" />
     </item>
     
     <item>
       <title>Spotube a better alternative to Spotify</title>
-      <link>http://localhost:1313/posts/spotube-for-spotify/</link>
+      <link>https://xerolinux.xyz/posts/spotube-for-spotify/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/spotube-for-spotify/</guid>
+      <guid>https://xerolinux.xyz/posts/spotube-for-spotify/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it ? 
@@ -838,15 +838,15 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/spotube-for-spotify/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/spotube-for-spotify/featured.webp" />
     </item>
     
     <item>
       <title>Caps-Lock Delayer Script</title>
-      <link>http://localhost:1313/posts/caps-lock/</link>
+      <link>https://xerolinux.xyz/posts/caps-lock/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/caps-lock/</guid>
+      <guid>https://xerolinux.xyz/posts/caps-lock/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it ? 
@@ -939,15 +939,15 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/caps-lock/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/caps-lock/featured.webp" />
     </item>
     
     <item>
       <title>Converseen, the batch image converter</title>
-      <link>http://localhost:1313/posts/coverseen-img-convert/</link>
+      <link>https://xerolinux.xyz/posts/coverseen-img-convert/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/coverseen-img-convert/</guid>
+      <guid>https://xerolinux.xyz/posts/coverseen-img-convert/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;This one such a time saver.. 
@@ -1064,15 +1064,15 @@
 &lt;/a&gt;
 &lt;p&gt;Have fun :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/coverseen-img-convert/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/coverseen-img-convert/featured.webp" />
     </item>
     
     <item>
       <title>DConf Editor Gnome</title>
-      <link>http://localhost:1313/posts/dconf-editor/</link>
+      <link>https://xerolinux.xyz/posts/dconf-editor/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dconf-editor/</guid>
+      <guid>https://xerolinux.xyz/posts/dconf-editor/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -1115,15 +1115,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Keep the backup file in a safe place to use it later after reinstalling your Linux desktop.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dconf-editor/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/dconf-editor/featured.webp" />
     </item>
     
     <item>
       <title>Docker &amp; Docker-Compose</title>
-      <link>http://localhost:1313/posts/docker-usage/</link>
+      <link>https://xerolinux.xyz/posts/docker-usage/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/docker-usage/</guid>
+      <guid>https://xerolinux.xyz/posts/docker-usage/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1238,15 +1238,15 @@
 &lt;p&gt;So far what we have done here, is deploy container for local access. If you want to access it outside your Network, well, for this you will have to own your own Domain name, set up Nginx Proxy manager, use Cloudflare and so on. But that&amp;rsquo;s for another day. This guide was to get your appetite wet, lol..&lt;/p&gt;
 &lt;p&gt;I hope you enjoy, and will see you in the next part.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/docker-usage/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/docker-usage/featured.webp" />
     </item>
     
     <item>
       <title>Ferdium WebApp</title>
-      <link>http://localhost:1313/posts/ferdium-web/</link>
+      <link>https://xerolinux.xyz/posts/ferdium-web/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ferdium-web/</guid>
+      <guid>https://xerolinux.xyz/posts/ferdium-web/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -1363,15 +1363,15 @@
 &lt;/a&gt;
 &lt;p&gt;Have fun :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ferdium-web/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ferdium-web/featured.webp" />
     </item>
     
     <item>
       <title>Konsave TUI</title>
-      <link>http://localhost:1313/posts/konsave-tool/</link>
+      <link>https://xerolinux.xyz/posts/konsave-tool/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/konsave-tool/</guid>
+      <guid>https://xerolinux.xyz/posts/konsave-tool/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1487,15 +1487,15 @@
 &lt;/a&gt;
 &lt;p&gt;Have fun and start sharing your configs&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/konsave-tool/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/konsave-tool/featured.webp" />
     </item>
     
     <item>
       <title>OBS Studio Official Package</title>
-      <link>http://localhost:1313/posts/obs-official/</link>
+      <link>https://xerolinux.xyz/posts/obs-official/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/obs-official/</guid>
+      <guid>https://xerolinux.xyz/posts/obs-official/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is OBS Studio? 
@@ -1614,15 +1614,15 @@
 &lt;/a&gt;
 &lt;p&gt;Have fun :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/obs-official/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/obs-official/featured.webp" />
     </item>
     
     <item>
       <title>PacSeek TUI</title>
-      <link>http://localhost:1313/posts/pacseek-tui/</link>
+      <link>https://xerolinux.xyz/posts/pacseek-tui/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pacseek-tui/</guid>
+      <guid>https://xerolinux.xyz/posts/pacseek-tui/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1743,15 +1743,15 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pacseek-tui/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/pacseek-tui/featured.webp" />
     </item>
     
     <item>
       <title>Stremio - Best Streaming tool</title>
-      <link>http://localhost:1313/posts/stremio-tool/</link>
+      <link>https://xerolinux.xyz/posts/stremio-tool/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/stremio-tool/</guid>
+      <guid>https://xerolinux.xyz/posts/stremio-tool/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Stremio? 
@@ -1863,15 +1863,15 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/stremio-tool/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/stremio-tool/featured.webp" />
     </item>
     
     <item>
       <title>Tabby Terminal</title>
-      <link>http://localhost:1313/posts/tabby-terminal/</link>
+      <link>https://xerolinux.xyz/posts/tabby-terminal/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/tabby-terminal/</guid>
+      <guid>https://xerolinux.xyz/posts/tabby-terminal/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1978,15 +1978,15 @@
 &lt;/blockquote&gt;
 &lt;p&gt;Yet another tool to add to the arsenal&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tabby-terminal/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/tabby-terminal/featured.webp" />
     </item>
     
     <item>
       <title>Warehouse Flatpak Toolbox</title>
-      <link>http://localhost:1313/posts/warehouse-flatpak/</link>
+      <link>https://xerolinux.xyz/posts/warehouse-flatpak/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/warehouse-flatpak/</guid>
+      <guid>https://xerolinux.xyz/posts/warehouse-flatpak/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -2093,15 +2093,15 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/warehouse-flatpak/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/warehouse-flatpak/featured.webp" />
     </item>
     
     <item>
       <title>Zoxide the smarter cd command</title>
-      <link>http://localhost:1313/posts/zoxide-cd/</link>
+      <link>https://xerolinux.xyz/posts/zoxide-cd/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zoxide-cd/</guid>
+      <guid>https://xerolinux.xyz/posts/zoxide-cd/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -2207,15 +2207,15 @@
 &lt;/a&gt;
 &lt;p&gt;Enjoy :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/zoxide-cd/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/zoxide-cd/featured.webp" />
     </item>
     
     <item>
       <title>Homebrew on Linux</title>
-      <link>http://localhost:1313/posts/homebrew-linux/</link>
+      <link>https://xerolinux.xyz/posts/homebrew-linux/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/homebrew-linux/</guid>
+      <guid>https://xerolinux.xyz/posts/homebrew-linux/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -2343,15 +2343,15 @@
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/homebrew-linux/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/homebrew-linux/featured.webp" />
     </item>
     
     <item>
       <title>Topgrade AiO Updater</title>
-      <link>http://localhost:1313/posts/topgrade-updater/</link>
+      <link>https://xerolinux.xyz/posts/topgrade-updater/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/topgrade-updater/</guid>
+      <guid>https://xerolinux.xyz/posts/topgrade-updater/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -2509,15 +2509,15 @@
 &lt;p&gt;&lt;strong&gt;Topgrade&lt;/strong&gt; gives you a ton of power when it comes to keeping your system up to date. That said, it may be overkill if you just want to keep your system up to date and secure. If you don’t install much third-party software, you may not need Topgrade.&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/topgrade-updater/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/topgrade-updater/featured.webp" />
     </item>
     
     <item>
       <title>Ventoy Persistence</title>
-      <link>http://localhost:1313/posts/ventoy-persistence/</link>
+      <link>https://xerolinux.xyz/posts/ventoy-persistence/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ventoy-persistence/</guid>
+      <guid>https://xerolinux.xyz/posts/ventoy-persistence/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -2563,7 +2563,7 @@
 &lt;p&gt;Now if you boot into the Xero Linux ISO any changes that you make to it should get saved.&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ventoy-persistence/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ventoy-persistence/featured.webp" />
     </item>
     
   </channel>

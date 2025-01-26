@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bash on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/bash/</link>
+    <link>https://xerolinux.xyz/tags/bash/</link>
     <description>Recent content in Bash on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oh My Posh Prompt</title>
-      <link>http://localhost:1313/posts/ohmyposh-p10k-replacement/</link>
+      <link>https://xerolinux.xyz/posts/ohmyposh-p10k-replacement/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ohmyposh-p10k-replacement/</guid>
+      <guid>https://xerolinux.xyz/posts/ohmyposh-p10k-replacement/</guid>
       <description>
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9U8LCjuQzdc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -68,7 +68,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/chaotic-aur/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/chaotic-aur/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/chaotic-aur/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -77,7 +77,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;http://localhost:1313/posts/chaotic-aur/&#34;&gt;The Chaotic-AUR&lt;/div&gt;
+          href=&#34;https://xerolinux.xyz/posts/chaotic-aur/&#34;&gt;The Chaotic-AUR&lt;/div&gt;
         
         
         
@@ -507,10 +507,10 @@
     
     <item>
       <title>Amelia Automated Archinstall</title>
-      <link>http://localhost:1313/posts/amelia-automated-archinstall/</link>
+      <link>https://xerolinux.xyz/posts/amelia-automated-archinstall/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/amelia-automated-archinstall/</guid>
+      <guid>https://xerolinux.xyz/posts/amelia-automated-archinstall/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Overview 
@@ -646,15 +646,15 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/amelia-automated-archinstall/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/amelia-automated-archinstall/featured.webp" />
     </item>
     
     <item>
       <title>TKG nVidia-AiO Installer</title>
-      <link>http://localhost:1313/posts/tkg-nvidia-all/</link>
+      <link>https://xerolinux.xyz/posts/tkg-nvidia-all/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/tkg-nvidia-all/</guid>
+      <guid>https://xerolinux.xyz/posts/tkg-nvidia-all/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Introduction 
@@ -782,15 +782,15 @@
 &lt;p&gt;I hope this discovery helps you fix them issues. I never said this will be &lt;strong&gt;THE&lt;/strong&gt; fix, but it could be I have no idea.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s why I would love it if you reported back your experience with it below. Did it work or not? What issues did you encounter? You need help?&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tkg-nvidia-all/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/tkg-nvidia-all/featured.webp" />
     </item>
     
     <item>
       <title>Homebrew on Linux</title>
-      <link>http://localhost:1313/posts/homebrew-linux/</link>
+      <link>https://xerolinux.xyz/posts/homebrew-linux/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/homebrew-linux/</guid>
+      <guid>https://xerolinux.xyz/posts/homebrew-linux/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -918,7 +918,7 @@
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/homebrew-linux/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/homebrew-linux/featured.webp" />
     </item>
     
   </channel>

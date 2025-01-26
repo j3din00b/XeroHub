@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flatpak on XeroLinux HQ</title>
-    <link>http://localhost:1313/tags/flatpak/</link>
+    <link>https://xerolinux.xyz/tags/flatpak/</link>
     <description>Recent content in Flatpak on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/flatpak/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;https://xerolinux.xyz/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;24&#39; height=&#39;24&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/flatpak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Flatpak Manager</title>
-      <link>http://localhost:1313/posts/easy-flatpak/</link>
+      <link>https://xerolinux.xyz/posts/easy-flatpak/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/easy-flatpak/</guid>
+      <guid>https://xerolinux.xyz/posts/easy-flatpak/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -129,15 +129,15 @@
 &lt;p&gt;I use Flatpaks for almost everything. This app made things even better. It&amp;rsquo;s the first of its kind and hope it continues to develop. I recommend it to everyone&amp;hellip;&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/easy-flatpak/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/easy-flatpak/featured.webp" />
     </item>
     
     <item>
       <title>Spotube a better alternative to Spotify</title>
-      <link>http://localhost:1313/posts/spotube-for-spotify/</link>
+      <link>https://xerolinux.xyz/posts/spotube-for-spotify/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/spotube-for-spotify/</guid>
+      <guid>https://xerolinux.xyz/posts/spotube-for-spotify/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it ? 
@@ -249,15 +249,15 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/spotube-for-spotify/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/spotube-for-spotify/featured.webp" />
     </item>
     
     <item>
       <title>Ferdium WebApp</title>
-      <link>http://localhost:1313/posts/ferdium-web/</link>
+      <link>https://xerolinux.xyz/posts/ferdium-web/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ferdium-web/</guid>
+      <guid>https://xerolinux.xyz/posts/ferdium-web/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -374,15 +374,15 @@
 &lt;/a&gt;
 &lt;p&gt;Have fun :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ferdium-web/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ferdium-web/featured.webp" />
     </item>
     
     <item>
       <title>Flatpak Tips &amp; Tricks</title>
-      <link>http://localhost:1313/posts/flatpak-tips/</link>
+      <link>https://xerolinux.xyz/posts/flatpak-tips/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/flatpak-tips/</guid>
+      <guid>https://xerolinux.xyz/posts/flatpak-tips/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -490,15 +490,15 @@
 &lt;/h3&gt;
 &lt;p&gt;Flatpak should be the one and only method to deliver apps. Please note I said &amp;ldquo;Apps&amp;rdquo;. There are things that can never be delivered as Flatpaks, like DEs and WMs, among many system related, like Tweaks, Themes, Kernels etc.. So as much as we want a single method for EVERYTHING, sadly that is impossible.. Still Flatpak should overtake the likes of Snaps and AppImages in my opinion&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flatpak-tips/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/flatpak-tips/featured.webp" />
     </item>
     
     <item>
       <title>OBS Studio Official Package</title>
-      <link>http://localhost:1313/posts/obs-official/</link>
+      <link>https://xerolinux.xyz/posts/obs-official/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/obs-official/</guid>
+      <guid>https://xerolinux.xyz/posts/obs-official/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is OBS Studio? 
@@ -617,15 +617,15 @@
 &lt;/a&gt;
 &lt;p&gt;Have fun :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/obs-official/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/obs-official/featured.webp" />
     </item>
     
     <item>
       <title>Theming Flatpaks</title>
-      <link>http://localhost:1313/posts/flatpak-theming/</link>
+      <link>https://xerolinux.xyz/posts/flatpak-theming/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/flatpak-theming/</guid>
+      <guid>https://xerolinux.xyz/posts/flatpak-theming/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -676,15 +676,15 @@
 &lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s the Original Thread on &lt;a href=&#34;https://forum.manjaro.org/t/add-out-of-the-box-flatpak-gtk-application-themes-for-kde-plasma-users/117103&#34; target=&#34;_blank&#34;&gt;Manjaro Forums&lt;/a&gt;&amp;hellip; Oh and &lt;a href=&#34;https://itsfoss.com/flatpak-app-apply-theme/&#34; target=&#34;_blank&#34;&gt;This Thread&lt;/a&gt; Too&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flatpak-theming/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/flatpak-theming/featured.webp" />
     </item>
     
     <item>
       <title>Warehouse Flatpak Toolbox</title>
-      <link>http://localhost:1313/posts/warehouse-flatpak/</link>
+      <link>https://xerolinux.xyz/posts/warehouse-flatpak/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/warehouse-flatpak/</guid>
+      <guid>https://xerolinux.xyz/posts/warehouse-flatpak/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -791,7 +791,7 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/warehouse-flatpak/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/warehouse-flatpak/featured.webp" />
     </item>
     
   </channel>
