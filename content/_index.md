@@ -11,7 +11,7 @@ description: "The XeroLinux HQ"
   tag=h4
   speed=96
 >}}
-Discover a Distro Fueled by Passion and Love for GNU/Linux. 
+🇱🇧 Discover a Distro Fueled by Passion and Love for GNU/Linux. 🇱🇧
 {{< /typeit >}}
 
 </div>
@@ -24,10 +24,10 @@ Check out Project <a href="https://github.com/**XeroLinux**Dev/xero-build" targe
 
 <div align="center">
 
-####  🔻 Access ISO(s) below. 🔻
+####  🔻 Unlock Access 🔻 
 
 {{< button href="https://ko-fi.com/xerolinux/shop" target="_blank" >}}
-The XeroLinux Store
+XeroLinux on Ko-Fi
 {{< /button >}}
 
 </div>
