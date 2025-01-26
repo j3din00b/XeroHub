@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker-Compose on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/docker-compose/</link>
+    <link>http://localhost:1313/tags/docker-compose/</link>
     <description>Recent content in Docker-Compose on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/docker-compose/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/docker-compose/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker &amp; Docker-Compose</title>
-      <link>https://xerolinux.xyz/posts/docker-usage/</link>
+      <link>http://localhost:1313/posts/docker-usage/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/docker-usage/</guid>
+      <guid>http://localhost:1313/posts/docker-usage/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -128,7 +128,7 @@
 &lt;p&gt;So far what we have done here, is deploy container for local access. If you want to access it outside your Network, well, for this you will have to own your own Domain name, set up Nginx Proxy manager, use Cloudflare and so on. But that&amp;rsquo;s for another day. This guide was to get your appetite wet, lol..&lt;/p&gt;
 &lt;p&gt;I hope you enjoy, and will see you in the next part.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/docker-usage/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/docker-usage/featured.webp" />
     </item>
     
   </channel>

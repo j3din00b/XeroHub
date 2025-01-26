@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extension on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/extension/</link>
+    <link>http://localhost:1313/tags/extension/</link>
     <description>Recent content in Extension on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/extension/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/extension/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gnome Tiling Shell</title>
-      <link>https://xerolinux.xyz/posts/tiling-shell/</link>
+      <link>http://localhost:1313/posts/tiling-shell/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/tiling-shell/</guid>
+      <guid>http://localhost:1313/posts/tiling-shell/</guid>
       <description>&lt;p&gt;A quick one for today. I do not use &lt;strong&gt;Gnome&lt;/strong&gt; myself, but I keep a close eye on what&amp;rsquo;s going on. Recently &lt;a href=&#34;https://www.youtube.com/@DistroTube/videos&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;@DistroTube&lt;/strong&gt;&lt;/a&gt; made a video about an extension that most of you out there might like, so I thought, why not post about it here&amp;hellip;&lt;/p&gt;
 
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -398,7 +398,7 @@
 &lt;p&gt;That’s it folks&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/tiling-shell/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tiling-shell/featured.webp" />
     </item>
     
   </channel>

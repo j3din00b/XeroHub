@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docmost on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/docmost/</link>
+    <link>http://localhost:1313/tags/docmost/</link>
     <description>Recent content in Docmost on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/docmost/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/docmost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docmost Notes</title>
-      <link>https://xerolinux.xyz/posts/docmost-notes/</link>
+      <link>http://localhost:1313/posts/docmost-notes/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/docmost-notes/</guid>
+      <guid>http://localhost:1313/posts/docmost-notes/</guid>
       <description>
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ntCyF2nLWZs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;

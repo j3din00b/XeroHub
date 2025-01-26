@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scripts on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/scripts/</link>
+    <link>http://localhost:1313/tags/scripts/</link>
     <description>Recent content in Scripts on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/scripts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/scripts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proxmox VE Helper-Scripts</title>
-      <link>https://xerolinux.xyz/posts/proxmoxve-scripts/</link>
+      <link>http://localhost:1313/posts/proxmoxve-scripts/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/proxmoxve-scripts/</guid>
+      <guid>http://localhost:1313/posts/proxmoxve-scripts/</guid>
       <description>&lt;p&gt;This is a short one. Just letting you all know of a recent discovery of mine while I was looking into &lt;a href=&#34;https://www.proxmox.com/en/proxmox-virtual-environment/overview&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Proxmox VE&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
 
@@ -183,15 +183,15 @@ Proxmox VE Helper-Scripts Database
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/proxmoxve-scripts/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/proxmoxve-scripts/featured.webp" />
     </item>
     
     <item>
       <title>Homebrew on Linux</title>
-      <link>https://xerolinux.xyz/posts/homebrew-linux/</link>
+      <link>http://localhost:1313/posts/homebrew-linux/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/homebrew-linux/</guid>
+      <guid>http://localhost:1313/posts/homebrew-linux/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -319,7 +319,7 @@ Proxmox VE Helper-Scripts Database
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/homebrew-linux/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/homebrew-linux/featured.webp" />
     </item>
     
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stremio on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/stremio/</link>
+    <link>http://localhost:1313/tags/stremio/</link>
     <description>Recent content in Stremio on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/stremio/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/stremio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stremio - Best Streaming tool</title>
-      <link>https://xerolinux.xyz/posts/stremio-tool/</link>
+      <link>http://localhost:1313/posts/stremio-tool/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/stremio-tool/</guid>
+      <guid>http://localhost:1313/posts/stremio-tool/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Stremio? 
@@ -125,7 +125,7 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/stremio-tool/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/stremio-tool/featured.webp" />
     </item>
     
   </channel>

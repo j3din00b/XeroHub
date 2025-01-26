@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ricing on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/ricing/</link>
+    <link>http://localhost:1313/tags/ricing/</link>
     <description>Recent content in Ricing on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/ricing/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ricing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ricing KDE Plasma</title>
-      <link>https://xerolinux.xyz/posts/ricing-plasma/</link>
+      <link>http://localhost:1313/posts/ricing-plasma/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ricing-plasma/</guid>
+      <guid>http://localhost:1313/posts/ricing-plasma/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -490,7 +490,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/konsave-tool/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/konsave-tool/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/konsave-tool/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -499,7 +499,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/konsave-tool/&#34;&gt;Konsave TUI&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/konsave-tool/&#34;&gt;Konsave TUI&lt;/div&gt;
         
         
         
@@ -689,15 +689,15 @@
 &lt;p&gt;That&amp;rsquo;s all se wrote folks. I hope this has helped you understand more of what ricing &lt;strong&gt;KDE Plasma&lt;/strong&gt; is all about.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ricing-plasma/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ricing-plasma/featured.webp" />
     </item>
     
     <item>
       <title>M4LW Hyprland Dots</title>
-      <link>https://xerolinux.xyz/posts/ml4w-hyprland-dots/</link>
+      <link>http://localhost:1313/posts/ml4w-hyprland-dots/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ml4w-hyprland-dots/</guid>
+      <guid>http://localhost:1313/posts/ml4w-hyprland-dots/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Hyprland? 
@@ -837,15 +837,15 @@
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ml4w-hyprland-dots/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ml4w-hyprland-dots/featured.webp" />
     </item>
     
     <item>
       <title>LightlyShaders Effects</title>
-      <link>https://xerolinux.xyz/posts/lightly-shaders/</link>
+      <link>http://localhost:1313/posts/lightly-shaders/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/lightly-shaders/</guid>
+      <guid>http://localhost:1313/posts/lightly-shaders/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it ? 
@@ -997,15 +997,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/lightly-shaders/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lightly-shaders/featured.webp" />
     </item>
     
     <item>
       <title>Make KDE apps use System theme in XFCE/Gnome</title>
-      <link>https://xerolinux.xyz/posts/fix-grub/</link>
+      <link>http://localhost:1313/posts/fix-grub/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/fix-grub/</guid>
+      <guid>http://localhost:1313/posts/fix-grub/</guid>
       <description>&lt;p&gt;
   &lt;figure&gt;
     &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/FlfFJ0o.png&#34; alt=&#34;[Image: FlfFJ0o.png]&#34; /&gt;
@@ -1078,15 +1078,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo umount /mnt/boot/efi
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo umount /mnt
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/fix-grub/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fix-grub/featured.webp" />
     </item>
     
     <item>
       <title>Make KDE apps use System theme in XFCE/Gnome</title>
-      <link>https://xerolinux.xyz/posts/theme-qt-apps-on-gtk-de/</link>
+      <link>http://localhost:1313/posts/theme-qt-apps-on-gtk-de/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/theme-qt-apps-on-gtk-de/</guid>
+      <guid>http://localhost:1313/posts/theme-qt-apps-on-gtk-de/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1162,15 +1162,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;p&gt;Upon applying your changes, KDE applications on XFCE 4 should be using the Kvantum theme set up earlier. This method works the same way on both &lt;strong&gt;XFCE &amp;amp; GNOME&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Guide by: &lt;strong&gt;&lt;a href=&#34;https://www.addictivetips.com/ubuntu-linux-tips/make-kde-apps-look-better/&#34; target=&#34;_blank&#34;&gt;AddictiveTips.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/theme-qt-apps-on-gtk-de/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/theme-qt-apps-on-gtk-de/featured.webp" />
     </item>
     
     <item>
       <title>ML4W Plasma &#43; Hyprland side-by-side</title>
-      <link>https://xerolinux.xyz/posts/ml4w-hyprland-plasma/</link>
+      <link>http://localhost:1313/posts/ml4w-hyprland-plasma/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ml4w-hyprland-plasma/</guid>
+      <guid>http://localhost:1313/posts/ml4w-hyprland-plasma/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -1260,15 +1260,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ml4w-hyprland-plasma/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ml4w-hyprland-plasma/featured.webp" />
     </item>
     
     <item>
       <title>Theming Flatpaks</title>
-      <link>https://xerolinux.xyz/posts/flatpak-theming/</link>
+      <link>http://localhost:1313/posts/flatpak-theming/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/flatpak-theming/</guid>
+      <guid>http://localhost:1313/posts/flatpak-theming/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1319,15 +1319,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s the Original Thread on &lt;a href=&#34;https://forum.manjaro.org/t/add-out-of-the-box-flatpak-gtk-application-themes-for-kde-plasma-users/117103&#34; target=&#34;_blank&#34;&gt;Manjaro Forums&lt;/a&gt;&amp;hellip; Oh and &lt;a href=&#34;https://itsfoss.com/flatpak-app-apply-theme/&#34; target=&#34;_blank&#34;&gt;This Thread&lt;/a&gt; Too&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/flatpak-theming/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flatpak-theming/featured.webp" />
     </item>
     
     <item>
       <title>Wallpaper Engine for Plasma</title>
-      <link>https://xerolinux.xyz/posts/wallpaper-engine/</link>
+      <link>http://localhost:1313/posts/wallpaper-engine/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/wallpaper-engine/</guid>
+      <guid>http://localhost:1313/posts/wallpaper-engine/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -1438,7 +1438,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;p&gt;Well I do not and cannot use &lt;strong&gt;Wayland&lt;/strong&gt; due to my aging GPU. But if you do use it, then there&amp;rsquo;s another tool based on &lt;strong&gt;Wallpaper Engine&lt;/strong&gt; for it. Try it out..&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;paru -S waywe
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/wallpaper-engine/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/wallpaper-engine/featured.webp" />
     </item>
     
   </channel>

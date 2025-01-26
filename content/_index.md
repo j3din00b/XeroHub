@@ -11,7 +11,7 @@ description: "The XeroLinux HQ"
   tag=h4
   speed=120
 >}}
-<img src="/logos/lb.webp" style="display: inline-block; vertical-align: middle; height: 0.75em; ; margin: 0;"> Discover a Distro Fueled by our Passion for GNU/Linux. <img src="/logos/lb.webp" style="display: inline-block; vertical-align: middle; height: 0.75em; ; margin: 0;">
+Discover a Distro Fueled by our Passion for GNU/Linux.
 {{< /typeit >}}
 
 </div>

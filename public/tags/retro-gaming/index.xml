@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retro Gaming on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/retro-gaming/</link>
+    <link>http://localhost:1313/tags/retro-gaming/</link>
     <description>Recent content in Retro Gaming on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/retro-gaming/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/retro-gaming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Batocera On Deck - Part 2</title>
-      <link>https://xerolinux.xyz/posts/retro-deck/</link>
+      <link>http://localhost:1313/posts/retro-deck/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/retro-deck/</guid>
+      <guid>http://localhost:1313/posts/retro-deck/</guid>
       <description>&lt;p&gt;Hey there, retro gamer! Are you like me, and prefer to replace &lt;strong&gt;SteamOS&lt;/strong&gt; with &lt;strong&gt;Batocera&lt;/strong&gt; transforming your Deck into a Retro Gaming powerhouse ? Then this guide is for you&amp;hellip;&lt;/p&gt;
 
 
@@ -136,7 +136,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/bato-deck/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/bato-deck/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/bato-deck/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -145,7 +145,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/bato-deck/&#34;&gt;Batocera On Deck - Part 1&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/bato-deck/&#34;&gt;Batocera On Deck - Part 1&lt;/div&gt;
         
         
         
@@ -486,15 +486,15 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;p&gt;In short, Batocera brings the joy of retro gaming front and center, making everything feel delightfully vintage and new all at once.&lt;/p&gt;
 &lt;p&gt;Enjoy your retro gaming adventure on the Steam Deck! With this guide, you&amp;rsquo;re all set to dive into the golden age of gaming. Happy gaming!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/retro-deck/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/retro-deck/featured.webp" />
     </item>
     
     <item>
       <title>Batocera On Deck - Part 1</title>
-      <link>https://xerolinux.xyz/posts/bato-deck/</link>
+      <link>http://localhost:1313/posts/bato-deck/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/bato-deck/</guid>
+      <guid>http://localhost:1313/posts/bato-deck/</guid>
       <description>&lt;p&gt;Hey there, retro gamer! Ready to turn your Steam Deck into a time machine for classic games? That&amp;rsquo;s where this guide comes in!&lt;/p&gt;
 
 
@@ -747,7 +747,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;p&gt;If you are looking for a much more detailed guide, might I recommend checking either &lt;a href=&#34;https://wagnerstechtalk.com/sd-batocera/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Wagner&amp;rsquo;s Tech Talk&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://retrohandhelds.gg/batocera-on-steam-deck-setup-guide/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Retro Handhelds&lt;/strong&gt;&lt;/a&gt; where I sourced most my material from.&lt;/p&gt;
 &lt;p&gt;See you in &lt;em&gt;Part 2&lt;/em&gt;, in a couple of weeks when my &lt;strong&gt;Steam Deck&lt;/strong&gt; is back with me, and have tested my methods before bringing you the guide, just so I am as accurate as possible&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/bato-deck/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bato-deck/featured.webp" />
     </item>
     
   </channel>

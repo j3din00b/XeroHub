@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paru on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/paru/</link>
+    <link>http://localhost:1313/tags/paru/</link>
     <description>Recent content in Paru on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/paru/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/paru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Yay or Paru</title>
-      <link>https://xerolinux.xyz/posts/install-yay-paru/</link>
+      <link>http://localhost:1313/posts/install-yay-paru/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/install-yay-paru/</guid>
+      <guid>http://localhost:1313/posts/install-yay-paru/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What Are Those? 
@@ -78,7 +78,7 @@
 &lt;/h3&gt;
 &lt;p&gt;Once that is done, you can use it to start installing packages from the &lt;a href=&#34;https://aur.archlinux.org&#34; target=&#34;_blank&#34;&gt;AUR&lt;/a&gt;. Keep in mind that you do not need to install both; just select the one you prefer, either one works.. I would recommend YaY myself though.. &lt;a href=&#34;https://wiki.archlinux.org/title/AUR_helpers&#34; target=&#34;_blank&#34;&gt;ArchWiki Page&lt;/a&gt;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/install-yay-paru/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/install-yay-paru/featured.webp" />
     </item>
     
   </channel>

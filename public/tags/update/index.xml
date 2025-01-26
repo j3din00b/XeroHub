@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Update on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/update/</link>
+    <link>http://localhost:1313/tags/update/</link>
     <description>Recent content in Update on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Topgrade AiO Updater</title>
-      <link>https://xerolinux.xyz/posts/topgrade-updater/</link>
+      <link>http://localhost:1313/posts/topgrade-updater/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/topgrade-updater/</guid>
+      <guid>http://localhost:1313/posts/topgrade-updater/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -171,7 +171,7 @@
 &lt;p&gt;&lt;strong&gt;Topgrade&lt;/strong&gt; gives you a ton of power when it comes to keeping your system up to date. That said, it may be overkill if you just want to keep your system up to date and secure. If you don’t install much third-party software, you may not need Topgrade.&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/topgrade-updater/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/topgrade-updater/featured.webp" />
     </item>
     
   </channel>

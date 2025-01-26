@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ArchLinux on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/archlinux/</link>
+    <link>http://localhost:1313/tags/archlinux/</link>
     <description>Recent content in ArchLinux on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Fresh Arch ISO</title>
-      <link>https://xerolinux.xyz/posts/build-archiso/</link>
+      <link>http://localhost:1313/posts/build-archiso/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/build-archiso/</guid>
+      <guid>http://localhost:1313/posts/build-archiso/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Information 
@@ -50,15 +50,15 @@
 &lt;p&gt;Now that we have an idea on how to build the &lt;strong&gt;Arch ISO&lt;/strong&gt;, You can take it to another level. Yes, this is how most &lt;em&gt;Arch-Based&lt;/em&gt; distros like &lt;strong&gt;XeroLinux&lt;/strong&gt; began. Just keep in mind that getting the &lt;code&gt;DE/WM&lt;/code&gt; you want on the ISO requires a lot more work.&lt;/p&gt;
 &lt;p&gt;Have fun, I know I will 🚀&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/build-archiso/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/build-archiso/featured.webp" />
     </item>
     
     <item>
       <title>Cosmic Arch</title>
-      <link>https://xerolinux.xyz/posts/arch-cosmic/</link>
+      <link>http://localhost:1313/posts/arch-cosmic/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/arch-cosmic/</guid>
+      <guid>http://localhost:1313/posts/arch-cosmic/</guid>
       <description>&lt;br /&gt;
 
   
@@ -198,15 +198,15 @@
 &lt;p&gt;I hope this post has proven to be useful.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/arch-cosmic/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/arch-cosmic/featured.webp" />
     </item>
     
     <item>
       <title>Help Needed</title>
-      <link>https://xerolinux.xyz/news/help-needed/</link>
+      <link>http://localhost:1313/news/help-needed/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/help-needed/</guid>
+      <guid>http://localhost:1313/news/help-needed/</guid>
       <description>&lt;p&gt;Hey there&amp;hellip;&lt;/p&gt;
 &lt;p&gt;This is a new type of post. Please read on to understand what it&amp;rsquo;s all about. &lt;strong&gt;XeroLinux&lt;/strong&gt; urgently needs your help.&lt;/p&gt;
 
@@ -247,15 +247,15 @@
 &lt;p&gt;So now that you know what I am looking for, and are interested, feel free to contact me either on &lt;a href=&#34;https://fosstodon.org/@XeroLinux&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Fosstodon&lt;/strong&gt;&lt;/a&gt; or by emailing me directly via this &lt;a href=&#34;mailto:techxero@vivaldi.net?subject=XeroLinux%20Merch%20Design&#34;&gt;&lt;strong&gt;E-mail&lt;/strong&gt;&lt;/a&gt;. I am looking forward to our collab should it happen.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/help-needed/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/help-needed/featured.webp" />
     </item>
     
     <item>
       <title>Amelia Automated Archinstall</title>
-      <link>https://xerolinux.xyz/posts/amelia-automated-archinstall/</link>
+      <link>http://localhost:1313/posts/amelia-automated-archinstall/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/amelia-automated-archinstall/</guid>
+      <guid>http://localhost:1313/posts/amelia-automated-archinstall/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Overview 
@@ -391,15 +391,15 @@
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/amelia-automated-archinstall/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/amelia-automated-archinstall/featured.webp" />
     </item>
     
     <item>
       <title>The Chaotic-AUR</title>
-      <link>https://xerolinux.xyz/posts/chaotic-aur/</link>
+      <link>http://localhost:1313/posts/chaotic-aur/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/chaotic-aur/</guid>
+      <guid>http://localhost:1313/posts/chaotic-aur/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;A bit of information 
@@ -597,15 +597,15 @@
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/chaotic-aur/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chaotic-aur/featured.webp" />
     </item>
     
     <item>
       <title>Add XeroLinux Repo</title>
-      <link>https://xerolinux.xyz/news/add-our-repo/</link>
+      <link>http://localhost:1313/news/add-our-repo/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/add-our-repo/</guid>
+      <guid>http://localhost:1313/news/add-our-repo/</guid>
       <description>&lt;p&gt;Hey there&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I was recently asked if my Repo can be added to other Arch-Based Distros, short answer is yes of course you can. I will be showing you how below. Just note that my repo usually contains stuff I deem necessary, but in case you find some stuff that can be useful to you on ArchLinux feel free to add it.&lt;/p&gt;
 &lt;p&gt;Run below command :&lt;/p&gt;
@@ -613,15 +613,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;That&amp;rsquo;s basically it, now update database with &lt;code&gt;sudo pacman -Syyu&lt;/code&gt; and you will notice my repo part of the update.&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/add-our-repo/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/add-our-repo/featured.webp" />
     </item>
     
     <item>
       <title>How To Downgrade Packages</title>
-      <link>https://xerolinux.xyz/posts/downgrade-tool/</link>
+      <link>http://localhost:1313/posts/downgrade-tool/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/downgrade-tool/</guid>
+      <guid>http://localhost:1313/posts/downgrade-tool/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Downgrade ? 
@@ -676,15 +676,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Just type the package number of your choice, and hit enter to install it.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s it. The current installed package will be downgraded to the old version.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/downgrade-tool/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/downgrade-tool/featured.webp" />
     </item>
     
     <item>
       <title>Install Yay or Paru</title>
-      <link>https://xerolinux.xyz/posts/install-yay-paru/</link>
+      <link>http://localhost:1313/posts/install-yay-paru/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/install-yay-paru/</guid>
+      <guid>http://localhost:1313/posts/install-yay-paru/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What Are Those? 
@@ -749,7 +749,7 @@
 &lt;/h3&gt;
 &lt;p&gt;Once that is done, you can use it to start installing packages from the &lt;a href=&#34;https://aur.archlinux.org&#34; target=&#34;_blank&#34;&gt;AUR&lt;/a&gt;. Keep in mind that you do not need to install both; just select the one you prefer, either one works.. I would recommend YaY myself though.. &lt;a href=&#34;https://wiki.archlinux.org/title/AUR_helpers&#34; target=&#34;_blank&#34;&gt;ArchWiki Page&lt;/a&gt;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/install-yay-paru/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/install-yay-paru/featured.webp" />
     </item>
     
   </channel>

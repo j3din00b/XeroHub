@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nix on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/nix/</link>
+    <link>http://localhost:1313/tags/nix/</link>
     <description>Recent content in Nix on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/nix/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nix Package Manager</title>
-      <link>https://xerolinux.xyz/posts/nix-package-manager/</link>
+      <link>http://localhost:1313/posts/nix-package-manager/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/nix-package-manager/</guid>
+      <guid>http://localhost:1313/posts/nix-package-manager/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -149,7 +149,7 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ln -s /home/&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;/.nix-profile/share/applications/* /home/&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;/.local/share/applications/
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Enjoy :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/nix-package-manager/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/nix-package-manager/featured.webp" />
     </item>
     
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/game/</link>
+    <link>http://localhost:1313/tags/game/</link>
     <description>Recent content in Game on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elden Ring Patcher</title>
-      <link>https://xerolinux.xyz/posts/eldenring-patcher/</link>
+      <link>http://localhost:1313/posts/eldenring-patcher/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/eldenring-patcher/</guid>
+      <guid>http://localhost:1313/posts/eldenring-patcher/</guid>
       <description>&lt;p&gt;Do you love &lt;strong&gt;Elden Ring&lt;/strong&gt; and want to unlock its true potential? Want to get rid of the 60FPS frame cap? Well, do we have the tool for you. Read on my dear adventurer&amp;hellip;&lt;/p&gt;
 
 
@@ -189,7 +189,7 @@
 &lt;p&gt;That’s it folks, have fun with unlocked gaming&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/eldenring-patcher/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/eldenring-patcher/featured.webp" />
     </item>
     
   </channel>

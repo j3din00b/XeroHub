@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/linux/</link>
+    <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Flatpak Manager</title>
-      <link>https://xerolinux.xyz/posts/easy-flatpak/</link>
+      <link>http://localhost:1313/posts/easy-flatpak/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/easy-flatpak/</guid>
+      <guid>http://localhost:1313/posts/easy-flatpak/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -129,15 +129,15 @@
 &lt;p&gt;I use Flatpaks for almost everything. This app made things even better. It&amp;rsquo;s the first of its kind and hope it continues to develop. I recommend it to everyone&amp;hellip;&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/easy-flatpak/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/easy-flatpak/featured.webp" />
     </item>
     
     <item>
       <title>VMware on Linux</title>
-      <link>https://xerolinux.xyz/posts/vmware-linux/</link>
+      <link>http://localhost:1313/posts/vmware-linux/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/vmware-linux/</guid>
+      <guid>http://localhost:1313/posts/vmware-linux/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -179,15 +179,15 @@
 &lt;p&gt;If you are installing another guest, like &lt;strong&gt;Ubuntu&lt;/strong&gt;, &lt;strong&gt;Debian&lt;/strong&gt; or anything else you will have to find relevant info on your own, I only know and use &lt;strong&gt;Arch&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Yet another tool to add to the arsenal. Best of luck.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/vmware-linux/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vmware-linux/featured.webp" />
     </item>
     
     <item>
       <title>Ollama A.I</title>
-      <link>https://xerolinux.xyz/posts/ollama-ai/</link>
+      <link>http://localhost:1313/posts/ollama-ai/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ollama-ai/</guid>
+      <guid>http://localhost:1313/posts/ollama-ai/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Information 
@@ -312,15 +312,15 @@
 &lt;p&gt;That&amp;rsquo;s it. There&amp;rsquo;s nothing to it. A.I. is where the world is headed so I thought I&amp;rsquo;d share this with y&amp;rsquo;all. It&amp;rsquo;s fun to try new things, keeping up with technology. If you have any questions or issues please report them to the Devs upstream.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ollama-ai/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ollama-ai/featured.webp" />
     </item>
     
     <item>
       <title>Pacman R7.0 Update</title>
-      <link>https://xerolinux.xyz/posts/pacman-update/</link>
+      <link>http://localhost:1313/posts/pacman-update/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/pacman-update/</guid>
+      <guid>http://localhost:1313/posts/pacman-update/</guid>
       <description>&lt;br /&gt;
 
   
@@ -463,15 +463,15 @@
 &lt;p&gt;If you want to learn more about how to use &lt;strong&gt;Pacman&lt;/strong&gt; and become a pro, I would highly recommend &lt;a href=&#34;https://linuxiac.com/how-to-use-pacman-to-manage-software-on-arch-linux/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;This Awesome Guide&lt;/strong&gt;&lt;/a&gt; by &lt;a href=&#34;https://linuxiac.com&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;@Linuxiac&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I hope this helps y&amp;rsquo;all&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/pacman-update/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pacman-update/featured.webp" />
     </item>
     
     <item>
       <title>Build a Fresh Arch ISO</title>
-      <link>https://xerolinux.xyz/posts/build-archiso/</link>
+      <link>http://localhost:1313/posts/build-archiso/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/build-archiso/</guid>
+      <guid>http://localhost:1313/posts/build-archiso/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Information 
@@ -508,15 +508,15 @@
 &lt;p&gt;Now that we have an idea on how to build the &lt;strong&gt;Arch ISO&lt;/strong&gt;, You can take it to another level. Yes, this is how most &lt;em&gt;Arch-Based&lt;/em&gt; distros like &lt;strong&gt;XeroLinux&lt;/strong&gt; began. Just keep in mind that getting the &lt;code&gt;DE/WM&lt;/code&gt; you want on the ISO requires a lot more work.&lt;/p&gt;
 &lt;p&gt;Have fun, I know I will 🚀&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/build-archiso/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/build-archiso/featured.webp" />
     </item>
     
     <item>
       <title>Cosmic Arch</title>
-      <link>https://xerolinux.xyz/posts/arch-cosmic/</link>
+      <link>http://localhost:1313/posts/arch-cosmic/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/arch-cosmic/</guid>
+      <guid>http://localhost:1313/posts/arch-cosmic/</guid>
       <description>&lt;br /&gt;
 
   
@@ -656,15 +656,15 @@
 &lt;p&gt;I hope this post has proven to be useful.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/arch-cosmic/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/arch-cosmic/featured.webp" />
     </item>
     
     <item>
       <title>Linux Aliases</title>
-      <link>https://xerolinux.xyz/posts/linux-aliases/</link>
+      <link>http://localhost:1313/posts/linux-aliases/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/linux-aliases/</guid>
+      <guid>http://localhost:1313/posts/linux-aliases/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -733,15 +733,15 @@
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/linux-aliases/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/linux-aliases/featured.webp" />
     </item>
     
     <item>
       <title>Help Needed</title>
-      <link>https://xerolinux.xyz/news/help-needed/</link>
+      <link>http://localhost:1313/news/help-needed/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/help-needed/</guid>
+      <guid>http://localhost:1313/news/help-needed/</guid>
       <description>&lt;p&gt;Hey there&amp;hellip;&lt;/p&gt;
 &lt;p&gt;This is a new type of post. Please read on to understand what it&amp;rsquo;s all about. &lt;strong&gt;XeroLinux&lt;/strong&gt; urgently needs your help.&lt;/p&gt;
 
@@ -782,15 +782,15 @@
 &lt;p&gt;So now that you know what I am looking for, and are interested, feel free to contact me either on &lt;a href=&#34;https://fosstodon.org/@XeroLinux&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Fosstodon&lt;/strong&gt;&lt;/a&gt; or by emailing me directly via this &lt;a href=&#34;mailto:techxero@vivaldi.net?subject=XeroLinux%20Merch%20Design&#34;&gt;&lt;strong&gt;E-mail&lt;/strong&gt;&lt;/a&gt;. I am looking forward to our collab should it happen.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/help-needed/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/help-needed/featured.webp" />
     </item>
     
     <item>
       <title>Pin nVidia Drivers</title>
-      <link>https://xerolinux.xyz/posts/nvidia-560xx/</link>
+      <link>http://localhost:1313/posts/nvidia-560xx/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/nvidia-560xx/</guid>
+      <guid>http://localhost:1313/posts/nvidia-560xx/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This post is only for affected users&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Please read the entire post before you start worrying. I have included a short addendum towards the end, make sure to read it. If you are not affected, then you can ignore this.&lt;/p&gt;
 
@@ -863,7 +863,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/warehouse-flatpak/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/warehouse-flatpak/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/warehouse-flatpak/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -872,7 +872,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/warehouse-flatpak/&#34;&gt;Warehouse Flatpak Toolbox&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/warehouse-flatpak/&#34;&gt;Warehouse Flatpak Toolbox&lt;/div&gt;
         
         
         
@@ -1102,7 +1102,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/downgrade-tool/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/downgrade-tool/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/downgrade-tool/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -1111,7 +1111,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/downgrade-tool/&#34;&gt;How To Downgrade Packages&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/downgrade-tool/&#34;&gt;How To Downgrade Packages&lt;/div&gt;
         
         
         
@@ -1323,7 +1323,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/install-yay-paru/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/install-yay-paru/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/install-yay-paru/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -1332,7 +1332,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/install-yay-paru/&#34;&gt;Install Yay or Paru&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/install-yay-paru/&#34;&gt;Install Yay or Paru&lt;/div&gt;
         
         
         
@@ -1576,7 +1576,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/tkg-nvidia-all/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/tkg-nvidia-all/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/tkg-nvidia-all/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -1585,7 +1585,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/tkg-nvidia-all/&#34;&gt;TKG nVidia-AiO Installer&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/tkg-nvidia-all/&#34;&gt;TKG nVidia-AiO Installer&lt;/div&gt;
         
         
         
@@ -1825,7 +1825,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/chaotic-aur/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/chaotic-aur/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/chaotic-aur/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -1834,7 +1834,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/chaotic-aur/&#34;&gt;The Chaotic-AUR&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/chaotic-aur/&#34;&gt;The Chaotic-AUR&lt;/div&gt;
         
         
         
@@ -2043,15 +2043,15 @@
 &lt;p&gt;If that&amp;rsquo;s the case, you are safe to keep using the former for &lt;code&gt;Pascal&lt;/code&gt; and older cards with latter only being required if you are on &lt;code&gt;Turing&lt;/code&gt; or above. I must admit this can be a bit confusing for some newcomers to &lt;strong&gt;Linux&lt;/strong&gt;. Such is the life of a Linux user I guess.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/nvidia-560xx/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/nvidia-560xx/featured.webp" />
     </item>
     
     <item>
       <title>Elden Ring Patcher</title>
-      <link>https://xerolinux.xyz/posts/eldenring-patcher/</link>
+      <link>http://localhost:1313/posts/eldenring-patcher/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/eldenring-patcher/</guid>
+      <guid>http://localhost:1313/posts/eldenring-patcher/</guid>
       <description>&lt;p&gt;Do you love &lt;strong&gt;Elden Ring&lt;/strong&gt; and want to unlock its true potential? Want to get rid of the 60FPS frame cap? Well, do we have the tool for you. Read on my dear adventurer&amp;hellip;&lt;/p&gt;
 
 
@@ -2227,15 +2227,15 @@
 &lt;p&gt;That’s it folks, have fun with unlocked gaming&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/eldenring-patcher/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/eldenring-patcher/featured.webp" />
     </item>
     
     <item>
       <title>BlueBuild Workshop</title>
-      <link>https://xerolinux.xyz/posts/bluebuild-workshop/</link>
+      <link>http://localhost:1313/posts/bluebuild-workshop/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/bluebuild-workshop/</guid>
+      <guid>http://localhost:1313/posts/bluebuild-workshop/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is BlueBuild Workshop? 
@@ -2373,7 +2373,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/aurora-atomic/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/aurora-atomic/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/aurora-atomic/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -2382,7 +2382,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/aurora-atomic/&#34;&gt;Bluefin Aurora&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/aurora-atomic/&#34;&gt;Bluefin Aurora&lt;/div&gt;
         
         
         
@@ -2623,15 +2623,15 @@
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/bluebuild-workshop/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bluebuild-workshop/featured.webp" />
     </item>
     
     <item>
       <title>Ricing KDE Plasma</title>
-      <link>https://xerolinux.xyz/posts/ricing-plasma/</link>
+      <link>http://localhost:1313/posts/ricing-plasma/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ricing-plasma/</guid>
+      <guid>http://localhost:1313/posts/ricing-plasma/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -3108,7 +3108,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/konsave-tool/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/konsave-tool/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/konsave-tool/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -3117,7 +3117,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/konsave-tool/&#34;&gt;Konsave TUI&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/konsave-tool/&#34;&gt;Konsave TUI&lt;/div&gt;
         
         
         
@@ -3307,15 +3307,15 @@
 &lt;p&gt;That&amp;rsquo;s all se wrote folks. I hope this has helped you understand more of what ricing &lt;strong&gt;KDE Plasma&lt;/strong&gt; is all about.&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ricing-plasma/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ricing-plasma/featured.webp" />
     </item>
     
     <item>
       <title>Immich Updates</title>
-      <link>https://xerolinux.xyz/news/immich-news/</link>
+      <link>http://localhost:1313/news/immich-news/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/immich-news/</guid>
+      <guid>http://localhost:1313/news/immich-news/</guid>
       <description>&lt;p&gt;I know I previously said no news on this site as they get old. But I thought this one requires your attention, so there you go. It&amp;rsquo;s not news as much as it is an awareness post, letting you know more about what&amp;rsquo;s going on in &lt;strong&gt;Immich&lt;/strong&gt; land.&lt;/p&gt;
 
 
@@ -3474,15 +3474,15 @@
 &lt;/a&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/immich-news/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/immich-news/featured.webp" />
     </item>
     
     <item>
       <title>Batocera On Deck - Part 2</title>
-      <link>https://xerolinux.xyz/posts/retro-deck/</link>
+      <link>http://localhost:1313/posts/retro-deck/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/retro-deck/</guid>
+      <guid>http://localhost:1313/posts/retro-deck/</guid>
       <description>&lt;p&gt;Hey there, retro gamer! Are you like me, and prefer to replace &lt;strong&gt;SteamOS&lt;/strong&gt; with &lt;strong&gt;Batocera&lt;/strong&gt; transforming your Deck into a Retro Gaming powerhouse ? Then this guide is for you&amp;hellip;&lt;/p&gt;
 
 
@@ -3605,7 +3605,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/bato-deck/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/bato-deck/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/bato-deck/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -3614,7 +3614,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/bato-deck/&#34;&gt;Batocera On Deck - Part 1&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/bato-deck/&#34;&gt;Batocera On Deck - Part 1&lt;/div&gt;
         
         
         
@@ -3955,15 +3955,15 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;p&gt;In short, Batocera brings the joy of retro gaming front and center, making everything feel delightfully vintage and new all at once.&lt;/p&gt;
 &lt;p&gt;Enjoy your retro gaming adventure on the Steam Deck! With this guide, you&amp;rsquo;re all set to dive into the golden age of gaming. Happy gaming!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/retro-deck/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/retro-deck/featured.webp" />
     </item>
     
     <item>
       <title>Docmost Notes</title>
-      <link>https://xerolinux.xyz/posts/docmost-notes/</link>
+      <link>http://localhost:1313/posts/docmost-notes/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/docmost-notes/</guid>
+      <guid>http://localhost:1313/posts/docmost-notes/</guid>
       <description>
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ntCyF2nLWZs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -4171,10 +4171,10 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
     
     <item>
       <title>FFmpeg cheat sheet</title>
-      <link>https://xerolinux.xyz/posts/ffmpeg-cheat-sheet/</link>
+      <link>http://localhost:1313/posts/ffmpeg-cheat-sheet/</link>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ffmpeg-cheat-sheet/</guid>
+      <guid>http://localhost:1313/posts/ffmpeg-cheat-sheet/</guid>
       <description>&lt;p&gt;This will come in useful to all of you Content Creators out there, who like doing things the G33ky &amp;amp; Nerdy way. I use it a lot. This is a a list of useful commands for the &lt;strong&gt;FFmpeg&lt;/strong&gt; command line tool.&lt;/p&gt;
 &lt;p&gt;I would highly recommend you bookmark this page for later use.&lt;/p&gt;
 
@@ -4365,15 +4365,15 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ffmpeg -i in.mp4 -map_metadata -1 -metadata &lt;span class=&#34;nv&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;My Title&amp;#34;&lt;/span&gt; -c:v copy -c:a copy out.mp4
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Hope this helps anyone out there&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ffmpeg-cheat-sheet/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ffmpeg-cheat-sheet/featured.webp" />
     </item>
     
     <item>
       <title>Gnome Tiling Shell</title>
-      <link>https://xerolinux.xyz/posts/tiling-shell/</link>
+      <link>http://localhost:1313/posts/tiling-shell/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/tiling-shell/</guid>
+      <guid>http://localhost:1313/posts/tiling-shell/</guid>
       <description>&lt;p&gt;A quick one for today. I do not use &lt;strong&gt;Gnome&lt;/strong&gt; myself, but I keep a close eye on what&amp;rsquo;s going on. Recently &lt;a href=&#34;https://www.youtube.com/@DistroTube/videos&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;@DistroTube&lt;/strong&gt;&lt;/a&gt; made a video about an extension that most of you out there might like, so I thought, why not post about it here&amp;hellip;&lt;/p&gt;
 
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -4758,15 +4758,15 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;p&gt;That’s it folks&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/tiling-shell/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tiling-shell/featured.webp" />
     </item>
     
     <item>
       <title>Batocera On Deck - Part 1</title>
-      <link>https://xerolinux.xyz/posts/bato-deck/</link>
+      <link>http://localhost:1313/posts/bato-deck/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/bato-deck/</guid>
+      <guid>http://localhost:1313/posts/bato-deck/</guid>
       <description>&lt;p&gt;Hey there, retro gamer! Ready to turn your Steam Deck into a time machine for classic games? That&amp;rsquo;s where this guide comes in!&lt;/p&gt;
 
 
@@ -5019,15 +5019,15 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;p&gt;If you are looking for a much more detailed guide, might I recommend checking either &lt;a href=&#34;https://wagnerstechtalk.com/sd-batocera/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Wagner&amp;rsquo;s Tech Talk&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://retrohandhelds.gg/batocera-on-steam-deck-setup-guide/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Retro Handhelds&lt;/strong&gt;&lt;/a&gt; where I sourced most my material from.&lt;/p&gt;
 &lt;p&gt;See you in &lt;em&gt;Part 2&lt;/em&gt;, in a couple of weeks when my &lt;strong&gt;Steam Deck&lt;/strong&gt; is back with me, and have tested my methods before bringing you the guide, just so I am as accurate as possible&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/bato-deck/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bato-deck/featured.webp" />
     </item>
     
     <item>
       <title>Zed Rust based IDE</title>
-      <link>https://xerolinux.xyz/posts/zed-ide/</link>
+      <link>http://localhost:1313/posts/zed-ide/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/zed-ide/</guid>
+      <guid>http://localhost:1313/posts/zed-ide/</guid>
       <description>
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JGz7Ou0Nwo8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -5194,15 +5194,15 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/zed-ide/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/zed-ide/featured.webp" />
     </item>
     
     <item>
       <title>Oh My Posh Prompt</title>
-      <link>https://xerolinux.xyz/posts/ohmyposh-p10k-replacement/</link>
+      <link>http://localhost:1313/posts/ohmyposh-p10k-replacement/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ohmyposh-p10k-replacement/</guid>
+      <guid>http://localhost:1313/posts/ohmyposh-p10k-replacement/</guid>
       <description>
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9U8LCjuQzdc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -5257,7 +5257,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/chaotic-aur/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/chaotic-aur/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/chaotic-aur/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -5266,7 +5266,7 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/chaotic-aur/&#34;&gt;The Chaotic-AUR&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/chaotic-aur/&#34;&gt;The Chaotic-AUR&lt;/div&gt;
         
         
         
@@ -5696,10 +5696,10 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
     
     <item>
       <title>Amelia Automated Archinstall</title>
-      <link>https://xerolinux.xyz/posts/amelia-automated-archinstall/</link>
+      <link>http://localhost:1313/posts/amelia-automated-archinstall/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/amelia-automated-archinstall/</guid>
+      <guid>http://localhost:1313/posts/amelia-automated-archinstall/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Overview 
@@ -5835,15 +5835,15 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/amelia-automated-archinstall/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/amelia-automated-archinstall/featured.webp" />
     </item>
     
     <item>
       <title>M4LW Hyprland Dots</title>
-      <link>https://xerolinux.xyz/posts/ml4w-hyprland-dots/</link>
+      <link>http://localhost:1313/posts/ml4w-hyprland-dots/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ml4w-hyprland-dots/</guid>
+      <guid>http://localhost:1313/posts/ml4w-hyprland-dots/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Hyprland? 
@@ -5983,15 +5983,15 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ml4w-hyprland-dots/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ml4w-hyprland-dots/featured.webp" />
     </item>
     
     <item>
       <title>Scrcpy Android screen mirroring tool</title>
-      <link>https://xerolinux.xyz/posts/scrcpy-android-screen-mirroring/</link>
+      <link>http://localhost:1313/posts/scrcpy-android-screen-mirroring/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/scrcpy-android-screen-mirroring/</guid>
+      <guid>http://localhost:1313/posts/scrcpy-android-screen-mirroring/</guid>
       <description>
   
 
@@ -6277,15 +6277,15 @@ Shaders: Enhance your gaming experience with graphical shaders. Find them in the
 &lt;/a&gt;
 &lt;p&gt;That&amp;rsquo;s it, enjoy and let us know how it works for you&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/scrcpy-android-screen-mirroring/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/scrcpy-android-screen-mirroring/featured.webp" />
     </item>
     
     <item>
       <title>Proxmox VE Helper-Scripts</title>
-      <link>https://xerolinux.xyz/posts/proxmoxve-scripts/</link>
+      <link>http://localhost:1313/posts/proxmoxve-scripts/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/proxmoxve-scripts/</guid>
+      <guid>http://localhost:1313/posts/proxmoxve-scripts/</guid>
       <description>&lt;p&gt;This is a short one. Just letting you all know of a recent discovery of mine while I was looking into &lt;a href=&#34;https://www.proxmox.com/en/proxmox-virtual-environment/overview&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Proxmox VE&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
 
@@ -6455,15 +6455,15 @@ Proxmox VE Helper-Scripts Database
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/proxmoxve-scripts/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/proxmoxve-scripts/featured.webp" />
     </item>
     
     <item>
       <title>The Chaotic-AUR</title>
-      <link>https://xerolinux.xyz/posts/chaotic-aur/</link>
+      <link>http://localhost:1313/posts/chaotic-aur/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/chaotic-aur/</guid>
+      <guid>http://localhost:1313/posts/chaotic-aur/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;A bit of information 
@@ -6661,15 +6661,15 @@ Proxmox VE Helper-Scripts Database
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/chaotic-aur/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chaotic-aur/featured.webp" />
     </item>
     
     <item>
       <title>Bluefin Aurora</title>
-      <link>https://xerolinux.xyz/posts/aurora-atomic/</link>
+      <link>http://localhost:1313/posts/aurora-atomic/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/aurora-atomic/</guid>
+      <guid>http://localhost:1313/posts/aurora-atomic/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is uBlue Atomic? 
@@ -6809,7 +6809,7 @@ Proxmox VE Helper-Scripts Database
 
 
 
-  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;https://xerolinux.xyz/posts/topgrade-updater/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article &#34; href=&#34;http://localhost:1313/posts/topgrade-updater/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7&#34; style=&#34;background-image:url(/posts/topgrade-updater/featured.webp);&#34;&gt;&lt;/div&gt;
@@ -6818,7 +6818,7 @@ Proxmox VE Helper-Scripts Database
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://xerolinux.xyz/posts/topgrade-updater/&#34;&gt;Topgrade AiO Updater&lt;/div&gt;
+          href=&#34;http://localhost:1313/posts/topgrade-updater/&#34;&gt;Topgrade AiO Updater&lt;/div&gt;
         
         
         
@@ -7073,15 +7073,15 @@ Download Bluefin Aurora
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers !&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/aurora-atomic/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aurora-atomic/featured.webp" />
     </item>
     
     <item>
       <title>WayDroid Setup Guide</title>
-      <link>https://xerolinux.xyz/posts/waydroid-guide/</link>
+      <link>http://localhost:1313/posts/waydroid-guide/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/waydroid-guide/</guid>
+      <guid>http://localhost:1313/posts/waydroid-guide/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;WayDroid in a nutshell 
@@ -7232,15 +7232,15 @@ Download Bluefin Aurora
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo waydroid shell wm set-fix-to-user-rotation enabled
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Hope this answers that question&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/waydroid-guide/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/waydroid-guide/featured.webp" />
     </item>
     
     <item>
       <title>Burn My Windows Desktop Effects</title>
-      <link>https://xerolinux.xyz/posts/burn-my-windows/</link>
+      <link>http://localhost:1313/posts/burn-my-windows/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/burn-my-windows/</guid>
+      <guid>http://localhost:1313/posts/burn-my-windows/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -7357,15 +7357,15 @@ Download Bluefin Aurora
 &lt;p&gt;I understand some of you might be thinking, &amp;ldquo;Why add more features to an already feature-rich desktop environment?&amp;rdquo; My response is simple: no one is forcing you to. I&amp;rsquo;m sharing this because &lt;strong&gt;Plasma&lt;/strong&gt; is incredibly customizable, so why not enhance it with some cool effects? I personally enjoy them and find them quite neat. If you don&amp;rsquo;t, feel free to skip them. It&amp;rsquo;s as simple as that. I&amp;rsquo;m not trying to be harsh—just acknowledging that many of us tend to have very strong opinions when it comes to such things.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/burn-my-windows/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/burn-my-windows/featured.webp" />
     </item>
     
     <item>
       <title>nVidia vs AMD on Linux</title>
-      <link>https://xerolinux.xyz/posts/nvidia-vs-amd-linux/</link>
+      <link>http://localhost:1313/posts/nvidia-vs-amd-linux/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/nvidia-vs-amd-linux/</guid>
+      <guid>http://localhost:1313/posts/nvidia-vs-amd-linux/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Disclaimer 
@@ -7494,15 +7494,15 @@ Download Bluefin Aurora
 &lt;li&gt;&lt;a href=&#34;https://www.tomshardware.com/news/amd-intel-nvidia-video-encoding-performance-quality-tested&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Nvidia nVenc vs AMD VCE&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/nvidia-vs-amd-linux/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/nvidia-vs-amd-linux/featured.webp" />
     </item>
     
     <item>
       <title>Zellij Dev&#39;s Best Friend</title>
-      <link>https://xerolinux.xyz/posts/zellij-terminal/</link>
+      <link>http://localhost:1313/posts/zellij-terminal/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/zellij-terminal/</guid>
+      <guid>http://localhost:1313/posts/zellij-terminal/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Zellij? 
@@ -7614,15 +7614,15 @@ Download Bluefin Aurora
 &lt;/a&gt;
 &lt;p&gt;Enjoy :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/zellij-terminal/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/zellij-terminal/featured.webp" />
     </item>
     
     <item>
       <title>Add XeroLinux Repo</title>
-      <link>https://xerolinux.xyz/news/add-our-repo/</link>
+      <link>http://localhost:1313/news/add-our-repo/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/news/add-our-repo/</guid>
+      <guid>http://localhost:1313/news/add-our-repo/</guid>
       <description>&lt;p&gt;Hey there&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I was recently asked if my Repo can be added to other Arch-Based Distros, short answer is yes of course you can. I will be showing you how below. Just note that my repo usually contains stuff I deem necessary, but in case you find some stuff that can be useful to you on ArchLinux feel free to add it.&lt;/p&gt;
 &lt;p&gt;Run below command :&lt;/p&gt;
@@ -7630,15 +7630,15 @@ Download Bluefin Aurora
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;That&amp;rsquo;s basically it, now update database with &lt;code&gt;sudo pacman -Syyu&lt;/code&gt; and you will notice my repo part of the update.&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/news/add-our-repo/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/add-our-repo/featured.webp" />
     </item>
     
     <item>
       <title>Automount Drives in Linux</title>
-      <link>https://xerolinux.xyz/posts/automount-drives/</link>
+      <link>http://localhost:1313/posts/automount-drives/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/automount-drives/</guid>
+      <guid>http://localhost:1313/posts/automount-drives/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -7686,15 +7686,15 @@ Download Bluefin Aurora
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo mount --all
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Hope this answers that question&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/automount-drives/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/automount-drives/featured.webp" />
     </item>
     
     <item>
       <title>Fix Unbootable System</title>
-      <link>https://xerolinux.xyz/posts/fix-boot/</link>
+      <link>http://localhost:1313/posts/fix-boot/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/fix-boot/</guid>
+      <guid>http://localhost:1313/posts/fix-boot/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Preface 
@@ -7758,15 +7758,15 @@ Download Bluefin Aurora
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now reboot all should be good&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Hope this helps&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/fix-boot/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fix-boot/featured.webp" />
     </item>
     
     <item>
       <title>Nix Package Manager</title>
-      <link>https://xerolinux.xyz/posts/nix-package-manager/</link>
+      <link>http://localhost:1313/posts/nix-package-manager/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/nix-package-manager/</guid>
+      <guid>http://localhost:1313/posts/nix-package-manager/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -7902,15 +7902,15 @@ Download Bluefin Aurora
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ln -s /home/&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;/.nix-profile/share/applications/* /home/&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;/.local/share/applications/
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Enjoy :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/nix-package-manager/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/nix-package-manager/featured.webp" />
     </item>
     
     <item>
       <title>Spotube a better alternative to Spotify</title>
-      <link>https://xerolinux.xyz/posts/spotube-for-spotify/</link>
+      <link>http://localhost:1313/posts/spotube-for-spotify/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/spotube-for-spotify/</guid>
+      <guid>http://localhost:1313/posts/spotube-for-spotify/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it ? 
@@ -8022,15 +8022,15 @@ Download Bluefin Aurora
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/spotube-for-spotify/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/spotube-for-spotify/featured.webp" />
     </item>
     
     <item>
       <title>Caps-Lock Delayer Script</title>
-      <link>https://xerolinux.xyz/posts/caps-lock/</link>
+      <link>http://localhost:1313/posts/caps-lock/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/caps-lock/</guid>
+      <guid>http://localhost:1313/posts/caps-lock/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it ? 
@@ -8123,15 +8123,15 @@ Download Bluefin Aurora
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/caps-lock/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/caps-lock/featured.webp" />
     </item>
     
     <item>
       <title>Chroot Guide</title>
-      <link>https://xerolinux.xyz/posts/chroot-guide/</link>
+      <link>http://localhost:1313/posts/chroot-guide/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/chroot-guide/</guid>
+      <guid>http://localhost:1313/posts/chroot-guide/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Info 
@@ -8239,15 +8239,15 @@ Download Bluefin Aurora
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;umount -f /mnt
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;After this you will be able to safely reboot.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/chroot-guide/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chroot-guide/featured.webp" />
     </item>
     
     <item>
       <title>Converseen, the batch image converter</title>
-      <link>https://xerolinux.xyz/posts/coverseen-img-convert/</link>
+      <link>http://localhost:1313/posts/coverseen-img-convert/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/coverseen-img-convert/</guid>
+      <guid>http://localhost:1313/posts/coverseen-img-convert/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;This one such a time saver.. 
@@ -8364,15 +8364,15 @@ Download Bluefin Aurora
 &lt;/a&gt;
 &lt;p&gt;Have fun :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/coverseen-img-convert/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/coverseen-img-convert/featured.webp" />
     </item>
     
     <item>
       <title>DConf Editor Gnome</title>
-      <link>https://xerolinux.xyz/posts/dconf-editor/</link>
+      <link>http://localhost:1313/posts/dconf-editor/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/dconf-editor/</guid>
+      <guid>http://localhost:1313/posts/dconf-editor/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -8415,15 +8415,15 @@ Download Bluefin Aurora
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Keep the backup file in a safe place to use it later after reinstalling your Linux desktop.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/dconf-editor/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dconf-editor/featured.webp" />
     </item>
     
     <item>
       <title>Docker &amp; Docker-Compose</title>
-      <link>https://xerolinux.xyz/posts/docker-usage/</link>
+      <link>http://localhost:1313/posts/docker-usage/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/docker-usage/</guid>
+      <guid>http://localhost:1313/posts/docker-usage/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -8538,15 +8538,15 @@ Download Bluefin Aurora
 &lt;p&gt;So far what we have done here, is deploy container for local access. If you want to access it outside your Network, well, for this you will have to own your own Domain name, set up Nginx Proxy manager, use Cloudflare and so on. But that&amp;rsquo;s for another day. This guide was to get your appetite wet, lol..&lt;/p&gt;
 &lt;p&gt;I hope you enjoy, and will see you in the next part.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/docker-usage/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/docker-usage/featured.webp" />
     </item>
     
     <item>
       <title>Enable Snaps on Arch</title>
-      <link>https://xerolinux.xyz/posts/enable-snaps/</link>
+      <link>http://localhost:1313/posts/enable-snaps/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/enable-snaps/</guid>
+      <guid>http://localhost:1313/posts/enable-snaps/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What are Snaps ? 
@@ -8591,15 +8591,15 @@ Download Bluefin Aurora
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This might take a while depending on your connection since it has to populate the massive database on first install, just be patient while it does that. Finally launch the store from the App-menu..&lt;/p&gt;
 &lt;p&gt;I hope this helps y&amp;rsquo;all&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/enable-snaps/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/enable-snaps/featured.webp" />
     </item>
     
     <item>
       <title>Ferdium WebApp</title>
-      <link>https://xerolinux.xyz/posts/ferdium-web/</link>
+      <link>http://localhost:1313/posts/ferdium-web/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ferdium-web/</guid>
+      <guid>http://localhost:1313/posts/ferdium-web/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -8716,15 +8716,15 @@ Download Bluefin Aurora
 &lt;/a&gt;
 &lt;p&gt;Have fun :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ferdium-web/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ferdium-web/featured.webp" />
     </item>
     
     <item>
       <title>Flatpak Tips &amp; Tricks</title>
-      <link>https://xerolinux.xyz/posts/flatpak-tips/</link>
+      <link>http://localhost:1313/posts/flatpak-tips/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/flatpak-tips/</guid>
+      <guid>http://localhost:1313/posts/flatpak-tips/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -8832,15 +8832,15 @@ Download Bluefin Aurora
 &lt;/h3&gt;
 &lt;p&gt;Flatpak should be the one and only method to deliver apps. Please note I said &amp;ldquo;Apps&amp;rdquo;. There are things that can never be delivered as Flatpaks, like DEs and WMs, among many system related, like Tweaks, Themes, Kernels etc.. So as much as we want a single method for EVERYTHING, sadly that is impossible.. Still Flatpak should overtake the likes of Snaps and AppImages in my opinion&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/flatpak-tips/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flatpak-tips/featured.webp" />
     </item>
     
     <item>
       <title>How To Downgrade Packages</title>
-      <link>https://xerolinux.xyz/posts/downgrade-tool/</link>
+      <link>http://localhost:1313/posts/downgrade-tool/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/downgrade-tool/</guid>
+      <guid>http://localhost:1313/posts/downgrade-tool/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Downgrade ? 
@@ -8895,15 +8895,15 @@ Download Bluefin Aurora
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Just type the package number of your choice, and hit enter to install it.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s it. The current installed package will be downgraded to the old version.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/downgrade-tool/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/downgrade-tool/featured.webp" />
     </item>
     
     <item>
       <title>Install Yay or Paru</title>
-      <link>https://xerolinux.xyz/posts/install-yay-paru/</link>
+      <link>http://localhost:1313/posts/install-yay-paru/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/install-yay-paru/</guid>
+      <guid>http://localhost:1313/posts/install-yay-paru/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What Are Those? 
@@ -8968,15 +8968,15 @@ Download Bluefin Aurora
 &lt;/h3&gt;
 &lt;p&gt;Once that is done, you can use it to start installing packages from the &lt;a href=&#34;https://aur.archlinux.org&#34; target=&#34;_blank&#34;&gt;AUR&lt;/a&gt;. Keep in mind that you do not need to install both; just select the one you prefer, either one works.. I would recommend YaY myself though.. &lt;a href=&#34;https://wiki.archlinux.org/title/AUR_helpers&#34; target=&#34;_blank&#34;&gt;ArchWiki Page&lt;/a&gt;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/install-yay-paru/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/install-yay-paru/featured.webp" />
     </item>
     
     <item>
       <title>Konsave TUI</title>
-      <link>https://xerolinux.xyz/posts/konsave-tool/</link>
+      <link>http://localhost:1313/posts/konsave-tool/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/konsave-tool/</guid>
+      <guid>http://localhost:1313/posts/konsave-tool/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -9092,15 +9092,15 @@ Download Bluefin Aurora
 &lt;/a&gt;
 &lt;p&gt;Have fun and start sharing your configs&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/konsave-tool/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/konsave-tool/featured.webp" />
     </item>
     
     <item>
       <title>LightlyShaders Effects</title>
-      <link>https://xerolinux.xyz/posts/lightly-shaders/</link>
+      <link>http://localhost:1313/posts/lightly-shaders/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/lightly-shaders/</guid>
+      <guid>http://localhost:1313/posts/lightly-shaders/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it ? 
@@ -9252,15 +9252,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/lightly-shaders/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lightly-shaders/featured.webp" />
     </item>
     
     <item>
       <title>Make KDE apps use System theme in XFCE/Gnome</title>
-      <link>https://xerolinux.xyz/posts/fix-grub/</link>
+      <link>http://localhost:1313/posts/fix-grub/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/fix-grub/</guid>
+      <guid>http://localhost:1313/posts/fix-grub/</guid>
       <description>&lt;p&gt;
   &lt;figure&gt;
     &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/FlfFJ0o.png&#34; alt=&#34;[Image: FlfFJ0o.png]&#34; /&gt;
@@ -9333,15 +9333,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo umount /mnt/boot/efi
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo umount /mnt
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/fix-grub/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fix-grub/featured.webp" />
     </item>
     
     <item>
       <title>Make KDE apps use System theme in XFCE/Gnome</title>
-      <link>https://xerolinux.xyz/posts/theme-qt-apps-on-gtk-de/</link>
+      <link>http://localhost:1313/posts/theme-qt-apps-on-gtk-de/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/theme-qt-apps-on-gtk-de/</guid>
+      <guid>http://localhost:1313/posts/theme-qt-apps-on-gtk-de/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -9417,15 +9417,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;p&gt;Upon applying your changes, KDE applications on XFCE 4 should be using the Kvantum theme set up earlier. This method works the same way on both &lt;strong&gt;XFCE &amp;amp; GNOME&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Guide by: &lt;strong&gt;&lt;a href=&#34;https://www.addictivetips.com/ubuntu-linux-tips/make-kde-apps-look-better/&#34; target=&#34;_blank&#34;&gt;AddictiveTips.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/theme-qt-apps-on-gtk-de/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/theme-qt-apps-on-gtk-de/featured.webp" />
     </item>
     
     <item>
       <title>ML4W Plasma &#43; Hyprland side-by-side</title>
-      <link>https://xerolinux.xyz/posts/ml4w-hyprland-plasma/</link>
+      <link>http://localhost:1313/posts/ml4w-hyprland-plasma/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ml4w-hyprland-plasma/</guid>
+      <guid>http://localhost:1313/posts/ml4w-hyprland-plasma/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -9515,15 +9515,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ml4w-hyprland-plasma/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ml4w-hyprland-plasma/featured.webp" />
     </item>
     
     <item>
       <title>OBS Studio Official Package</title>
-      <link>https://xerolinux.xyz/posts/obs-official/</link>
+      <link>http://localhost:1313/posts/obs-official/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/obs-official/</guid>
+      <guid>http://localhost:1313/posts/obs-official/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is OBS Studio? 
@@ -9642,15 +9642,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;/a&gt;
 &lt;p&gt;Have fun :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/obs-official/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/obs-official/featured.webp" />
     </item>
     
     <item>
       <title>Pacman Issues</title>
-      <link>https://xerolinux.xyz/posts/pacman-issues/</link>
+      <link>http://localhost:1313/posts/pacman-issues/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/pacman-issues/</guid>
+      <guid>http://localhost:1313/posts/pacman-issues/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Info 
@@ -9665,15 +9665,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 
 &lt;p&gt;Have fun :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/pacman-issues/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pacman-issues/featured.webp" />
     </item>
     
     <item>
       <title>PacSeek TUI</title>
-      <link>https://xerolinux.xyz/posts/pacseek-tui/</link>
+      <link>http://localhost:1313/posts/pacseek-tui/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/pacseek-tui/</guid>
+      <guid>http://localhost:1313/posts/pacseek-tui/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -9794,15 +9794,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/pacseek-tui/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pacseek-tui/featured.webp" />
     </item>
     
     <item>
       <title>Recover deleted files in Linux</title>
-      <link>https://xerolinux.xyz/posts/recover-deleted-files/</link>
+      <link>http://localhost:1313/posts/recover-deleted-files/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/recover-deleted-files/</guid>
+      <guid>http://localhost:1313/posts/recover-deleted-files/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Introduction 
@@ -9830,15 +9830,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
     &lt;/div&gt;
 
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/recover-deleted-files/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/recover-deleted-files/featured.webp" />
     </item>
     
     <item>
       <title>Stremio - Best Streaming tool</title>
-      <link>https://xerolinux.xyz/posts/stremio-tool/</link>
+      <link>http://localhost:1313/posts/stremio-tool/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/stremio-tool/</guid>
+      <guid>http://localhost:1313/posts/stremio-tool/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Stremio? 
@@ -9950,15 +9950,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/stremio-tool/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/stremio-tool/featured.webp" />
     </item>
     
     <item>
       <title>Tabby Terminal</title>
-      <link>https://xerolinux.xyz/posts/tabby-terminal/</link>
+      <link>http://localhost:1313/posts/tabby-terminal/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/tabby-terminal/</guid>
+      <guid>http://localhost:1313/posts/tabby-terminal/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -10065,15 +10065,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;/blockquote&gt;
 &lt;p&gt;Yet another tool to add to the arsenal&amp;hellip;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/tabby-terminal/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tabby-terminal/featured.webp" />
     </item>
     
     <item>
       <title>Theming Flatpaks</title>
-      <link>https://xerolinux.xyz/posts/flatpak-theming/</link>
+      <link>http://localhost:1313/posts/flatpak-theming/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/flatpak-theming/</guid>
+      <guid>http://localhost:1313/posts/flatpak-theming/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -10124,15 +10124,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s the Original Thread on &lt;a href=&#34;https://forum.manjaro.org/t/add-out-of-the-box-flatpak-gtk-application-themes-for-kde-plasma-users/117103&#34; target=&#34;_blank&#34;&gt;Manjaro Forums&lt;/a&gt;&amp;hellip; Oh and &lt;a href=&#34;https://itsfoss.com/flatpak-app-apply-theme/&#34; target=&#34;_blank&#34;&gt;This Thread&lt;/a&gt; Too&amp;hellip;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/flatpak-theming/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flatpak-theming/featured.webp" />
     </item>
     
     <item>
       <title>TKG nVidia-AiO Installer</title>
-      <link>https://xerolinux.xyz/posts/tkg-nvidia-all/</link>
+      <link>http://localhost:1313/posts/tkg-nvidia-all/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/tkg-nvidia-all/</guid>
+      <guid>http://localhost:1313/posts/tkg-nvidia-all/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Introduction 
@@ -10260,15 +10260,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;p&gt;I hope this discovery helps you fix them issues. I never said this will be &lt;strong&gt;THE&lt;/strong&gt; fix, but it could be I have no idea.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s why I would love it if you reported back your experience with it below. Did it work or not? What issues did you encounter? You need help?&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/tkg-nvidia-all/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tkg-nvidia-all/featured.webp" />
     </item>
     
     <item>
       <title>Ventoy - Best multi-boot tool</title>
-      <link>https://xerolinux.xyz/posts/ventoy-multi-boot/</link>
+      <link>http://localhost:1313/posts/ventoy-multi-boot/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ventoy-multi-boot/</guid>
+      <guid>http://localhost:1313/posts/ventoy-multi-boot/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Preface 
@@ -10398,15 +10398,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yay or paru -S ventoy-bin
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;That&amp;rsquo;s it ! Enjoy your distro-hopping. Maybe you find the one that fits your needs the best :smile:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ventoy-multi-boot/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ventoy-multi-boot/featured.webp" />
     </item>
     
     <item>
       <title>Wallpaper Engine for Plasma</title>
-      <link>https://xerolinux.xyz/posts/wallpaper-engine/</link>
+      <link>http://localhost:1313/posts/wallpaper-engine/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/wallpaper-engine/</guid>
+      <guid>http://localhost:1313/posts/wallpaper-engine/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -10517,15 +10517,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;p&gt;Well I do not and cannot use &lt;strong&gt;Wayland&lt;/strong&gt; due to my aging GPU. But if you do use it, then there&amp;rsquo;s another tool based on &lt;strong&gt;Wallpaper Engine&lt;/strong&gt; for it. Try it out..&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;paru -S waywe
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/wallpaper-engine/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/wallpaper-engine/featured.webp" />
     </item>
     
     <item>
       <title>Warehouse Flatpak Toolbox</title>
-      <link>https://xerolinux.xyz/posts/warehouse-flatpak/</link>
+      <link>http://localhost:1313/posts/warehouse-flatpak/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/warehouse-flatpak/</guid>
+      <guid>http://localhost:1313/posts/warehouse-flatpak/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -10632,15 +10632,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
   &lt;/script&gt;
 &lt;/a&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/warehouse-flatpak/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/warehouse-flatpak/featured.webp" />
     </item>
     
     <item>
       <title>Zoxide the smarter cd command</title>
-      <link>https://xerolinux.xyz/posts/zoxide-cd/</link>
+      <link>http://localhost:1313/posts/zoxide-cd/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/zoxide-cd/</guid>
+      <guid>http://localhost:1313/posts/zoxide-cd/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -10746,15 +10746,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;/a&gt;
 &lt;p&gt;Enjoy :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/zoxide-cd/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/zoxide-cd/featured.webp" />
     </item>
     
     <item>
       <title>Homebrew on Linux</title>
-      <link>https://xerolinux.xyz/posts/homebrew-linux/</link>
+      <link>http://localhost:1313/posts/homebrew-linux/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/homebrew-linux/</guid>
+      <guid>http://localhost:1313/posts/homebrew-linux/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -10882,15 +10882,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;p&gt;That’s it folks ..&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/homebrew-linux/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/homebrew-linux/featured.webp" />
     </item>
     
     <item>
       <title>Topgrade AiO Updater</title>
-      <link>https://xerolinux.xyz/posts/topgrade-updater/</link>
+      <link>http://localhost:1313/posts/topgrade-updater/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/topgrade-updater/</guid>
+      <guid>http://localhost:1313/posts/topgrade-updater/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -11048,15 +11048,15 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;p&gt;&lt;strong&gt;Topgrade&lt;/strong&gt; gives you a ton of power when it comes to keeping your system up to date. That said, it may be overkill if you just want to keep your system up to date and secure. If you don’t install much third-party software, you may not need Topgrade.&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/topgrade-updater/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/topgrade-updater/featured.webp" />
     </item>
     
     <item>
       <title>Ventoy Persistence</title>
-      <link>https://xerolinux.xyz/posts/ventoy-persistence/</link>
+      <link>http://localhost:1313/posts/ventoy-persistence/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/ventoy-persistence/</guid>
+      <guid>http://localhost:1313/posts/ventoy-persistence/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;Intro 
@@ -11102,7 +11102,7 @@ cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX
 &lt;p&gt;Now if you boot into the Xero Linux ISO any changes that you make to it should get saved.&lt;/p&gt;
 &lt;p&gt;Cheers :heart:&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/ventoy-persistence/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ventoy-persistence/featured.webp" />
     </item>
     
   </channel>

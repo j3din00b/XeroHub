@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Effects on XeroLinux HQ</title>
-    <link>https://xerolinux.xyz/tags/effects/</link>
+    <link>http://localhost:1313/tags/effects/</link>
     <description>Recent content in Effects on XeroLinux HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ 🫨</copyright>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xerolinux.xyz/tags/effects/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Proudly made in Lebanon &lt;img src=&#39;http://localhost:1313/logos/lb.png&#39; alt=&#39;🇱🇧&#39; width=&#39;32&#39; height=&#39;32&#39; style=&#39;margin: 0; display: inline; vertical-align: middle;&#39;&gt;</copyright>
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/effects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Burn My Windows Desktop Effects</title>
-      <link>https://xerolinux.xyz/posts/burn-my-windows/</link>
+      <link>http://localhost:1313/posts/burn-my-windows/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://xerolinux.xyz/posts/burn-my-windows/</guid>
+      <guid>http://localhost:1313/posts/burn-my-windows/</guid>
       <description>
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is it? 
@@ -130,7 +130,7 @@
 &lt;p&gt;I understand some of you might be thinking, &amp;ldquo;Why add more features to an already feature-rich desktop environment?&amp;rdquo; My response is simple: no one is forcing you to. I&amp;rsquo;m sharing this because &lt;strong&gt;Plasma&lt;/strong&gt; is incredibly customizable, so why not enhance it with some cool effects? I personally enjoy them and find them quite neat. If you don&amp;rsquo;t, feel free to skip them. It&amp;rsquo;s as simple as that. I&amp;rsquo;m not trying to be harsh—just acknowledging that many of us tend to have very strong opinions when it comes to such things.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s that simple!!&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xerolinux.xyz/posts/burn-my-windows/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/burn-my-windows/featured.webp" />
     </item>
     
   </channel>
