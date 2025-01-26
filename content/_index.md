@@ -3,7 +3,7 @@ logo: "logos/logo.png"
 description: "The XeroLinux HQ"
 ---
 
-<h1 align="center">🔥 XeroLinux Distro 🔥</h1>
+<h1 align="center">🔥 XeroLinux 🔥</h1>
 
 <div align="center">
 
@@ -11,7 +11,7 @@ description: "The XeroLinux HQ"
   tag=h4
   speed=120
 >}}
-🇱🇧 Discover a Distro Fueled by Passion and Love for GNU/Linux. 🇱🇧
+<img src="/logos/lb.webp" style="display: inline-block; vertical-align: middle; height: 0.75em; ; margin: 0;"> Discover a Distro Fueled by our Passion for GNU/Linux. <img src="/logos/lb.webp" style="display: inline-block; vertical-align: middle; height: 0.75em; ; margin: 0;">
 {{< /typeit >}}
 
 </div>
@@ -46,7 +46,7 @@ Whether you're pursuing production work, gaming, or software development, **Xero
 
 #### Supporting Innovation and Community
 
-By choosing **XeroLinux**, you will be directly helping support the project's development. The ISO offerings represent more than just software, they're a meaningful way for you to contribute to an open-source initiative during challenging times.
+By choosing **XeroLinux**, you will be directly helping support the project's development. The ISO offerings represent more than just software, they're a meaningful way for you to contribute to an open-source initiative during these challenging times here in **Lebanon**. <img src="/logos/lb.webp" style="display: inline-block; vertical-align: middle; height: 1.15em; ; margin: 0;">
 
 **XeroLinux** embodies the true spirit of **ArchLinux**: a platform where you have the freedom to create your ideal computing environment, guided by curiosity, learning, and personal preference. ❤️‍🔥
 
