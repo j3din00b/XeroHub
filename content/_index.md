@@ -9,7 +9,7 @@ description: "The XeroLinux HQ"
 
 {{< typeit 
   tag=h4
-  speed=96
+  speed=120
 >}}
 🇱🇧 Discover a Distro Fueled by Passion and Love for GNU/Linux. 🇱🇧
 {{< /typeit >}}
@@ -20,7 +20,7 @@ description: "The XeroLinux HQ"
 
 {{< carousel images="shots/*" aspectRatio="16-9" interval="3600" >}}
 
-Check out Project <a href="https://github.com/**XeroLinux**Dev/xero-build" target="_blank"><strong>Source Code</strong></a> and Distro <a href="https://wiki.xerolinux.xyz/distro/" target="_blank"><strong>Wiki</strong></a> for further information.</div>
+Check out Project <a href="https://github.com/XeroLinuxDev/xero-build" target="_blank"><strong>Source Code</strong></a> and Distro <a href="https://wiki.xerolinux.xyz/distro/" target="_blank"><strong>Wiki</strong></a> for further information.</div>
 
 <div align="center">
 
