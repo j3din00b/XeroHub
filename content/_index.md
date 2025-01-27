@@ -24,13 +24,13 @@ Check out Project <a href="https://github.com/XeroLinuxDev/xero-build" target="_
 
 <div align="center">
 
-####  🔻 Unlock Access 🔻 
+###  🔻 Unlock Access 🔻 
 
 {{< button href="https://ko-fi.com/xerolinux/shop" target="_blank" >}}
 XeroLinux on Ko-Fi
 {{< /button >}}
 
-</div>
+</div><br />
 
 #### XeroLinux: Arch, Effortlessly Refined
 

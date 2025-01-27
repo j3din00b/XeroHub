@@ -86,3 +86,23 @@ a:hover, button:hover {
     position: relative;
     z-index: 1;
 }
+
+/* Wrap a single box around the first heading and ALL following h4s and paragraphs */
+article > section h4.relative.group:first-of-type,
+article > section h4.relative.group:first-of-type ~ h4,
+article > section h4.relative.group:first-of-type ~ p {
+    background: rgba(0, 0, 0, 0.25); /* Semi-transparent black background */
+    border: 2px solid rgba(255, 255, 255, 0.3); /* Subtle border */
+    border-radius: 12px; /* Rounded corners */
+    padding: 20px; /* Internal spacing */
+    margin: 20px auto; /* Space around the box */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Shadow for depth */
+    max-width: 800px; /* Optional: constrain width */
+    color: white; /* Ensure readability */
+}
+
+
+
+
+
+

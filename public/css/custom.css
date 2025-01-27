@@ -1,13 +1,18 @@
-/* Add a background image to the main page */
+/* Apply a brighter gradient with enhanced blue */
 body {
-    background-image: url('/img/gradient.png');
-    background-size: cover;
+    background:
+    linear-gradient(to bottom, rgba(193, 133, 213, 0.8), rgba(89, 59, 175, 0.8), rgba(52, 74, 164, 0.8)), /* Enhanced gradient with more blue */
+    url('/img/traces.png'); /* Correct image path */
+    background-size: cover; /* Ensures the image covers the entire background */
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: fixed; /* Keeps it in place when scrolling */
     min-height: 100vh;
+    margin: 0;
+    overflow-y: auto; /* Ensure scrolling works */
+    position: relative;
 }
 
-/* Add a blur effect to the background */
+/* Add a blurred effect to soften the image slightly */
 body::before {
     content: '';
     position: fixed;
@@ -16,11 +21,11 @@ body::before {
     width: 100%;
     height: 100%;
     background: inherit;
-    filter: blur(8px); /* Blur setting */
-    z-index: -1;
+    filter: blur(4px); /* Subtle blur */
+    z-index: -1; /* Ensures it remains in the background */
 }
 
-/* Add a subtle overlay to improve readability */
+/* Optional: Add a slightly darker overlay for better text readability */
 body::after {
     content: '';
     position: fixed;
@@ -28,9 +33,12 @@ body::after {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Adjust opacity as needed */
+    background: rgba(0, 0, 0, 0.15); /* Slightly lighter overlay */
     z-index: -1;
+    pointer-events: none; /* Prevent overlay from interfering with interactions */
 }
+
+
 
 /* Add a subtle animation to the main content */
 .main-content {
@@ -78,3 +86,23 @@ a:hover, button:hover {
     position: relative;
     z-index: 1;
 }
+
+/* Wrap a single box around the first heading and ALL following h4s and paragraphs */
+article > section h4.relative.group:first-of-type,
+article > section h4.relative.group:first-of-type ~ h4,
+article > section h4.relative.group:first-of-type ~ p {
+    background: rgba(0, 0, 0, 0.25); /* Semi-transparent black background */
+    border: 2px solid rgba(255, 255, 255, 0.3); /* Subtle border */
+    border-radius: 12px; /* Rounded corners */
+    padding: 20px; /* Internal spacing */
+    margin: 20px auto; /* Space around the box */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Shadow for depth */
+    max-width: 800px; /* Optional: constrain width */
+    color: white; /* Ensure readability */
+}
+
+
+
+
+
+
