@@ -40,6 +40,8 @@ XeroLinux on Ko-Fi
 
 The distribution also provides pre-configured environments that serve as an elegant, functional starting point for you. Unlike more heavily modified, and single purpose distributions, **XeroLinux** provides a basic framework that allows you to configure and learn about your system, encouraging you to understand and shape your system's configuration.
 
+<h3 align="center">📺 <a href="https://www.youtube.com/watch?v=lsYg6-wUWXw" target="_blank"><strong>Preview Video</strong></a> 📺</h3>
+
 #### Designed for Your Unique Needs
 
 Whether you're pursuing production work, gaming, or software development, **XeroLinux** offers a versatile foundation. The included [**Toolkit**](https://wiki.xerolinux.xyz/xlapit/) and system improvements create a refined initial environment, while leaving ample room for you to adapt and learn.
@@ -49,8 +51,6 @@ Whether you're pursuing production work, gaming, or software development, **Xero
 By choosing **XeroLinux**, you will be directly helping support the project's development. The ISO offerings represent more than just software, they're a meaningful way for you to contribute to an open-source initiative during these challenging times.
 
 **XeroLinux** embodies the true spirit of **ArchLinux**: a platform where you have the freedom to create your ideal computing environment, guided by curiosity, learning, and personal preference. ❤️‍🔥
-
-<h3 align="center">📺 <a href="https://www.youtube.com/watch?v=lsYg6-wUWXw" target="_blank"><strong>Preview Video</strong></a> 📺</h3>
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
