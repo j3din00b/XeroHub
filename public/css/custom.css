@@ -95,6 +95,25 @@ article > section h4.relative.group:first-of-type ~ p {
     padding: 20px; /* Internal spacing */
     margin: 20px auto; /* Space around the box */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Shadow for depth */
-    max-width: 800px; /* Optional: constrain width */
     color: white; /* Ensure readability */
 }
+
+/* Update text fields to cover the entire width of the viewport */
+input[type="text"], textarea {
+    display: block; /* Ensure fields behave as block elements */
+    width: 100%; /* Cover the full width of the viewport */
+    padding: 10px; /* Add padding for a comfortable typing area */
+    margin: 10px 0; /* Add vertical spacing between fields */
+    border: 1px solid rgba(0, 0, 0, 0.2); /* Subtle border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    background-color: rgba(255, 255, 255, 0.9); /* Light background for clarity */
+    transition: all 0.3s ease; /* Smooth focus transition */
+}
+
+input[type="text"]:focus, textarea:focus {
+    border-color: rgba(60, 60, 150, 0.8); /* Highlight border on focus */
+    box-shadow: 0 6px 12px rgba(60, 60, 150, 0.2); /* Enhanced shadow on focus */
+    outline: none; /* Remove default focus outline */
+}
+
