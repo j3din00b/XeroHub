@@ -715,7 +715,7 @@
 &lt;p&gt;That being said, I have been following Hyprland&amp;rsquo;s growth as time went on, especially all the rices being created for it. I have seen so many awesome ones, but the one that caught my eye, which we will be talking about, is the one by a guy named &lt;a href=&#34;https://gitlab.com/stephan-raabe&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;@Stephan Raabe&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/GHYk1Iv4GkY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/sVFnd5LAYAc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;p&gt;As you can see from the video above, he has gone above and beyond the natural limits, making &lt;strong&gt;Hyprland&lt;/strong&gt; all that more fun and easy to use by creating &lt;em&gt;GUI Config Tools&lt;/em&gt; written in &lt;strong&gt;GTK&lt;/strong&gt; not only for his dots but you can effortlessly configure almost every aspect of &lt;strong&gt;Hyprland&lt;/strong&gt; making it truly your own. It&amp;rsquo;s truly amazing !!!!&lt;/p&gt;
@@ -736,6 +736,7 @@
 &lt;li&gt;Manjaro Linux&lt;/li&gt;
 &lt;li&gt;Garuda Linux&lt;/li&gt;
 &lt;li&gt;Arco Linux&lt;/li&gt;
+&lt;li&gt;XeroLinux w/Hyprland&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;For &lt;strong&gt;Manjaro&lt;/strong&gt; users: Hyprland and required packages are under ongoing development. That&amp;rsquo;s why it could be possible that some packages are not immediately available on Manjaro. But usually, the packages will be published later. Maybe you can install required packages manually.&lt;/p&gt;
@@ -754,7 +755,9 @@
 &lt;p&gt;With main points out of the way, he made installation so simple, as simple as running a script and following prompts. The script will download all files from GitLab and start the installation.&lt;/p&gt;
 &lt;p&gt;Just copy/enter the following command into your terminal.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;bash &amp;lt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;curl -s https://gitlab.com/stephan-raabe/dotfiles/-/raw/main/setup.sh&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finally, find link to the &lt;strong&gt;Git Repo&lt;/strong&gt; below, or if you want head directly to the WiKi, click here &amp;raquo; &lt;a href=&#34;https://gitlab.com/stephan-raabe/dotfiles/-/wikis/Home/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;ML4W Dots Wiki&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or from the &lt;strong&gt;AUR&lt;/strong&gt; using either &lt;code&gt;yay&lt;/code&gt; or &lt;code&gt;paru&lt;/code&gt; up to you.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yay/paru -S --noconfirm --needed ml4w-hyprland &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; ml4w-hyprland-setup
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Finally, find link to the &lt;strong&gt;Git Repo&lt;/strong&gt; below, or if you want head directly to the project website, click here &amp;raquo; &lt;a href=&#34;https://www.ml4w.com&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;MyLinuxForWork&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&#34;github-335bc09a11197591f1ac4202a70da0ba&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mylinuxforwork/dotfiles&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
     class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;

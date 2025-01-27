@@ -15,7 +15,7 @@ Before getting to it, I would like to say that, while I, myself do not and will 
 
 That being said, I have been following Hyprland's growth as time went on, especially all the rices being created for it. I have seen so many awesome ones, but the one that caught my eye, which we will be talking about, is the one by a guy named [**@Stephan Raabe**](https://gitlab.com/stephan-raabe).
 
-{{< youtube GHYk1Iv4GkY >}}
+{{< youtube sVFnd5LAYAc >}}
 
 As you can see from the video above, he has gone above and beyond the natural limits, making **Hyprland** all that more fun and easy to use by creating *GUI Config Tools* written in **GTK** not only for his dots but you can effortlessly configure almost every aspect of **Hyprland** making it truly your own. It's truly amazing !!!!
 
@@ -32,6 +32,7 @@ Before we start, just know that the **ML4W** Dotfiles should work on all Arch Li
 - Manjaro Linux
 - Garuda Linux
 - Arco Linux
+- XeroLinux w/Hyprland
 
 > For **Manjaro** users: Hyprland and required packages are under ongoing development. That's why it could be possible that some packages are not immediately available on Manjaro. But usually, the packages will be published later. Maybe you can install required packages manually.
 
@@ -51,7 +52,13 @@ Just copy/enter the following command into your terminal.
 bash <(curl -s https://gitlab.com/stephan-raabe/dotfiles/-/raw/main/setup.sh)
 ```
 
-Finally, find link to the **Git Repo** below, or if you want head directly to the WiKi, click here >> [**ML4W Dots Wiki**](https://gitlab.com/stephan-raabe/dotfiles/-/wikis/Home/)
+Or from the **AUR** using either `yay` or `paru` up to you.
+
+```Bash
+yay/paru -S --noconfirm --needed ml4w-hyprland && ml4w-hyprland-setup
+```
+
+Finally, find link to the **Git Repo** below, or if you want head directly to the project website, click here >> [**MyLinuxForWork**](https://www.ml4w.com)
 
 {{< github repo="mylinuxforwork/dotfiles" >}}
 
