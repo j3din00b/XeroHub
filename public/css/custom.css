@@ -1,7 +1,7 @@
-/* Apply a brighter gradient with enhanced blue */
+/* Complete CSS with a diagonal gradient featuring enhanced blue tones and softened pink */
 body {
     background:
-    linear-gradient(to bottom, rgba(193, 133, 213, 0.8), rgba(89, 59, 175, 0.8), rgba(52, 74, 164, 0.8)), /* Enhanced gradient with more blue */
+    linear-gradient(to bottom right, rgba(30, 30, 100, 0.9), rgba(60, 60, 150, 0.9), rgba(200, 100, 160, 0.7)), /* Diagonal gradient with more blue and softened pink */
     url('/img/traces.png'); /* Correct image path */
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center;
@@ -33,12 +33,10 @@ body::after {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.15); /* Slightly lighter overlay */
+    background: rgba(0, 0, 0, 0.25); /* Slightly darker overlay */
     z-index: -1;
     pointer-events: none; /* Prevent overlay from interfering with interactions */
 }
-
-
 
 /* Add a subtle animation to the main content */
 .main-content {
@@ -100,9 +98,3 @@ article > section h4.relative.group:first-of-type ~ p {
     max-width: 800px; /* Optional: constrain width */
     color: white; /* Ensure readability */
 }
-
-
-
-
-
-
